@@ -97,10 +97,11 @@
         ${
           stage === "email"
             ? `<input id="email" type="email" inputmode="email" autocomplete="email" placeholder="you@email.com" value="${esc(email || "")}" />
-               <button class="submit" id="sendBtn">Send me a code</button>`
-            : `<p style="color:var(--ink-soft);font-size:.9rem">We sent a 6-digit code to<br><b>${esc(email)}</b></p>
-               <input id="code" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="••••••" style="letter-spacing:.4em;font-size:1.3rem" />
-               <button class="submit" id="verifyBtn">Verify &amp; enter</button>
+               <button class="submit" id="sendBtn">Email me a sign-in link</button>`
+            : `<p style="color:var(--ink-soft);font-size:.9rem">Sent to <b>${esc(email)}</b>.<br><b>Tap the link in that email on this device</b> — it opens the app already signed in.</p>
+               <p style="color:var(--ink-faint);font-size:.8rem;margin:2px 0">Or, if your email shows a 6-digit code:</p>
+               <input id="code" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="6-digit code" style="letter-spacing:.3em;font-size:1.2rem" />
+               <button class="submit" id="verifyBtn">Enter code</button>
                <button id="backBtn" style="color:var(--ink-soft);font-size:.85rem">Use a different email</button>`
         }
         <div class="auth-msg ${msgClass || ""}" id="authMsg">${esc(msg || "")}</div>
@@ -119,6 +120,9 @@
         $("#sendBtn").disabled = false;
         if (error) return setMsg(error.message, "err");
         renderAuth("code", em, "Check your inbox (and spam).", "ok");
+        // If the user taps the link on this device, detectSessionInUrl logs them in;
+        // re-check the session when the tab regains focus.
+        window.addEventListener("focus", recheckSession);
       };
       $("#sendBtn").onclick = send;
       $("#email").onkeydown = (e) => e.key === "Enter" && send();
@@ -859,6 +863,15 @@
   // ============================================================
   // START
   // ============================================================
+  async function recheckSession() {
+    if (state.user) return;
+    const { data } = await sb.auth.getSession();
+    if (data && data.session && data.session.user) {
+      window.removeEventListener("focus", recheckSession);
+      boot(data.session.user);
+    }
+  }
+
   async function start() {
     const { data } = await sb.auth.getSession();
     if (data && data.session && data.session.user) {
