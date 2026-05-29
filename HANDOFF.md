@@ -36,7 +36,8 @@ See **README.md §1–3**. Short version:
 **Repo / local (`C:\Users\Micha\Downloads\ko-weekend-sprint`)**
 - `app/` (=`docs/` for Pages): `index.html`, `app.css`, `app.js`, `config.js`, `fsrs.js`
 - `content/`: `hangul.json`, `words_base.json`, `words_part_1..6.json`, `seed_items.json`, `audio_manifest.json`
-- `scripts/`: `build_content.py`, `generate_audio.py`, `upload_to_storage.py`, `qa_smoke.mjs`
+- Writing additions: `content/hangul_strokes.json`, `content/hangul_blocks.json`, `/write` route, stroke animator, trace canvas, and separate writing FSRS directions.
+- `scripts/`: `build_content.py`, `build_strokes.py`, `generate_audio.py`, `upload_to_storage.py`, `qa_smoke.mjs`
 - `.env` (ElevenLabs key) — **gitignored, never pushed**
 
 ## Security notes

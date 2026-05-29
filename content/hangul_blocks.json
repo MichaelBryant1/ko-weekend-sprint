@@ -1,0 +1,94 @@
+{
+ "가": {
+  "components": [
+   "ㄱ",
+   "ㅏ"
+  ],
+  "layout": "left_right",
+  "note": "Vertical vowel ㅏ goes to the RIGHT of ㄱ."
+ },
+ "나": {
+  "components": [
+   "ㄴ",
+   "ㅏ"
+  ],
+  "layout": "left_right",
+  "note": "ㅏ to the right of ㄴ."
+ },
+ "고": {
+  "components": [
+   "ㄱ",
+   "ㅗ"
+  ],
+  "layout": "top_bottom",
+  "note": "Horizontal vowel ㅗ goes BELOW ㄱ."
+ },
+ "구": {
+  "components": [
+   "ㄱ",
+   "ㅜ"
+  ],
+  "layout": "top_bottom",
+  "note": "Horizontal vowel ㅜ goes below ㄱ."
+ },
+ "다": {
+  "components": [
+   "ㄷ",
+   "ㅏ"
+  ],
+  "layout": "left_right",
+  "note": "ㅏ to the right of ㄷ."
+ },
+ "도": {
+  "components": [
+   "ㄷ",
+   "ㅗ"
+  ],
+  "layout": "top_bottom",
+  "note": "ㅗ below ㄷ."
+ },
+ "한": {
+  "components": [
+   "ㅎ",
+   "ㅏ",
+   "ㄴ"
+  ],
+  "layout": "left_right_bottom",
+  "note": "ㅎ + ㅏ on top, final ㄴ (batchim) at the BOTTOM."
+ },
+ "국": {
+  "components": [
+   "ㄱ",
+   "ㅜ",
+   "ㄱ"
+  ],
+  "layout": "top_bottom_bottom",
+  "note": "ㄱ + ㅜ, then final ㄱ at the bottom."
+ },
+ "말": {
+  "components": [
+   "ㅁ",
+   "ㅏ",
+   "ㄹ"
+  ],
+  "layout": "left_right_bottom",
+  "note": "ㅁ + ㅏ on top, final ㄹ at the bottom."
+ },
+ "사": {
+  "components": [
+   "ㅅ",
+   "ㅏ"
+  ],
+  "layout": "left_right",
+  "note": "ㅏ to the right of ㅅ."
+ },
+ "람": {
+  "components": [
+   "ㄹ",
+   "ㅏ",
+   "ㅁ"
+  ],
+  "layout": "left_right_bottom",
+  "note": "ㄹ + ㅏ on top, final ㅁ at the bottom."
+ }
+}

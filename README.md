@@ -52,8 +52,9 @@ on conflict (email) do nothing;
 |------|--------------|
 | **Home** | Weekend-sprint goals (Hangul / Words mastered), due count, quick start |
 | **Hangul** | 40 letters in 4 groups + a batchim (final-consonant) overview. Tap a tile → hear the letter name, see 3 example words, mark known. |
+| **Write** | Stroke-order animations, touch/mouse tracing canvas, writing review cards, syllable-block examples, and a blank practice pad. |
 | **Words** | All 300 words, searchable. Tap → word audio + 3 sentences (with audio) + romanization + English. |
-| **Review** | FSRS-6 spaced repetition. Four directions, **scheduled independently**: letter→sound, sound→letter, word→meaning, **listen→meaning**. Rate Again / Hard / Good / Easy. |
+| **Review** | FSRS-6 spaced repetition. Six directions, **scheduled independently**: letter→sound, sound→letter, symbol→write, write→symbol, word→meaning, **listen→meaning**. Rate Again / Hard / Good / Easy. |
 | **Progress** | Streak, accuracy, mastered counts, reviews over the last 30 days. |
 
 ## Architecture
@@ -66,6 +67,9 @@ on conflict (email) do nothing;
   **Yooni** for letters/words, **Minjoon** for sentences), served from a public
   Supabase Storage bucket (`ko-sprint`).
 - **Scheduler:** FSRS-6 implemented client-side in `app/fsrs.js`.
+- **Writing data:** hand-authored normalized `0–100` SVG stroke paths in
+  `content/hangul_strokes.json`, shipped with the static app so writing works
+  without needing a DB reseed.
 
 All tables are prefixed `ko_sprint_*` and are completely separate from the
 JP Atlas production data living in the same project.

@@ -9930,7 +9930,15 @@
      "romaja": "hakgyo",
      "audio_path": "audio/hangul_ex/hangul_giyeok_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 22 26 L 78 26 L 78 80",
+     "dir": "Follow the corners in order, in one stroke."
+    }
+   ],
+   "stroke_count": 1
   }
  },
  {
@@ -9964,7 +9972,15 @@
      "romaja": "nuna",
      "audio_path": "audio/hangul_ex/hangul_nieun_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 30 22 L 30 80 L 80 80",
+     "dir": "Follow the corners in order, in one stroke."
+    }
+   ],
+   "stroke_count": 1
   }
  },
  {
@@ -9998,7 +10014,20 @@
      "romaja": "gudu",
      "audio_path": "audio/hangul_ex/hangul_digeut_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 22 26 L 80 26",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 22 26 L 22 80 L 80 80",
+     "dir": "Follow the corners in order, in one stroke."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10032,7 +10061,25 @@
      "romaja": "mul",
      "audio_path": "audio/hangul_ex/hangul_rieul_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 24 24 L 70 24 L 70 48",
+     "dir": "Follow the corners in order, in one stroke."
+    },
+    {
+     "order": 2,
+     "d": "M 24 48 L 70 48",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 24 48 L 24 78 L 76 78",
+     "dir": "Follow the corners in order, in one stroke."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10066,7 +10113,25 @@
      "romaja": "ireum",
      "audio_path": "audio/hangul_ex/hangul_mieum_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 28 24 L 28 80",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 28 24 L 74 24 L 74 80",
+     "dir": "Follow the corners in order, in one stroke."
+    },
+    {
+     "order": 3,
+     "d": "M 28 80 L 74 80",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10100,7 +10165,30 @@
      "romaja": "bumo",
      "audio_path": "audio/hangul_ex/hangul_bieup_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 28 20 L 28 80",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 72 20 L 72 80",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 28 52 L 72 52",
+     "dir": "Left to right."
+    },
+    {
+     "order": 4,
+     "d": "M 28 80 L 72 80",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -10134,7 +10222,20 @@
      "romaja": "sagwa",
      "audio_path": "audio/hangul_ex/hangul_siot_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 50 24 L 26 80",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 50 42 L 76 80",
+     "dir": "Diagonal, top to bottom."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10168,7 +10269,15 @@
      "romaja": "gang",
      "audio_path": "audio/hangul_ex/hangul_ieung_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 22.0 52.0 a 28.0 28.0 0 1 1 56.0 0 a 28.0 28.0 0 1 1 -56.0 0",
+     "dir": "Draw the circle in one smooth motion."
+    }
+   ],
+   "stroke_count": 1
   }
  },
  {
@@ -10202,7 +10311,25 @@
      "romaja": "baji",
      "audio_path": "audio/hangul_ex/hangul_jieut_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 26 30 L 74 30",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 50 30 L 28 80",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 52 46 L 76 80",
+     "dir": "Diagonal, top to bottom."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10236,7 +10363,30 @@
      "romaja": "gicha",
      "audio_path": "audio/hangul_ex/hangul_chieut_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 42 12 L 58 12",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 26 32 L 74 32",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 50 32 L 28 80",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 4,
+     "d": "M 52 48 L 76 80",
+     "dir": "Diagonal, top to bottom."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -10270,7 +10420,20 @@
      "romaja": "kamera",
      "audio_path": "audio/hangul_ex/hangul_kieuk_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 22 26 L 78 26 L 78 80",
+     "dir": "Follow the corners in order, in one stroke."
+    },
+    {
+     "order": 2,
+     "d": "M 22 52 L 60 52",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10304,7 +10467,25 @@
      "romaja": "gita",
      "audio_path": "audio/hangul_ex/hangul_tieut_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 22 24 L 80 24",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 22 52 L 78 52",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 22 24 L 22 80 L 80 80",
+     "dir": "Follow the corners in order, in one stroke."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10338,7 +10519,30 @@
      "romaja": "upyo",
      "audio_path": "audio/hangul_ex/hangul_pieup_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 20 30 L 80 30",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 32 30 L 32 76",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 68 30 L 68 76",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 4,
+     "d": "M 20 76 L 80 76",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -10372,7 +10576,25 @@
      "romaja": "hyeong",
      "audio_path": "audio/hangul_ex/hangul_hieut_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 40 12 L 60 12",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 26 32 L 74 32",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 32.0 62.0 a 18.0 18.0 0 1 1 36.0 0 a 18.0 18.0 0 1 1 -36.0 0",
+     "dir": "Draw the circle in one smooth motion."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10406,7 +10628,20 @@
      "romaja": "kkot",
      "audio_path": "audio/hangul_ex/hangul_ssang_giyeok_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 12.1 26.0 L 37.9 26.0 L 37.9 80.0",
+     "dir": "Follow the corners in order, in one stroke."
+    },
+    {
+     "order": 2,
+     "d": "M 62.1 26.0 L 87.9 26.0 L 87.9 80.0",
+     "dir": "Follow the corners in order, in one stroke."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10440,7 +10675,30 @@
      "romaja": "tto",
      "audio_path": "audio/hangul_ex/hangul_ssang_digeut_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 12.1 26.0 L 38.8 26.0",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 12.1 26.0 L 12.1 80.0 L 38.8 80.0",
+     "dir": "Follow the corners in order, in one stroke."
+    },
+    {
+     "order": 3,
+     "d": "M 62.1 26.0 L 88.8 26.0",
+     "dir": "Left to right."
+    },
+    {
+     "order": 4,
+     "d": "M 62.1 26.0 L 62.1 80.0 L 88.8 80.0",
+     "dir": "Follow the corners in order, in one stroke."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -10474,7 +10732,50 @@
      "romaja": "bappeuda",
      "audio_path": "audio/hangul_ex/hangul_ssang_bieup_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 14.9 20.0 L 14.9 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 35.1 20.0 L 35.1 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 14.9 52.0 L 35.1 52.0",
+     "dir": "Left to right."
+    },
+    {
+     "order": 4,
+     "d": "M 14.9 80.0 L 35.1 80.0",
+     "dir": "Left to right."
+    },
+    {
+     "order": 5,
+     "d": "M 64.9 20.0 L 64.9 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 6,
+     "d": "M 85.1 20.0 L 85.1 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 7,
+     "d": "M 64.9 52.0 L 85.1 52.0",
+     "dir": "Left to right."
+    },
+    {
+     "order": 8,
+     "d": "M 64.9 80.0 L 85.1 80.0",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 8
   }
  },
  {
@@ -10508,7 +10809,30 @@
      "romaja": "itda",
      "audio_path": "audio/hangul_ex/hangul_ssang_siot_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 25.0 24.0 L 14.0 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 25.0 42.0 L 37.0 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 75.0 24.0 L 64.0 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 4,
+     "d": "M 75.0 42.0 L 87.0 80.0",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -10542,7 +10866,40 @@
      "romaja": "jjigae",
      "audio_path": "audio/hangul_ex/hangul_ssang_jieut_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 14.0 30.0 L 36.0 30.0",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 25.0 30.0 L 14.9 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 25.9 46.0 L 37.0 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 4,
+     "d": "M 64.0 30.0 L 86.0 30.0",
+     "dir": "Left to right."
+    },
+    {
+     "order": 5,
+     "d": "M 75.0 30.0 L 64.9 80.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 6,
+     "d": "M 75.9 46.0 L 87.0 80.0",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 6
   }
  },
  {
@@ -10576,7 +10933,20 @@
      "romaja": "saram",
      "audio_path": "audio/hangul_ex/hangul_a_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 50 12 L 50 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 50 50 L 76 50",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10610,7 +10980,25 @@
      "romaja": "yachae",
      "audio_path": "audio/hangul_ex/hangul_ya_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 50 12 L 50 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 50 38 L 76 38",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 50 62 L 76 62",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10644,7 +11032,20 @@
      "romaja": "beoseu",
      "audio_path": "audio/hangul_ex/hangul_eo_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 26 50 L 50 50",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 50 12 L 50 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10678,7 +11079,25 @@
      "romaja": "gyeoul",
      "audio_path": "audio/hangul_ex/hangul_yeo_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 26 38 L 50 38",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 26 62 L 50 62",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 50 12 L 50 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10712,7 +11131,20 @@
      "romaja": "so",
      "audio_path": "audio/hangul_ex/hangul_o_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 50 22 L 50 54",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 16 54 L 84 54",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10746,7 +11178,25 @@
      "romaja": "uyu",
      "audio_path": "audio/hangul_ex/hangul_yo_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 38 22 L 38 52",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 62 22 L 62 52",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 16 52 L 84 52",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10780,7 +11230,20 @@
      "romaja": "gudu",
      "audio_path": "audio/hangul_ex/hangul_u_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 16 48 L 84 48",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 50 48 L 50 80",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {
@@ -10814,7 +11277,25 @@
      "romaja": "uyu",
      "audio_path": "audio/hangul_ex/hangul_yu_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 16 46 L 84 46",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 38 46 L 38 78",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 62 46 L 62 78",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10848,7 +11329,15 @@
      "romaja": "neurida",
      "audio_path": "audio/hangul_ex/hangul_eu_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 15 52 L 85 52",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 1
   }
  },
  {
@@ -10882,7 +11371,15 @@
      "romaja": "sigan",
      "audio_path": "audio/hangul_ex/hangul_i_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 52 12 L 52 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 1
   }
  },
  {
@@ -10916,7 +11413,25 @@
      "romaja": "norae",
      "audio_path": "audio/hangul_ex/hangul_ae_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 38 12 L 38 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 38 50 L 64 50",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 82 12 L 82 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -10950,7 +11465,30 @@
      "romaja": "jyae",
      "audio_path": "audio/hangul_ex/hangul_yae_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 38 12 L 38 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 38 38 L 64 38",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 38 62 L 64 62",
+     "dir": "Left to right."
+    },
+    {
+     "order": 4,
+     "d": "M 82 12 L 82 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -10984,7 +11522,25 @@
      "romaja": "se",
      "audio_path": "audio/hangul_ex/hangul_e_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 14 50 L 38 50",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 38 12 L 38 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 82 12 L 82 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -11018,7 +11574,30 @@
      "romaja": "sigye",
      "audio_path": "audio/hangul_ex/hangul_ye_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 14 38 L 38 38",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 14 62 L 38 62",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 38 12 L 38 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 4,
+     "d": "M 82 12 L 82 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -11052,7 +11631,30 @@
      "romaja": "gwail",
      "audio_path": "audio/hangul_ex/hangul_wa_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 25.0 31.2 L 25.0 50.4",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 5.3 50.4 L 44.7 50.4",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 65.0 12 L 65.0 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 4,
+     "d": "M 65.0 50 L 85.3 50",
+     "dir": "Left to right."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -11086,7 +11688,35 @@
      "romaja": "gwaenchanta",
      "audio_path": "audio/hangul_ex/hangul_wae_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 19.0 31.2 L 19.0 50.4",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 2.0 50.4 L 36.0 50.4",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 45.0 12 L 45.0 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 4,
+     "d": "M 45.0 50 L 61.1 50",
+     "dir": "Left to right."
+    },
+    {
+     "order": 5,
+     "d": "M 88 12 L 88 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 5
   }
  },
  {
@@ -11120,7 +11750,25 @@
      "romaja": "gyohoe",
      "audio_path": "audio/hangul_ex/hangul_oe_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 25.0 22 L 25.0 54",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 2,
+     "d": "M 3.9 54 L 46.1 54",
+     "dir": "Left to right."
+    },
+    {
+     "order": 3,
+     "d": "M 82 12 L 82 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -11154,7 +11802,30 @@
      "romaja": "gomawo",
      "audio_path": "audio/hangul_ex/hangul_wo_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 5.3 46.8 L 44.7 46.8",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 25.0 46.8 L 25.0 66.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 46.3 50 L 65.0 50",
+     "dir": "Left to right."
+    },
+    {
+     "order": 4,
+     "d": "M 65.0 12 L 65.0 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 4
   }
  },
  {
@@ -11188,7 +11859,35 @@
      "romaja": "gwedo",
      "audio_path": "audio/hangul_ex/hangul_we_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 2.0 46.8 L 36.0 46.8",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 19.0 46.8 L 19.0 66.0",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 30.1 50 L 45.0 50",
+     "dir": "Left to right."
+    },
+    {
+     "order": 4,
+     "d": "M 45.0 12 L 45.0 88",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 5,
+     "d": "M 88 12 L 88 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 5
   }
  },
  {
@@ -11222,7 +11921,25 @@
      "romaja": "gawi",
      "audio_path": "audio/hangul_ex/hangul_wi_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 3.9 48 L 46.1 48",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 25.0 48 L 25.0 80",
+     "dir": "Top to bottom."
+    },
+    {
+     "order": 3,
+     "d": "M 82 12 L 82 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 3
   }
  },
  {
@@ -11256,7 +11973,20 @@
      "romaja": "hoeui",
      "audio_path": "audio/hangul_ex/hangul_ui_3.mp3"
     }
-   ]
+   ],
+   "strokes": [
+    {
+     "order": 1,
+     "d": "M 3.3 52 L 46.7 52",
+     "dir": "Left to right."
+    },
+    {
+     "order": 2,
+     "d": "M 82 12 L 82 88",
+     "dir": "Top to bottom."
+    }
+   ],
+   "stroke_count": 2
   }
  },
  {

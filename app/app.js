@@ -11,8 +11,22 @@
   });
 
   const HANGUL_DIRS = ["hangul_symbol_to_sound", "hangul_sound_to_symbol"];
+  const WRITE_DIRS = ["hangul_symbol_to_write", "hangul_write_to_symbol"];
   const WORD_DIRS = ["word_ko_to_en", "word_audio_to_meaning"];
   const MASTER_STABILITY = 3;
+
+  // Syllable-block composition examples (tiny UI scaffolding, not corpus content).
+  const SYLLABLE_BLOCKS = {
+    "가": { components: ["ㄱ", "ㅏ"], note: "Vertical vowel ㅏ goes to the RIGHT of ㄱ." },
+    "나": { components: ["ㄴ", "ㅏ"], note: "ㅏ to the right of ㄴ." },
+    "고": { components: ["ㄱ", "ㅗ"], note: "Horizontal vowel ㅗ goes BELOW ㄱ." },
+    "구": { components: ["ㄱ", "ㅜ"], note: "Horizontal vowel ㅜ goes below ㄱ." },
+    "다": { components: ["ㄷ", "ㅏ"], note: "ㅏ to the right of ㄷ." },
+    "사": { components: ["ㅅ", "ㅏ"], note: "ㅏ to the right of ㅅ." },
+    "한": { components: ["ㅎ", "ㅏ", "ㄴ"], note: "ㅎ + ㅏ on top, final ㄴ (batchim) at the BOTTOM." },
+    "국": { components: ["ㄱ", "ㅜ", "ㄱ"], note: "ㄱ + ㅜ, then a final ㄱ at the bottom." },
+    "말": { components: ["ㅁ", "ㅏ", "ㄹ"], note: "ㅁ + ㅏ on top, final ㄹ at the bottom." },
+  };
   const DAY = 86400000;
   const RATING_NAME = { 1: "again", 2: "hard", 3: "good", 4: "easy" };
 
@@ -208,6 +222,26 @@
       if (it.item_type === "hangul") state.items.hangul.push(it);
       else state.items.words.push(it);
     });
+    await enrichHangulStrokes();
+  }
+
+  async function enrichHangulStrokes() {
+    const needsStrokes = state.items.hangul.some(
+      (it) => it.payload.group !== "batchim_overview" && !Array.isArray(it.payload.strokes)
+    );
+    if (!needsStrokes) return;
+    try {
+      const res = await fetch("./content/hangul_strokes.json", { cache: "no-store" });
+      if (!res.ok) return;
+      const strokes = await res.json();
+      state.items.hangul.forEach((it) => {
+        const s = strokes[it.payload.symbol];
+        if (Array.isArray(s) && s.length) {
+          it.payload.strokes = s;
+          it.payload.stroke_count = s.length;
+        }
+      });
+    } catch (e) {}
   }
 
   async function loadCards() {
@@ -224,6 +258,39 @@
       return item.payload.group === "batchim_overview" ? [] : HANGUL_DIRS;
     }
     return WORD_DIRS;
+  }
+  // Writing track is scheduled completely separately from recognition.
+  function writeDirsFor(item) {
+    return item.item_type === "hangul" &&
+      item.payload.group !== "batchim_overview" &&
+      Array.isArray(item.payload.strokes)
+      ? WRITE_DIRS
+      : [];
+  }
+  function writeMastered(item) {
+    const dirs = writeDirsFor(item);
+    if (!dirs.length) return false;
+    return dirs.every((d) => {
+      const c = state.cards.get(ck(item.id, d));
+      return c && c.state === "review" && (c.stability || 0) >= MASTER_STABILITY;
+    });
+  }
+  function writeNewPool() {
+    const pool = [];
+    reviewableHangul().forEach((item) =>
+      writeDirsFor(item).forEach((d) => {
+        if (!state.cards.get(ck(item.id, d))) pool.push({ item, direction: d });
+      })
+    );
+    return pool;
+  }
+  function writeDueCount() {
+    const now = Date.now();
+    let n = 0;
+    state.cards.forEach((c) => {
+      if (WRITE_DIRS.includes(c.direction) && c.due && new Date(c.due).getTime() <= now) n++;
+    });
+    return n;
   }
 
   // ============================================================
@@ -326,12 +393,13 @@
         </div>
         ${inner}
       </div>
-      <nav class="nav">
+      <nav class="nav nav-6">
         ${navBtn("/", "🏠", "Home", active)}
-        ${navBtn("/hangul", "가", "Hangul", active)}
+        ${navBtn("/hangul", "가", "Sounds", active)}
+        ${navBtn("/write", "✍", "Write", active)}
         ${navBtn("/words", "📖", "Words", active)}
         ${navBtn("/review", "🎯", "Review", active)}
-        ${navBtn("/progress", "📈", "Progress", active)}
+        ${navBtn("/progress", "📈", "Stats", active)}
       </nav>`;
   }
   function navBtn(path, ic, label, active) {
@@ -354,6 +422,7 @@
   function routeFromHash() {
     const h = (location.hash || "#/").replace(/^#/, "");
     if (h.startsWith("/hangul")) viewHangul();
+    else if (h.startsWith("/write")) viewWrite();
     else if (h.startsWith("/words")) viewWords();
     else if (h.startsWith("/review")) viewReview();
     else if (h.startsWith("/progress")) viewProgress();
@@ -655,14 +724,17 @@
   // ============================================================
   // VIEW: REVIEW (FSRS engine)
   // ============================================================
-  const review = { queue: [], idx: 0, revealed: false, scope: "all", startedAt: 0 };
+  const review = { queue: [], idx: 0, revealed: false, scope: "all", track: "recog", startedAt: 0 };
+  const isWriteDir = (d) => WRITE_DIRS.includes(d);
 
   function buildQueue(scope) {
     const now = Date.now();
+    const write = review.track === "write";
+    const inTrack = (d) => (write ? isWriteDir(d) : !isWriteDir(d));
     const due = [];
     state.cards.forEach((c) => {
       const item = state.byId[c.item_id];
-      if (!item) return;
+      if (!item || !inTrack(c.direction)) return;
       if (scope === "hangul" && item.item_type !== "hangul") return;
       if (scope === "words" && item.item_type !== "word") return;
       if (c.due && new Date(c.due).getTime() <= now)
@@ -670,21 +742,20 @@
     });
     due.sort((a, b) => new Date(a.card.due) - new Date(b.card.due));
 
-    const pool = shuffle(newPool(scope));
-    const limit =
-      (scope !== "words" ? CFG.SPRINT.newHangulPerSession : 0) +
-      (scope !== "hangul" ? CFG.SPRINT.newWordsPerSession : 0);
+    const pool = shuffle(write ? writeNewPool() : newPool(scope));
+    const limit = write
+      ? CFG.SPRINT.newHangulPerSession * 2
+      : (scope !== "words" ? CFG.SPRINT.newHangulPerSession : 0) +
+        (scope !== "hangul" ? CFG.SPRINT.newWordsPerSession : 0);
     const fresh = pool.slice(0, limit).map((x) => ({ ...x, card: FSRS.newCard() }));
 
     return due.concat(fresh).slice(0, CFG.SPRINT.maxDailyReviews);
   }
 
   function viewReview() {
-    review.scope = (location.hash.split("?")[1] || "").includes("hangul")
-      ? "hangul"
-      : (location.hash.split("?")[1] || "").includes("words")
-      ? "words"
-      : "all";
+    const q = location.hash.split("?")[1] || "";
+    review.track = q.includes("write") ? "write" : "recog";
+    review.scope = q.includes("hangul") ? "hangul" : q.includes("words") ? "words" : "all";
     review.queue = buildQueue(review.scope);
     review.idx = 0;
     review.revealed = false;
@@ -693,7 +764,9 @@
 
   function renderReview() {
     if (review.idx >= review.queue.length) return renderReviewDone();
-    const { item, direction, card } = review.queue[review.idx];
+    const entry = review.queue[review.idx];
+    if (isWriteDir(entry.direction)) return renderWriteCard(entry);
+    const { item, direction, card } = entry;
     const p = item.payload;
     review.startedAt = Date.now();
     const total = review.queue.length;
@@ -787,19 +860,324 @@
   }
 
   function renderReviewDone() {
+    const write = review.track === "write";
+    const dueLeft = write ? writeDueCount() : dueCount("all");
+    const newLeft = write ? writeNewPool().length : newPool("all").length;
+    const back = write ? "#/review?write" : "#/review";
+    const homeNav = write ? "#/write" : "#/";
     const inner = `
       <div class="empty" style="margin-top:30px">
         <div class="ic">🎉</div>
-        <h3>Session complete</h3>
-        <p>You reviewed ${review.queue.length} card${review.queue.length === 1 ? "" : "s"}.<br>${dueCount("all")} still due · ${newPool("all").length} new remaining.</p>
+        <h3>${write ? "Writing session done" : "Session complete"}</h3>
+        <p>You ${write ? "practiced" : "reviewed"} ${review.queue.length} card${review.queue.length === 1 ? "" : "s"}.<br>${dueLeft} still due · ${newLeft} new remaining.</p>
       </div>
-      <button class="cta" data-nav="#/review"><span>Keep going</span><span class="due-pill">${dueCount("all") + Math.min(newPool("all").length, 50)} ready</span></button>
+      ${
+        dueLeft + newLeft > 0
+          ? `<button class="cta" data-nav="${back}"><span>Keep going</span><span class="due-pill">${dueLeft + Math.min(newLeft, 50)} ready</span></button>`
+          : ""
+      }
       <div class="row-actions" style="margin-top:12px">
-        <button class="tile-link" data-nav="#/"><span class="ic">🏠</span><span class="t">Dashboard</span></button>
+        <button class="tile-link" data-nav="${homeNav}"><span class="ic">🏠</span><span class="t">${write ? "Writing home" : "Dashboard"}</span></button>
         <button class="tile-link" data-nav="#/progress"><span class="ic">📈</span><span class="t">Progress</span></button>
       </div>`;
-    root().innerHTML = shell("/review", inner);
+    root().innerHTML = shell(write ? "/write" : "/review", inner);
     wireShell();
+  }
+
+  // ============================================================
+  // WRITING: stroke animator + tracing canvas
+  // ============================================================
+  function animatorMarkup(strokes) {
+    const paths = (strokes || [])
+      .map((s, i) => `<path class="stk" data-i="${i}" d="${s.d}"/>`)
+      .join("");
+    return `<svg class="stroke-svg" viewBox="0 0 100 100" aria-hidden="true">
+      <g class="grid"><line x1="50" y1="6" x2="50" y2="94"/><line x1="6" y1="50" x2="94" y2="50"/></g>
+      ${paths}</svg>`;
+  }
+  function playAnimator(svg, speed) {
+    if (!svg) return;
+    if (svg._timers) svg._timers.forEach(clearTimeout);
+    svg._timers = [];
+    const paths = [...svg.querySelectorAll("path.stk")];
+    paths.forEach((p) => {
+      const len = p.getTotalLength();
+      p.style.transition = "none";
+      p.style.strokeDasharray = len;
+      p.style.strokeDashoffset = len;
+      p.classList.remove("cur");
+    });
+    svg.getBoundingClientRect();
+    let delay = 0;
+    paths.forEach((p) => {
+      const len = p.getTotalLength();
+      const dur = Math.max(260, (len * 7) / speed);
+      svg._timers.push(
+        setTimeout(() => {
+          p.style.transition = `stroke-dashoffset ${dur}ms ease`;
+          p.style.strokeDashoffset = "0";
+        }, delay)
+      );
+      delay += dur + 140;
+    });
+  }
+  function showStep(svg, n) {
+    const paths = [...svg.querySelectorAll("path.stk")];
+    n = Math.min(n, paths.length);
+    paths.forEach((p, i) => {
+      const len = p.getTotalLength();
+      p.style.transition = "none";
+      p.style.strokeDasharray = len;
+      p.style.strokeDashoffset = i < n ? "0" : len;
+      p.classList.toggle("cur", i === n - 1);
+    });
+    return n >= paths.length ? 0 : n;
+  }
+  function mountCanvas(host, ghostStrokes, opts) {
+    opts = opts || {};
+    const SZ = 300;
+    host.innerHTML = `<div class="trace-wrap"><canvas width="${SZ}" height="${SZ}"></canvas></div>`;
+    const cv = host.querySelector("canvas");
+    const ctx = cv.getContext("2d");
+    let drawing = false,
+      last = null,
+      ghost = opts.ghost !== false,
+      dirty = false;
+    function bg() {
+      ctx.clearRect(0, 0, SZ, SZ);
+      ctx.strokeStyle = "rgba(35,38,45,.12)";
+      ctx.lineWidth = 1;
+      ctx.setLineDash([6, 6]);
+      ctx.beginPath();
+      ctx.moveTo(SZ / 2, 0); ctx.lineTo(SZ / 2, SZ);
+      ctx.moveTo(0, SZ / 2); ctx.lineTo(SZ, SZ / 2);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      ctx.strokeStyle = "rgba(35,38,45,.18)";
+      ctx.strokeRect(8, 8, SZ - 16, SZ - 16);
+      if (ghost && ghostStrokes) {
+        ctx.save();
+        ctx.scale(SZ / 100, SZ / 100);
+        ctx.strokeStyle = "rgba(47,109,176,.20)";
+        ctx.lineWidth = 7; ctx.lineCap = "round"; ctx.lineJoin = "round";
+        ghostStrokes.forEach((s) => ctx.stroke(new Path2D(s.d)));
+        ctx.restore();
+      }
+    }
+    function pos(e) {
+      const r = cv.getBoundingClientRect();
+      return { x: ((e.clientX - r.left) * SZ) / r.width, y: ((e.clientY - r.top) * SZ) / r.height };
+    }
+    cv.addEventListener("pointerdown", (e) => { drawing = true; last = pos(e); cv.setPointerCapture(e.pointerId); e.preventDefault(); });
+    cv.addEventListener("pointermove", (e) => {
+      if (!drawing) return;
+      const p = pos(e);
+      ctx.strokeStyle = "#23262d"; ctx.lineWidth = 11; ctx.lineCap = "round"; ctx.lineJoin = "round";
+      ctx.beginPath(); ctx.moveTo(last.x, last.y); ctx.lineTo(p.x, p.y); ctx.stroke();
+      last = p; dirty = true; e.preventDefault();
+    });
+    cv.addEventListener("pointerup", () => { drawing = false; });
+    cv.addEventListener("pointerleave", () => { drawing = false; });
+    bg();
+    return {
+      clear() { bg(); dirty = false; },
+      toggleGhost() { ghost = !ghost; bg(); return ghost; },
+      get dirty() { return dirty; },
+    };
+  }
+
+  // Writing review card (FSRS, separate track)
+  function renderWriteCard(entry) {
+    const { item, direction, card } = entry;
+    const p = item.payload;
+    review.startedAt = Date.now();
+    const total = review.queue.length;
+    const pos = review.idx + 1;
+    const prog = Math.round((100 * review.idx) / total);
+    const prod = direction === "hangul_write_to_symbol";
+    const hideSymbol = prod && !review.revealed;
+
+    const prompt = hideSymbol
+      ? `<div class="dir-tag">Write from memory</div><div class="q-word">${esc(p.name_ko)}</div><div class="a-rom">"${esc(p.romanization)}"</div>`
+      : `<div class="dir-tag">${prod ? "Write from memory" : "Trace & write"}</div><div class="q-sym">${esc(p.symbol)}</div><div class="hint" style="color:var(--ink-faint)">${esc(p.name_ko)} · ${esc(p.romanization)}</div>`;
+
+    const inner = `
+      <div class="review-wrap">
+        <div class="review-top">
+          <button class="iconbtn" data-nav="#/write">✕</button>
+          <div class="review-progress"><div class="bar"><i style="width:${prog}%"></i></div></div>
+          <div class="dir-tag" style="font-variant-numeric:tabular-nums">${pos}/${total}</div>
+        </div>
+        <div class="qcard write-q">${prompt}
+          <button class="play ghost" id="qaudio" style="margin-top:6px">🔊 letter name</button>
+        </div>
+        <div class="write-stage">
+          <div class="write-col">
+            <div class="anim-label">Stroke order</div>
+            <div id="animHost" class="${hideSymbol ? "hidden" : ""}">${animatorMarkup(p.strokes)}</div>
+            ${hideSymbol ? `<button class="play ghost" id="revealBtn">Reveal letter</button>` : ""}
+            <div class="anim-controls ${hideSymbol ? "hidden" : ""}">
+              <button class="mini" id="replayBtn">▶ Replay</button>
+              <button class="mini" id="stepBtn">Step</button>
+              <button class="mini" id="speedBtn">1×</button>
+            </div>
+          </div>
+          <div class="write-col">
+            <div class="anim-label">Your writing</div>
+            <div id="canvasHost"></div>
+            <div class="anim-controls">
+              <button class="mini" id="clearBtn">Clear</button>
+              <button class="mini" id="ghostBtn">Ghost: ${prod ? "off" : "on"}</button>
+            </div>
+          </div>
+        </div>
+        ${
+          hideSymbol
+            ? ""
+            : `<div class="grade-label">How well could you write it?</div>${gradeButtons(card)}`
+        }
+      </div>`;
+    root().innerHTML = shell("/write", inner);
+    wireShell();
+
+    const qa = document.getElementById("qaudio");
+    if (qa) qa.onclick = () => play(p.audio_path, qa);
+    const canvas = mountCanvas(document.getElementById("canvasHost"), p.strokes, { ghost: !prod });
+    const svg = document.querySelector("#animHost .stroke-svg");
+    let speed = 1, stepN = 0;
+    if (svg && !hideSymbol) setTimeout(() => playAnimator(svg, speed), 220);
+    const rb = document.getElementById("replayBtn");
+    if (rb) rb.onclick = () => { stepN = 0; playAnimator(svg, speed); };
+    const st = document.getElementById("stepBtn");
+    if (st) st.onclick = () => { stepN = showStep(svg, stepN + 1); };
+    const sp = document.getElementById("speedBtn");
+    if (sp) sp.onclick = () => { speed = speed === 1 ? 2 : speed === 2 ? 0.5 : 1; sp.textContent = speed + "×"; };
+    document.getElementById("clearBtn").onclick = () => canvas.clear();
+    const gb = document.getElementById("ghostBtn");
+    gb.onclick = () => { gb.textContent = "Ghost: " + (canvas.toggleGhost() ? "on" : "off"); };
+    const reveal = document.getElementById("revealBtn");
+    if (reveal) reveal.onclick = () => { review.revealed = true; renderWriteCard(entry); };
+    document.querySelectorAll("[data-grade]").forEach((b) => {
+      b.onclick = () => grade(parseInt(b.getAttribute("data-grade"), 10));
+    });
+  }
+
+  // ============================================================
+  // VIEW: WRITE (Hangul writing practice)
+  // ============================================================
+  function viewWrite() {
+    const due = writeDueCount();
+    const newAvail = writeNewPool().length;
+    const mastered = reviewableHangul().filter(writeMastered).length;
+    const pct = Math.round((100 * mastered) / 40) + "%";
+
+    const groups = {};
+    reviewableHangul().forEach((it) => {
+      (groups[it.payload.group] = groups[it.payload.group] || []).push(it);
+    });
+    let tiles = "";
+    ["basic_consonant", "tense_consonant", "basic_vowel", "compound_vowel"].forEach((g) => {
+      const list = groups[g];
+      if (!list) return;
+      tiles += `<div class="group-title"><h3>${GROUP_LABELS[g]}</h3><span class="cnt">${list.length}</span></div>`;
+      tiles += `<div class="hangul-grid">${list
+        .map((it) => {
+          const known = writeMastered(it) ? "known" : "";
+          return `<button class="hletter ${known}" data-wlid="${it.id}"><span class="sym">${esc(it.payload.symbol)}</span><span class="rom">${it.payload.stroke_count}✎</span></button>`;
+        })
+        .join("")}</div>`;
+    });
+
+    const blockTiles = Object.keys(SYLLABLE_BLOCKS)
+      .map((b) => `<button class="hletter" data-block="${esc(b)}"><span class="sym">${esc(b)}</span><span class="rom">block</span></button>`)
+      .join("");
+
+    const inner = `
+      <div class="card hero" style="padding:16px"><p class="eyebrow">Writing 쓰기</p><h1 class="h-serif" style="font-size:1.5rem">Hangul Writing</h1><p>Watch the stroke order, then trace it yourself.</p></div>
+      <button class="cta ${due + newAvail === 0 ? "dim" : ""}" data-nav="#/review?write">
+        <span>${due > 0 ? "Writing review" : "Learn to write"}</span>
+        <span class="due-pill">${due > 0 ? due + " due" : newAvail + " new"}</span>
+      </button>
+      <div class="card card-pad"><div class="goal"><span class="k">Letters you can write</span><span class="v">${mastered}<small> / 40</small></span><div class="bar teal"><i style="width:${pct}"></i></div></div></div>
+      ${tiles}
+      <div class="group-title"><h3>Syllable blocks</h3><span class="cnt">how jamo combine</span></div>
+      <div class="hangul-grid">${blockTiles}</div>
+      <div class="group-title"><h3>Free practice</h3></div>
+      <button class="tile-link" id="freePad" style="grid-column:1/-1"><span class="ic">✍</span><span class="t">Open blank practice pad</span><span class="s">Draw anything, no grading</span></button>`;
+    root().innerHTML = shell("/write", inner);
+    wireShell();
+    document.querySelectorAll("[data-wlid]").forEach((b) => (b.onclick = () => openWriteSheet(b.getAttribute("data-wlid"))));
+    document.querySelectorAll("[data-block]").forEach((b) => (b.onclick = () => openBlockSheet(b.getAttribute("data-block"))));
+    document.getElementById("freePad").onclick = () => openFreePad();
+  }
+
+  // Practice sheet for a single jamo (animation + tracing, optional mark-learned)
+  function openWriteSheet(id) {
+    const it = state.byId[id];
+    const p = it.payload;
+    openSheet(`
+      <div class="sheet-hero" style="padding-bottom:6px">
+        <div class="rom">${esc(p.romanization)} · ${esc(p.name_ko)} · ${p.stroke_count} stroke${p.stroke_count === 1 ? "" : "s"}</div>
+      </div>
+      <div class="write-stage">
+        <div class="write-col"><div class="anim-label">Stroke order</div><div id="sAnim">${animatorMarkup(p.strokes)}</div>
+          <div class="anim-controls"><button class="mini" id="sReplay">▶ Replay</button><button class="mini" id="sStep">Step</button></div></div>
+        <div class="write-col"><div class="anim-label">Trace it</div><div id="sCanvas"></div>
+          <div class="anim-controls"><button class="mini" id="sClear">Clear</button><button class="mini" id="sGhost">Ghost: on</button></div></div>
+      </div>
+      <button class="play lg" id="sAudio" style="justify-self:center;margin:6px auto 0">🔊 ${esc(p.name_ko)}</button>
+      <div class="sheet-controls"><button class="btn known" id="sLearned">✓ I can write this</button><button class="btn later" id="sClose2">Done</button></div>
+    `);
+    const svg = document.querySelector("#sAnim .stroke-svg");
+    let stepN = 0;
+    setTimeout(() => playAnimator(svg, 1), 220);
+    const canvas = mountCanvas(document.getElementById("sCanvas"), p.strokes, { ghost: true });
+    document.getElementById("sReplay").onclick = () => { stepN = 0; playAnimator(svg, 1); };
+    document.getElementById("sStep").onclick = () => { stepN = showStep(svg, stepN + 1); };
+    document.getElementById("sClear").onclick = () => canvas.clear();
+    const sg = document.getElementById("sGhost");
+    sg.onclick = () => { sg.textContent = "Ghost: " + (canvas.toggleGhost() ? "on" : "off"); };
+    document.getElementById("sAudio").onclick = (e) => play(p.audio_path, e.currentTarget);
+    document.getElementById("sLearned").onclick = async () => {
+      for (const d of writeDirsFor(it)) {
+        const base = state.cards.get(ck(it.id, d)) || FSRS.newCard();
+        await commitReview(it, d, base, FSRS.schedule(base, new Date())[4]);
+      }
+      closeSheet();
+      toast("Writing marked learned");
+      viewWrite();
+    };
+    document.getElementById("sClose2").onclick = closeSheet;
+  }
+
+  function openBlockSheet(block) {
+    const b = SYLLABLE_BLOCKS[block];
+    const comps = b.components
+      .map((c) => `<span class="hletter" style="aspect-ratio:auto;padding:8px 12px;display:inline-grid"><span class="sym" style="font-size:1.5rem">${esc(c)}</span></span>`)
+      .join(`<span style="font-size:1.4rem;color:var(--ink-faint)">+</span>`);
+    openSheet(`
+      <div class="sheet-hero"><div class="big">${esc(block)}</div></div>
+      <div style="display:flex;gap:10px;align-items:center;justify-content:center;margin-bottom:12px">${comps}</div>
+      <div class="note warn"><b>How it's built:</b> ${esc(b.note)}</div>
+      <div class="write-col" style="margin-top:12px"><div class="anim-label">Trace the block</div><div id="bCanvas"></div>
+        <div class="anim-controls"><button class="mini" id="bClear">Clear</button></div></div>
+      <div class="sheet-controls"><button class="btn later" id="bClose" style="grid-column:1/-1">Done</button></div>
+    `);
+    const canvas = mountCanvas(document.getElementById("bCanvas"), null, { ghost: false });
+    document.getElementById("bClear").onclick = () => canvas.clear();
+    document.getElementById("bClose").onclick = closeSheet;
+  }
+
+  function openFreePad() {
+    openSheet(`
+      <div class="sheet-hero" style="padding-bottom:4px"><div class="rom">Free practice pad</div></div>
+      <div class="write-col"><div id="fCanvas"></div>
+        <div class="anim-controls"><button class="mini" id="fClear">Clear</button></div></div>
+      <div class="sheet-controls"><button class="btn later" id="fClose" style="grid-column:1/-1">Done</button></div>
+    `);
+    const canvas = mountCanvas(document.getElementById("fCanvas"), null, { ghost: false });
+    document.getElementById("fClear").onclick = () => canvas.clear();
+    document.getElementById("fClose").onclick = closeSheet;
   }
 
   // ============================================================

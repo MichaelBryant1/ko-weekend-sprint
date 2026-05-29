@@ -14,6 +14,9 @@
       cards/allowlist (empty), cannot insert cards (401).
 - [x] **Storage locked down** — temporary write policies removed; bucket is public-read only.
 - [x] **Pages serves real HTML** at https://bryantanalytics.com/ko-weekend-sprint/ (text/html, app.js as JS).
+- [x] **Writing module local QA** — mocked logged-in iPhone flow renders 40 writing tiles,
+      opens ㄱ stroke animation, mounts trace canvas, opens a syllable-block canvas, and logs
+      zero JS errors.
 
 ## 👤 Needs a human (requires receiving the sign-in email)
 
@@ -22,6 +25,7 @@ Do these after the **one-time Auth setup** in README (Site URL + redirect allowl
 - [ ] Enter your email → receive email → tap link on phone → app opens signed in.
 - [ ] Dashboard shows your name + sprint goals.
 - [ ] **Hangul:** tap ㄱ → hear "기역", see 3 example words, each plays audio. Mark known → tile shows ✓.
+- [ ] **Write:** open Write → tap ㄱ → stroke order animates; trace canvas accepts touch/mouse input.
 - [ ] **Words:** search "water" finds 물; tap → word audio + 3 sentences play; romanization + English shown.
 - [ ] **Review:** Show answer → grade buttons show intervals → grading advances; finish a session.
 - [ ] **Persistence:** refresh / log out and back in → progress (due counts, mastered) is retained.
@@ -33,6 +37,8 @@ Do these after the **one-time Auth setup** in README (Site URL + redirect allowl
 
 ## Known limitations
 
+- **Writing is self-graded.** Stroke order, tracing, and separate writing FSRS cards exist,
+  but there is no handwriting recognition or automatic stroke scoring.
 - **Auth needs the 2-minute dashboard setup** (README §1) before anyone can log in — the redirect
   URL must be allowlisted for the email link to return to the app.
 - **Autoplay** of audio in review may be blocked by mobile browsers until the first tap; a "Play"
