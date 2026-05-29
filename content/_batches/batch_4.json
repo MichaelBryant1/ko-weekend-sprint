@@ -1,0 +1,352 @@
+[
+ {
+  "rank": 151,
+  "ko": "받다",
+  "en": "to receive",
+  "pos": "verb",
+  "romaja": "batda"
+ },
+ {
+  "rank": 152,
+  "ko": "만나다",
+  "en": "to meet",
+  "pos": "verb",
+  "romaja": "mannada"
+ },
+ {
+  "rank": 153,
+  "ko": "만들다",
+  "en": "to make",
+  "pos": "verb",
+  "romaja": "mandeulda"
+ },
+ {
+  "rank": 154,
+  "ko": "알다",
+  "en": "to know",
+  "pos": "verb",
+  "romaja": "alda"
+ },
+ {
+  "rank": 155,
+  "ko": "모르다",
+  "en": "to not know",
+  "pos": "verb",
+  "romaja": "moreuda"
+ },
+ {
+  "rank": 156,
+  "ko": "생각하다",
+  "en": "to think",
+  "pos": "verb",
+  "romaja": "saenggakada"
+ },
+ {
+  "rank": 157,
+  "ko": "좋아하다",
+  "en": "to like",
+  "pos": "verb",
+  "romaja": "joahada"
+ },
+ {
+  "rank": 158,
+  "ko": "싫어하다",
+  "en": "to dislike",
+  "pos": "verb",
+  "romaja": "sireohada"
+ },
+ {
+  "rank": 159,
+  "ko": "사랑하다",
+  "en": "to love",
+  "pos": "verb",
+  "romaja": "saranghada"
+ },
+ {
+  "rank": 160,
+  "ko": "원하다",
+  "en": "to want",
+  "pos": "verb",
+  "romaja": "wonhada"
+ },
+ {
+  "rank": 161,
+  "ko": "기다리다",
+  "en": "to wait",
+  "pos": "verb",
+  "romaja": "gidarida"
+ },
+ {
+  "rank": 162,
+  "ko": "시작하다",
+  "en": "to start",
+  "pos": "verb",
+  "romaja": "sijakada"
+ },
+ {
+  "rank": 163,
+  "ko": "끝나다",
+  "en": "to end / to finish",
+  "pos": "verb",
+  "romaja": "kkeutnada"
+ },
+ {
+  "rank": 164,
+  "ko": "일하다",
+  "en": "to work",
+  "pos": "verb",
+  "romaja": "ilhada"
+ },
+ {
+  "rank": 165,
+  "ko": "공부하다",
+  "en": "to study",
+  "pos": "verb",
+  "romaja": "gongbuhada"
+ },
+ {
+  "rank": 166,
+  "ko": "배우다",
+  "en": "to learn",
+  "pos": "verb",
+  "romaja": "baeuda"
+ },
+ {
+  "rank": 167,
+  "ko": "가르치다",
+  "en": "to teach",
+  "pos": "verb",
+  "romaja": "gareuchida"
+ },
+ {
+  "rank": 168,
+  "ko": "놀다",
+  "en": "to play / to hang out",
+  "pos": "verb",
+  "romaja": "nolda"
+ },
+ {
+  "rank": 169,
+  "ko": "쉬다",
+  "en": "to rest",
+  "pos": "verb",
+  "romaja": "swida"
+ },
+ {
+  "rank": 170,
+  "ko": "걷다",
+  "en": "to walk",
+  "pos": "verb",
+  "romaja": "geotda"
+ },
+ {
+  "rank": 171,
+  "ko": "뛰다",
+  "en": "to run",
+  "pos": "verb",
+  "romaja": "ttwida"
+ },
+ {
+  "rank": 172,
+  "ko": "타다",
+  "en": "to ride",
+  "pos": "verb",
+  "romaja": "tada"
+ },
+ {
+  "rank": 173,
+  "ko": "내리다",
+  "en": "to get off / to come down",
+  "pos": "verb",
+  "romaja": "naerida"
+ },
+ {
+  "rank": 174,
+  "ko": "열다",
+  "en": "to open",
+  "pos": "verb",
+  "romaja": "yeolda"
+ },
+ {
+  "rank": 175,
+  "ko": "닫다",
+  "en": "to close",
+  "pos": "verb",
+  "romaja": "datda"
+ },
+ {
+  "rank": 176,
+  "ko": "앉다",
+  "en": "to sit",
+  "pos": "verb",
+  "romaja": "anda"
+ },
+ {
+  "rank": 177,
+  "ko": "서다",
+  "en": "to stand",
+  "pos": "verb",
+  "romaja": "seoda"
+ },
+ {
+  "rank": 178,
+  "ko": "웃다",
+  "en": "to laugh / to smile",
+  "pos": "verb",
+  "romaja": "utda"
+ },
+ {
+  "rank": 179,
+  "ko": "울다",
+  "en": "to cry",
+  "pos": "verb",
+  "romaja": "ulda"
+ },
+ {
+  "rank": 180,
+  "ko": "죽다",
+  "en": "to die",
+  "pos": "verb",
+  "romaja": "jukda"
+ },
+ {
+  "rank": 181,
+  "ko": "살다",
+  "en": "to live",
+  "pos": "verb",
+  "romaja": "salda"
+ },
+ {
+  "rank": 182,
+  "ko": "입다",
+  "en": "to wear (clothes)",
+  "pos": "verb",
+  "romaja": "ipda"
+ },
+ {
+  "rank": 183,
+  "ko": "씻다",
+  "en": "to wash",
+  "pos": "verb",
+  "romaja": "ssitda"
+ },
+ {
+  "rank": 184,
+  "ko": "찾다",
+  "en": "to look for / to find",
+  "pos": "verb",
+  "romaja": "chatda"
+ },
+ {
+  "rank": 185,
+  "ko": "보내다",
+  "en": "to send / to spend (time)",
+  "pos": "verb",
+  "romaja": "bonaeda"
+ },
+ {
+  "rank": 186,
+  "ko": "좋다",
+  "en": "to be good",
+  "pos": "adjective",
+  "romaja": "jota"
+ },
+ {
+  "rank": 187,
+  "ko": "나쁘다",
+  "en": "to be bad",
+  "pos": "adjective",
+  "romaja": "nappeuda"
+ },
+ {
+  "rank": 188,
+  "ko": "크다",
+  "en": "to be big",
+  "pos": "adjective",
+  "romaja": "keuda"
+ },
+ {
+  "rank": 189,
+  "ko": "작다",
+  "en": "to be small",
+  "pos": "adjective",
+  "romaja": "jakda"
+ },
+ {
+  "rank": 190,
+  "ko": "많다",
+  "en": "to be many / much",
+  "pos": "adjective",
+  "romaja": "manta"
+ },
+ {
+  "rank": 191,
+  "ko": "적다",
+  "en": "to be few / little",
+  "pos": "adjective",
+  "romaja": "jeokda"
+ },
+ {
+  "rank": 192,
+  "ko": "높다",
+  "en": "to be high",
+  "pos": "adjective",
+  "romaja": "nopda"
+ },
+ {
+  "rank": 193,
+  "ko": "낮다",
+  "en": "to be low",
+  "pos": "adjective",
+  "romaja": "natda"
+ },
+ {
+  "rank": 194,
+  "ko": "길다",
+  "en": "to be long",
+  "pos": "adjective",
+  "romaja": "gilda"
+ },
+ {
+  "rank": 195,
+  "ko": "짧다",
+  "en": "to be short",
+  "pos": "adjective",
+  "romaja": "jjalda"
+ },
+ {
+  "rank": 196,
+  "ko": "빠르다",
+  "en": "to be fast",
+  "pos": "adjective",
+  "romaja": "ppareuda"
+ },
+ {
+  "rank": 197,
+  "ko": "느리다",
+  "en": "to be slow",
+  "pos": "adjective",
+  "romaja": "neurida"
+ },
+ {
+  "rank": 198,
+  "ko": "쉽다",
+  "en": "to be easy",
+  "pos": "adjective",
+  "romaja": "swipda"
+ },
+ {
+  "rank": 199,
+  "ko": "어렵다",
+  "en": "to be difficult",
+  "pos": "adjective",
+  "romaja": "eoryeopda"
+ },
+ {
+  "rank": 200,
+  "ko": "새롭다",
+  "en": "to be new",
+  "pos": "adjective",
+  "romaja": "saeropda"
+ }
+]

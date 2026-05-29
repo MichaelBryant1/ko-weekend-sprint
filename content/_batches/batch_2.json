@@ -1,0 +1,352 @@
+[
+ {
+  "rank": 51,
+  "ko": "회사",
+  "en": "company / office",
+  "pos": "noun",
+  "romaja": "hoesa"
+ },
+ {
+  "rank": 52,
+  "ko": "가게",
+  "en": "store / shop",
+  "pos": "noun",
+  "romaja": "gage"
+ },
+ {
+  "rank": 53,
+  "ko": "식당",
+  "en": "restaurant",
+  "pos": "noun",
+  "romaja": "sikdang"
+ },
+ {
+  "rank": 54,
+  "ko": "방",
+  "en": "room",
+  "pos": "noun",
+  "romaja": "bang"
+ },
+ {
+  "rank": 55,
+  "ko": "화장실",
+  "en": "restroom",
+  "pos": "noun",
+  "romaja": "hwajangsil"
+ },
+ {
+  "rank": 56,
+  "ko": "문",
+  "en": "door",
+  "pos": "noun",
+  "romaja": "mun"
+ },
+ {
+  "rank": 57,
+  "ko": "창문",
+  "en": "window",
+  "pos": "noun",
+  "romaja": "changmun"
+ },
+ {
+  "rank": 58,
+  "ko": "책",
+  "en": "book",
+  "pos": "noun",
+  "romaja": "chaek"
+ },
+ {
+  "rank": 59,
+  "ko": "책상",
+  "en": "desk",
+  "pos": "noun",
+  "romaja": "chaeksang"
+ },
+ {
+  "rank": 60,
+  "ko": "의자",
+  "en": "chair",
+  "pos": "noun",
+  "romaja": "uija"
+ },
+ {
+  "rank": 61,
+  "ko": "컴퓨터",
+  "en": "computer",
+  "pos": "noun",
+  "romaja": "keompyuteo"
+ },
+ {
+  "rank": 62,
+  "ko": "전화",
+  "en": "phone / phone call",
+  "pos": "noun",
+  "romaja": "jeonhwa"
+ },
+ {
+  "rank": 63,
+  "ko": "핸드폰",
+  "en": "cell phone",
+  "pos": "noun",
+  "romaja": "haendeupon"
+ },
+ {
+  "rank": 64,
+  "ko": "돈",
+  "en": "money",
+  "pos": "noun",
+  "romaja": "don"
+ },
+ {
+  "rank": 65,
+  "ko": "시간",
+  "en": "time",
+  "pos": "noun",
+  "romaja": "sigan"
+ },
+ {
+  "rank": 66,
+  "ko": "오늘",
+  "en": "today",
+  "pos": "noun",
+  "romaja": "oneul"
+ },
+ {
+  "rank": 67,
+  "ko": "내일",
+  "en": "tomorrow",
+  "pos": "noun",
+  "romaja": "naeil"
+ },
+ {
+  "rank": 68,
+  "ko": "어제",
+  "en": "yesterday",
+  "pos": "noun",
+  "romaja": "eoje"
+ },
+ {
+  "rank": 69,
+  "ko": "지금",
+  "en": "now",
+  "pos": "adverb",
+  "romaja": "jigeum"
+ },
+ {
+  "rank": 70,
+  "ko": "아침",
+  "en": "morning / breakfast",
+  "pos": "noun",
+  "romaja": "achim"
+ },
+ {
+  "rank": 71,
+  "ko": "점심",
+  "en": "lunch / noon",
+  "pos": "noun",
+  "romaja": "jeomsim"
+ },
+ {
+  "rank": 72,
+  "ko": "저녁",
+  "en": "evening / dinner",
+  "pos": "noun",
+  "romaja": "jeonyeok"
+ },
+ {
+  "rank": 73,
+  "ko": "밤",
+  "en": "night",
+  "pos": "noun",
+  "romaja": "bam"
+ },
+ {
+  "rank": 74,
+  "ko": "날",
+  "en": "day",
+  "pos": "noun",
+  "romaja": "nal"
+ },
+ {
+  "rank": 75,
+  "ko": "주",
+  "en": "week",
+  "pos": "noun",
+  "romaja": "ju"
+ },
+ {
+  "rank": 76,
+  "ko": "달",
+  "en": "month / moon",
+  "pos": "noun",
+  "romaja": "dal"
+ },
+ {
+  "rank": 77,
+  "ko": "년",
+  "en": "year",
+  "pos": "noun",
+  "romaja": "nyeon"
+ },
+ {
+  "rank": 78,
+  "ko": "요일",
+  "en": "day of the week",
+  "pos": "noun",
+  "romaja": "yoil"
+ },
+ {
+  "rank": 79,
+  "ko": "물",
+  "en": "water",
+  "pos": "noun",
+  "romaja": "mul"
+ },
+ {
+  "rank": 80,
+  "ko": "밥",
+  "en": "rice / meal",
+  "pos": "noun",
+  "romaja": "bap"
+ },
+ {
+  "rank": 81,
+  "ko": "음식",
+  "en": "food",
+  "pos": "noun",
+  "romaja": "eumsik"
+ },
+ {
+  "rank": 82,
+  "ko": "커피",
+  "en": "coffee",
+  "pos": "noun",
+  "romaja": "keopi"
+ },
+ {
+  "rank": 83,
+  "ko": "차",
+  "en": "tea / car",
+  "pos": "noun",
+  "romaja": "cha"
+ },
+ {
+  "rank": 84,
+  "ko": "우유",
+  "en": "milk",
+  "pos": "noun",
+  "romaja": "uyu"
+ },
+ {
+  "rank": 85,
+  "ko": "빵",
+  "en": "bread",
+  "pos": "noun",
+  "romaja": "ppang"
+ },
+ {
+  "rank": 86,
+  "ko": "고기",
+  "en": "meat",
+  "pos": "noun",
+  "romaja": "gogi"
+ },
+ {
+  "rank": 87,
+  "ko": "과일",
+  "en": "fruit",
+  "pos": "noun",
+  "romaja": "gwail"
+ },
+ {
+  "rank": 88,
+  "ko": "사과",
+  "en": "apple",
+  "pos": "noun",
+  "romaja": "sagwa"
+ },
+ {
+  "rank": 89,
+  "ko": "커피숍",
+  "en": "coffee shop",
+  "pos": "noun",
+  "romaja": "keopisyop"
+ },
+ {
+  "rank": 90,
+  "ko": "술",
+  "en": "alcohol",
+  "pos": "noun",
+  "romaja": "sul"
+ },
+ {
+  "rank": 91,
+  "ko": "옷",
+  "en": "clothes",
+  "pos": "noun",
+  "romaja": "ot"
+ },
+ {
+  "rank": 92,
+  "ko": "신발",
+  "en": "shoes",
+  "pos": "noun",
+  "romaja": "sinbal"
+ },
+ {
+  "rank": 93,
+  "ko": "가방",
+  "en": "bag",
+  "pos": "noun",
+  "romaja": "gabang"
+ },
+ {
+  "rank": 94,
+  "ko": "시계",
+  "en": "clock / watch",
+  "pos": "noun",
+  "romaja": "sigye"
+ },
+ {
+  "rank": 95,
+  "ko": "자동차",
+  "en": "car / automobile",
+  "pos": "noun",
+  "romaja": "jadongcha"
+ },
+ {
+  "rank": 96,
+  "ko": "버스",
+  "en": "bus",
+  "pos": "noun",
+  "romaja": "beoseu"
+ },
+ {
+  "rank": 97,
+  "ko": "지하철",
+  "en": "subway",
+  "pos": "noun",
+  "romaja": "jihacheol"
+ },
+ {
+  "rank": 98,
+  "ko": "기차",
+  "en": "train",
+  "pos": "noun",
+  "romaja": "gicha"
+ },
+ {
+  "rank": 99,
+  "ko": "비행기",
+  "en": "airplane",
+  "pos": "noun",
+  "romaja": "bihaenggi"
+ },
+ {
+  "rank": 100,
+  "ko": "길",
+  "en": "road / street / way",
+  "pos": "noun",
+  "romaja": "gil"
+ }
+]

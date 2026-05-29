@@ -1,0 +1,352 @@
+[
+ {
+  "rank": 1,
+  "ko": "나",
+  "en": "I / me (casual)",
+  "pos": "pronoun",
+  "romaja": "na"
+ },
+ {
+  "rank": 2,
+  "ko": "저",
+  "en": "I / me (polite)",
+  "pos": "pronoun",
+  "romaja": "jeo"
+ },
+ {
+  "rank": 3,
+  "ko": "너",
+  "en": "you (casual)",
+  "pos": "pronoun",
+  "romaja": "neo"
+ },
+ {
+  "rank": 4,
+  "ko": "우리",
+  "en": "we / us / our",
+  "pos": "pronoun",
+  "romaja": "uri"
+ },
+ {
+  "rank": 5,
+  "ko": "이것",
+  "en": "this thing",
+  "pos": "pronoun",
+  "romaja": "igeot"
+ },
+ {
+  "rank": 6,
+  "ko": "그것",
+  "en": "that thing",
+  "pos": "pronoun",
+  "romaja": "geugeot"
+ },
+ {
+  "rank": 7,
+  "ko": "저것",
+  "en": "that thing (over there)",
+  "pos": "pronoun",
+  "romaja": "jeogeot"
+ },
+ {
+  "rank": 8,
+  "ko": "것",
+  "en": "thing / one (bound noun)",
+  "pos": "noun",
+  "romaja": "geot"
+ },
+ {
+  "rank": 9,
+  "ko": "여기",
+  "en": "here",
+  "pos": "noun",
+  "romaja": "yeogi"
+ },
+ {
+  "rank": 10,
+  "ko": "거기",
+  "en": "there",
+  "pos": "noun",
+  "romaja": "geogi"
+ },
+ {
+  "rank": 11,
+  "ko": "저기",
+  "en": "over there",
+  "pos": "noun",
+  "romaja": "jeogi"
+ },
+ {
+  "rank": 12,
+  "ko": "누구",
+  "en": "who",
+  "pos": "pronoun",
+  "romaja": "nugu"
+ },
+ {
+  "rank": 13,
+  "ko": "무엇",
+  "en": "what",
+  "pos": "pronoun",
+  "romaja": "mueot"
+ },
+ {
+  "rank": 14,
+  "ko": "뭐",
+  "en": "what (casual)",
+  "pos": "pronoun",
+  "romaja": "mwo"
+ },
+ {
+  "rank": 15,
+  "ko": "어디",
+  "en": "where",
+  "pos": "noun",
+  "romaja": "eodi"
+ },
+ {
+  "rank": 16,
+  "ko": "언제",
+  "en": "when",
+  "pos": "adverb",
+  "romaja": "eonje"
+ },
+ {
+  "rank": 17,
+  "ko": "왜",
+  "en": "why",
+  "pos": "adverb",
+  "romaja": "wae"
+ },
+ {
+  "rank": 18,
+  "ko": "어떻게",
+  "en": "how",
+  "pos": "adverb",
+  "romaja": "eotteoke"
+ },
+ {
+  "rank": 19,
+  "ko": "얼마",
+  "en": "how much",
+  "pos": "noun",
+  "romaja": "eolma"
+ },
+ {
+  "rank": 20,
+  "ko": "몇",
+  "en": "how many / which (number)",
+  "pos": "determiner",
+  "romaja": "myeot"
+ },
+ {
+  "rank": 21,
+  "ko": "네",
+  "en": "yes",
+  "pos": "interjection",
+  "romaja": "ne"
+ },
+ {
+  "rank": 22,
+  "ko": "아니요",
+  "en": "no",
+  "pos": "interjection",
+  "romaja": "aniyo"
+ },
+ {
+  "rank": 23,
+  "ko": "안녕하세요",
+  "en": "hello",
+  "pos": "expression",
+  "romaja": "annyeonghaseyo"
+ },
+ {
+  "rank": 24,
+  "ko": "감사합니다",
+  "en": "thank you",
+  "pos": "expression",
+  "romaja": "gamsahamnida"
+ },
+ {
+  "rank": 25,
+  "ko": "죄송합니다",
+  "en": "I'm sorry",
+  "pos": "expression",
+  "romaja": "joesonghamnida"
+ },
+ {
+  "rank": 26,
+  "ko": "사람",
+  "en": "person",
+  "pos": "noun",
+  "romaja": "saram"
+ },
+ {
+  "rank": 27,
+  "ko": "남자",
+  "en": "man",
+  "pos": "noun",
+  "romaja": "namja"
+ },
+ {
+  "rank": 28,
+  "ko": "여자",
+  "en": "woman",
+  "pos": "noun",
+  "romaja": "yeoja"
+ },
+ {
+  "rank": 29,
+  "ko": "아이",
+  "en": "child",
+  "pos": "noun",
+  "romaja": "ai"
+ },
+ {
+  "rank": 30,
+  "ko": "친구",
+  "en": "friend",
+  "pos": "noun",
+  "romaja": "chingu"
+ },
+ {
+  "rank": 31,
+  "ko": "가족",
+  "en": "family",
+  "pos": "noun",
+  "romaja": "gajok"
+ },
+ {
+  "rank": 32,
+  "ko": "엄마",
+  "en": "mom",
+  "pos": "noun",
+  "romaja": "eomma"
+ },
+ {
+  "rank": 33,
+  "ko": "아빠",
+  "en": "dad",
+  "pos": "noun",
+  "romaja": "appa"
+ },
+ {
+  "rank": 34,
+  "ko": "어머니",
+  "en": "mother",
+  "pos": "noun",
+  "romaja": "eomeoni"
+ },
+ {
+  "rank": 35,
+  "ko": "아버지",
+  "en": "father",
+  "pos": "noun",
+  "romaja": "abeoji"
+ },
+ {
+  "rank": 36,
+  "ko": "형",
+  "en": "older brother (of a male)",
+  "pos": "noun",
+  "romaja": "hyeong"
+ },
+ {
+  "rank": 37,
+  "ko": "누나",
+  "en": "older sister (of a male)",
+  "pos": "noun",
+  "romaja": "nuna"
+ },
+ {
+  "rank": 38,
+  "ko": "오빠",
+  "en": "older brother (of a female)",
+  "pos": "noun",
+  "romaja": "oppa"
+ },
+ {
+  "rank": 39,
+  "ko": "언니",
+  "en": "older sister (of a female)",
+  "pos": "noun",
+  "romaja": "eonni"
+ },
+ {
+  "rank": 40,
+  "ko": "동생",
+  "en": "younger sibling",
+  "pos": "noun",
+  "romaja": "dongsaeng"
+ },
+ {
+  "rank": 41,
+  "ko": "선생님",
+  "en": "teacher",
+  "pos": "noun",
+  "romaja": "seonsaengnim"
+ },
+ {
+  "rank": 42,
+  "ko": "학생",
+  "en": "student",
+  "pos": "noun",
+  "romaja": "haksaeng"
+ },
+ {
+  "rank": 43,
+  "ko": "이름",
+  "en": "name",
+  "pos": "noun",
+  "romaja": "ireum"
+ },
+ {
+  "rank": 44,
+  "ko": "나라",
+  "en": "country",
+  "pos": "noun",
+  "romaja": "nara"
+ },
+ {
+  "rank": 45,
+  "ko": "한국",
+  "en": "Korea",
+  "pos": "noun",
+  "romaja": "hanguk"
+ },
+ {
+  "rank": 46,
+  "ko": "한국어",
+  "en": "Korean (language)",
+  "pos": "noun",
+  "romaja": "hangugeo"
+ },
+ {
+  "rank": 47,
+  "ko": "영어",
+  "en": "English (language)",
+  "pos": "noun",
+  "romaja": "yeongeo"
+ },
+ {
+  "rank": 48,
+  "ko": "말",
+  "en": "speech / words / language",
+  "pos": "noun",
+  "romaja": "mal"
+ },
+ {
+  "rank": 49,
+  "ko": "집",
+  "en": "house / home",
+  "pos": "noun",
+  "romaja": "jip"
+ },
+ {
+  "rank": 50,
+  "ko": "학교",
+  "en": "school",
+  "pos": "noun",
+  "romaja": "hakgyo"
+ }
+]

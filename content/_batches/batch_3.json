@@ -1,0 +1,352 @@
+[
+ {
+  "rank": 101,
+  "ko": "도시",
+  "en": "city",
+  "pos": "noun",
+  "romaja": "dosi"
+ },
+ {
+  "rank": 102,
+  "ko": "시장",
+  "en": "market",
+  "pos": "noun",
+  "romaja": "sijang"
+ },
+ {
+  "rank": 103,
+  "ko": "병원",
+  "en": "hospital",
+  "pos": "noun",
+  "romaja": "byeongwon"
+ },
+ {
+  "rank": 104,
+  "ko": "은행",
+  "en": "bank",
+  "pos": "noun",
+  "romaja": "eunhaeng"
+ },
+ {
+  "rank": 105,
+  "ko": "공항",
+  "en": "airport",
+  "pos": "noun",
+  "romaja": "gonghang"
+ },
+ {
+  "rank": 106,
+  "ko": "공원",
+  "en": "park",
+  "pos": "noun",
+  "romaja": "gongwon"
+ },
+ {
+  "rank": 107,
+  "ko": "바다",
+  "en": "sea",
+  "pos": "noun",
+  "romaja": "bada"
+ },
+ {
+  "rank": 108,
+  "ko": "산",
+  "en": "mountain",
+  "pos": "noun",
+  "romaja": "san"
+ },
+ {
+  "rank": 109,
+  "ko": "하늘",
+  "en": "sky",
+  "pos": "noun",
+  "romaja": "haneul"
+ },
+ {
+  "rank": 110,
+  "ko": "날씨",
+  "en": "weather",
+  "pos": "noun",
+  "romaja": "nalssi"
+ },
+ {
+  "rank": 111,
+  "ko": "비",
+  "en": "rain",
+  "pos": "noun",
+  "romaja": "bi"
+ },
+ {
+  "rank": 112,
+  "ko": "눈",
+  "en": "snow / eye",
+  "pos": "noun",
+  "romaja": "nun"
+ },
+ {
+  "rank": 113,
+  "ko": "바람",
+  "en": "wind",
+  "pos": "noun",
+  "romaja": "baram"
+ },
+ {
+  "rank": 114,
+  "ko": "몸",
+  "en": "body",
+  "pos": "noun",
+  "romaja": "mom"
+ },
+ {
+  "rank": 115,
+  "ko": "머리",
+  "en": "head / hair",
+  "pos": "noun",
+  "romaja": "meori"
+ },
+ {
+  "rank": 116,
+  "ko": "얼굴",
+  "en": "face",
+  "pos": "noun",
+  "romaja": "eolgul"
+ },
+ {
+  "rank": 117,
+  "ko": "손",
+  "en": "hand",
+  "pos": "noun",
+  "romaja": "son"
+ },
+ {
+  "rank": 118,
+  "ko": "발",
+  "en": "foot",
+  "pos": "noun",
+  "romaja": "bal"
+ },
+ {
+  "rank": 119,
+  "ko": "마음",
+  "en": "heart / mind",
+  "pos": "noun",
+  "romaja": "maeum"
+ },
+ {
+  "rank": 120,
+  "ko": "일",
+  "en": "work / thing / matter",
+  "pos": "noun",
+  "romaja": "il"
+ },
+ {
+  "rank": 121,
+  "ko": "공부",
+  "en": "study",
+  "pos": "noun",
+  "romaja": "gongbu"
+ },
+ {
+  "rank": 122,
+  "ko": "숙제",
+  "en": "homework",
+  "pos": "noun",
+  "romaja": "sukje"
+ },
+ {
+  "rank": 123,
+  "ko": "문제",
+  "en": "problem / question",
+  "pos": "noun",
+  "romaja": "munje"
+ },
+ {
+  "rank": 124,
+  "ko": "이야기",
+  "en": "story / talk",
+  "pos": "noun",
+  "romaja": "iyagi"
+ },
+ {
+  "rank": 125,
+  "ko": "노래",
+  "en": "song",
+  "pos": "noun",
+  "romaja": "norae"
+ },
+ {
+  "rank": 126,
+  "ko": "영화",
+  "en": "movie",
+  "pos": "noun",
+  "romaja": "yeonghwa"
+ },
+ {
+  "rank": 127,
+  "ko": "음악",
+  "en": "music",
+  "pos": "noun",
+  "romaja": "eumak"
+ },
+ {
+  "rank": 128,
+  "ko": "운동",
+  "en": "exercise / sports",
+  "pos": "noun",
+  "romaja": "undong"
+ },
+ {
+  "rank": 129,
+  "ko": "여행",
+  "en": "travel / trip",
+  "pos": "noun",
+  "romaja": "yeohaeng"
+ },
+ {
+  "rank": 130,
+  "ko": "생각",
+  "en": "thought / idea",
+  "pos": "noun",
+  "romaja": "saenggak"
+ },
+ {
+  "rank": 131,
+  "ko": "기분",
+  "en": "feeling / mood",
+  "pos": "noun",
+  "romaja": "gibun"
+ },
+ {
+  "rank": 132,
+  "ko": "사랑",
+  "en": "love",
+  "pos": "noun",
+  "romaja": "sarang"
+ },
+ {
+  "rank": 133,
+  "ko": "가다",
+  "en": "to go",
+  "pos": "verb",
+  "romaja": "gada"
+ },
+ {
+  "rank": 134,
+  "ko": "오다",
+  "en": "to come",
+  "pos": "verb",
+  "romaja": "oda"
+ },
+ {
+  "rank": 135,
+  "ko": "하다",
+  "en": "to do",
+  "pos": "verb",
+  "romaja": "hada"
+ },
+ {
+  "rank": 136,
+  "ko": "되다",
+  "en": "to become",
+  "pos": "verb",
+  "romaja": "doeda"
+ },
+ {
+  "rank": 137,
+  "ko": "있다",
+  "en": "to exist / to have",
+  "pos": "verb",
+  "romaja": "itda"
+ },
+ {
+  "rank": 138,
+  "ko": "없다",
+  "en": "to not exist / to not have",
+  "pos": "verb",
+  "romaja": "eopda"
+ },
+ {
+  "rank": 139,
+  "ko": "보다",
+  "en": "to see / to watch",
+  "pos": "verb",
+  "romaja": "boda"
+ },
+ {
+  "rank": 140,
+  "ko": "듣다",
+  "en": "to listen / to hear",
+  "pos": "verb",
+  "romaja": "deutda"
+ },
+ {
+  "rank": 141,
+  "ko": "말하다",
+  "en": "to speak / to say",
+  "pos": "verb",
+  "romaja": "malhada"
+ },
+ {
+  "rank": 142,
+  "ko": "먹다",
+  "en": "to eat",
+  "pos": "verb",
+  "romaja": "meokda"
+ },
+ {
+  "rank": 143,
+  "ko": "마시다",
+  "en": "to drink",
+  "pos": "verb",
+  "romaja": "masida"
+ },
+ {
+  "rank": 144,
+  "ko": "자다",
+  "en": "to sleep",
+  "pos": "verb",
+  "romaja": "jada"
+ },
+ {
+  "rank": 145,
+  "ko": "일어나다",
+  "en": "to get up / to wake up",
+  "pos": "verb",
+  "romaja": "ireonada"
+ },
+ {
+  "rank": 146,
+  "ko": "읽다",
+  "en": "to read",
+  "pos": "verb",
+  "romaja": "ikda"
+ },
+ {
+  "rank": 147,
+  "ko": "쓰다",
+  "en": "to write / to use",
+  "pos": "verb",
+  "romaja": "sseuda"
+ },
+ {
+  "rank": 148,
+  "ko": "사다",
+  "en": "to buy",
+  "pos": "verb",
+  "romaja": "sada"
+ },
+ {
+  "rank": 149,
+  "ko": "팔다",
+  "en": "to sell",
+  "pos": "verb",
+  "romaja": "palda"
+ },
+ {
+  "rank": 150,
+  "ko": "주다",
+  "en": "to give",
+  "pos": "verb",
+  "romaja": "juda"
+ }
+]

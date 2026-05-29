@@ -1,0 +1,6822 @@
+[
+ {
+  "text": "나는 학생이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0001_1.mp3"
+ },
+ {
+  "text": "나는 한국어를 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0001_2.mp3"
+ },
+ {
+  "text": "나도 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0001_3.mp3"
+ },
+ {
+  "text": "나",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0001.mp3"
+ },
+ {
+  "text": "저는 미국 사람이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0002_1.mp3"
+ },
+ {
+  "text": "저는 커피를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0002_2.mp3"
+ },
+ {
+  "text": "저도 배가 고파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0002_3.mp3"
+ },
+ {
+  "text": "저",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0002.mp3"
+ },
+ {
+  "text": "너는 어디에 가요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0003_1.mp3"
+ },
+ {
+  "text": "너는 친구예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0003_2.mp3"
+ },
+ {
+  "text": "너도 한국어를 해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0003_3.mp3"
+ },
+ {
+  "text": "너",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0003.mp3"
+ },
+ {
+  "text": "우리는 친구예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0004_1.mp3"
+ },
+ {
+  "text": "우리 집은 여기예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0004_2.mp3"
+ },
+ {
+  "text": "우리 같이 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0004_3.mp3"
+ },
+ {
+  "text": "우리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0004.mp3"
+ },
+ {
+  "text": "이것은 제 책이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0005_1.mp3"
+ },
+ {
+  "text": "이것은 얼마예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0005_2.mp3"
+ },
+ {
+  "text": "이것은 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0005_3.mp3"
+ },
+ {
+  "text": "이것",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0005.mp3"
+ },
+ {
+  "text": "그것은 무엇이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0006_1.mp3"
+ },
+ {
+  "text": "그것은 제 가방이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0006_2.mp3"
+ },
+ {
+  "text": "그것도 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0006_3.mp3"
+ },
+ {
+  "text": "그것",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0006.mp3"
+ },
+ {
+  "text": "저것은 무엇이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0007_1.mp3"
+ },
+ {
+  "text": "저것은 산이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0007_2.mp3"
+ },
+ {
+  "text": "저것을 보세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0007_3.mp3"
+ },
+ {
+  "text": "저것",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0007.mp3"
+ },
+ {
+  "text": "먹는 것을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0008_1.mp3"
+ },
+ {
+  "text": "이것은 제 것이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0008_2.mp3"
+ },
+ {
+  "text": "좋은 것을 찾아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0008_3.mp3"
+ },
+ {
+  "text": "것",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0008.mp3"
+ },
+ {
+  "text": "여기에 앉으세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0009_1.mp3"
+ },
+ {
+  "text": "여기는 학교예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0009_2.mp3"
+ },
+ {
+  "text": "여기에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0009_3.mp3"
+ },
+ {
+  "text": "여기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0009.mp3"
+ },
+ {
+  "text": "거기에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0010_1.mp3"
+ },
+ {
+  "text": "거기는 어디예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0010_2.mp3"
+ },
+ {
+  "text": "거기에 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0010_3.mp3"
+ },
+ {
+  "text": "거기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0010.mp3"
+ },
+ {
+  "text": "저기에 카페가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0011_1.mp3"
+ },
+ {
+  "text": "저기를 보세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0011_2.mp3"
+ },
+ {
+  "text": "저기서 기다려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0011_3.mp3"
+ },
+ {
+  "text": "저기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0011.mp3"
+ },
+ {
+  "text": "저분은 누구예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0012_1.mp3"
+ },
+ {
+  "text": "누구를 만나요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0012_2.mp3"
+ },
+ {
+  "text": "누구예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0012_3.mp3"
+ },
+ {
+  "text": "누구",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0012.mp3"
+ },
+ {
+  "text": "무엇을 먹고 싶어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0013_1.mp3"
+ },
+ {
+  "text": "이것은 무엇이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0013_2.mp3"
+ },
+ {
+  "text": "무엇을 해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0013_3.mp3"
+ },
+ {
+  "text": "무엇",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0013.mp3"
+ },
+ {
+  "text": "뭐 먹어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0014_1.mp3"
+ },
+ {
+  "text": "뭐가 필요해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0014_2.mp3"
+ },
+ {
+  "text": "뭐 해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0014_3.mp3"
+ },
+ {
+  "text": "뭐",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0014.mp3"
+ },
+ {
+  "text": "어디에 가요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0015_1.mp3"
+ },
+ {
+  "text": "화장실이 어디에 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0015_2.mp3"
+ },
+ {
+  "text": "어디에서 왔어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0015_3.mp3"
+ },
+ {
+  "text": "어디",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0015.mp3"
+ },
+ {
+  "text": "언제 와요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0016_1.mp3"
+ },
+ {
+  "text": "생일이 언제예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0016_2.mp3"
+ },
+ {
+  "text": "언제 시간이 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0016_3.mp3"
+ },
+ {
+  "text": "언제",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0016.mp3"
+ },
+ {
+  "text": "왜 안 와요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0017_1.mp3"
+ },
+ {
+  "text": "왜 울어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0017_2.mp3"
+ },
+ {
+  "text": "왜 늦었어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0017_3.mp3"
+ },
+ {
+  "text": "왜",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0017.mp3"
+ },
+ {
+  "text": "어떻게 가요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0018_1.mp3"
+ },
+ {
+  "text": "이름을 어떻게 써요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0018_2.mp3"
+ },
+ {
+  "text": "어떻게 해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0018_3.mp3"
+ },
+ {
+  "text": "어떻게",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0018.mp3"
+ },
+ {
+  "text": "이거 얼마예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0019_1.mp3"
+ },
+ {
+  "text": "얼마나 걸려요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0019_2.mp3"
+ },
+ {
+  "text": "모두 얼마예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0019_3.mp3"
+ },
+ {
+  "text": "얼마",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0019.mp3"
+ },
+ {
+  "text": "지금 몇 시예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0020_1.mp3"
+ },
+ {
+  "text": "몇 명이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0020_2.mp3"
+ },
+ {
+  "text": "몇 살이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0020_3.mp3"
+ },
+ {
+  "text": "몇",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0020.mp3"
+ },
+ {
+  "text": "네, 알겠어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0021_1.mp3"
+ },
+ {
+  "text": "네, 맞아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0021_2.mp3"
+ },
+ {
+  "text": "네, 감사합니다.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0021_3.mp3"
+ },
+ {
+  "text": "네",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0021.mp3"
+ },
+ {
+  "text": "아니요, 저는 학생이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0022_1.mp3"
+ },
+ {
+  "text": "아니요, 괜찮아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0022_2.mp3"
+ },
+ {
+  "text": "아니요, 잘 몰라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0022_3.mp3"
+ },
+ {
+  "text": "아니요",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0022.mp3"
+ },
+ {
+  "text": "안녕하세요, 저는 민준이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0023_1.mp3"
+ },
+ {
+  "text": "선생님, 안녕하세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0023_2.mp3"
+ },
+ {
+  "text": "아침에 안녕하세요 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0023_3.mp3"
+ },
+ {
+  "text": "안녕하세요",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0023.mp3"
+ },
+ {
+  "text": "도와줘서 감사합니다.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0024_1.mp3"
+ },
+ {
+  "text": "선물 감사합니다.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0024_2.mp3"
+ },
+ {
+  "text": "감사합니다, 잘 받겠습니다.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0024_3.mp3"
+ },
+ {
+  "text": "감사합니다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0024.mp3"
+ },
+ {
+  "text": "늦어서 죄송합니다.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0025_1.mp3"
+ },
+ {
+  "text": "죄송합니다, 잘 몰랐어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0025_2.mp3"
+ },
+ {
+  "text": "실수해서 죄송합니다.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0025_3.mp3"
+ },
+ {
+  "text": "죄송합니다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0025.mp3"
+ },
+ {
+  "text": "저는 한국 사람이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0026_1.mp3"
+ },
+ {
+  "text": "저 사람은 누구예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0026_2.mp3"
+ },
+ {
+  "text": "여기에 사람이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0026_3.mp3"
+ },
+ {
+  "text": "사람",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0026.mp3"
+ },
+ {
+  "text": "저 남자는 제 형이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0027_1.mp3"
+ },
+ {
+  "text": "남자 친구가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0027_2.mp3"
+ },
+ {
+  "text": "남자 선생님이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0027_3.mp3"
+ },
+ {
+  "text": "남자",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0027.mp3"
+ },
+ {
+  "text": "저 여자는 제 언니예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0028_1.mp3"
+ },
+ {
+  "text": "여자 친구가 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0028_2.mp3"
+ },
+ {
+  "text": "여자 학생이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0028_3.mp3"
+ },
+ {
+  "text": "여자",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0028.mp3"
+ },
+ {
+  "text": "아이가 학교에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0029_1.mp3"
+ },
+ {
+  "text": "저 아이는 제 동생이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0029_2.mp3"
+ },
+ {
+  "text": "아이가 울어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0029_3.mp3"
+ },
+ {
+  "text": "아이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0029.mp3"
+ },
+ {
+  "text": "친구를 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0030_1.mp3"
+ },
+ {
+  "text": "제 친구는 일본에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0030_2.mp3"
+ },
+ {
+  "text": "친구와 같이 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0030_3.mp3"
+ },
+ {
+  "text": "친구",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0030.mp3"
+ },
+ {
+  "text": "우리 가족은 네 명이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0031_1.mp3"
+ },
+ {
+  "text": "가족이 보고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0031_2.mp3"
+ },
+ {
+  "text": "가족과 저녁을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0031_3.mp3"
+ },
+ {
+  "text": "가족",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0031.mp3"
+ },
+ {
+  "text": "엄마가 밥을 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0032_1.mp3"
+ },
+ {
+  "text": "엄마, 배고파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0032_2.mp3"
+ },
+ {
+  "text": "우리 엄마는 선생님이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0032_3.mp3"
+ },
+ {
+  "text": "엄마",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0032.mp3"
+ },
+ {
+  "text": "아빠가 회사에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0033_1.mp3"
+ },
+ {
+  "text": "아빠, 저 여기에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0033_2.mp3"
+ },
+ {
+  "text": "우리 아빠는 요리를 잘해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0033_3.mp3"
+ },
+ {
+  "text": "아빠",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0033.mp3"
+ },
+ {
+  "text": "어머니가 집에 계세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0034_1.mp3"
+ },
+ {
+  "text": "어머니, 감사합니다.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0034_2.mp3"
+ },
+ {
+  "text": "어머니는 한국 사람이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0034_3.mp3"
+ },
+ {
+  "text": "어머니",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0034.mp3"
+ },
+ {
+  "text": "아버지는 의사예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0035_1.mp3"
+ },
+ {
+  "text": "아버지가 오세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0035_2.mp3"
+ },
+ {
+  "text": "저는 아버지를 사랑해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0035_3.mp3"
+ },
+ {
+  "text": "아버지",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0035.mp3"
+ },
+ {
+  "text": "형이 저보다 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0036_1.mp3"
+ },
+ {
+  "text": "형, 같이 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0036_2.mp3"
+ },
+ {
+  "text": "제 형은 대학생이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0036_3.mp3"
+ },
+ {
+  "text": "형",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0036.mp3"
+ },
+ {
+  "text": "누나가 밥을 만들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0037_1.mp3"
+ },
+ {
+  "text": "누나, 이것 좀 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0037_2.mp3"
+ },
+ {
+  "text": "제 누나는 회사원이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0037_3.mp3"
+ },
+ {
+  "text": "누나",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0037.mp3"
+ },
+ {
+  "text": "오빠가 저를 도와줘요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0038_1.mp3"
+ },
+ {
+  "text": "오빠, 같이 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0038_2.mp3"
+ },
+ {
+  "text": "제 오빠는 멋있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0038_3.mp3"
+ },
+ {
+  "text": "오빠",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0038.mp3"
+ },
+ {
+  "text": "언니가 선물을 줬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0039_1.mp3"
+ },
+ {
+  "text": "언니, 같이 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0039_2.mp3"
+ },
+ {
+  "text": "제 언니는 요리를 잘해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0039_3.mp3"
+ },
+ {
+  "text": "언니",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0039.mp3"
+ },
+ {
+  "text": "동생이 학교에 다녀요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0040_1.mp3"
+ },
+ {
+  "text": "동생과 같이 놀아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0040_2.mp3"
+ },
+ {
+  "text": "제 동생은 아홉 살이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0040_3.mp3"
+ },
+ {
+  "text": "동생",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0040.mp3"
+ },
+ {
+  "text": "선생님, 질문이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0041_1.mp3"
+ },
+ {
+  "text": "우리 선생님은 친절해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0041_2.mp3"
+ },
+ {
+  "text": "선생님이 한국어를 가르쳐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0041_3.mp3"
+ },
+ {
+  "text": "선생님",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0041.mp3"
+ },
+ {
+  "text": "저는 한국어 학생이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0042_1.mp3"
+ },
+ {
+  "text": "학생이 교실에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0042_2.mp3"
+ },
+ {
+  "text": "저는 대학생이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0042_3.mp3"
+ },
+ {
+  "text": "학생",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0042.mp3"
+ },
+ {
+  "text": "이름이 뭐예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0043_1.mp3"
+ },
+ {
+  "text": "제 이름은 지수예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0043_2.mp3"
+ },
+ {
+  "text": "이름을 써 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0043_3.mp3"
+ },
+ {
+  "text": "이름",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0043.mp3"
+ },
+ {
+  "text": "어느 나라 사람이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0044_1.mp3"
+ },
+ {
+  "text": "한국은 좋은 나라예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0044_2.mp3"
+ },
+ {
+  "text": "저는 다른 나라에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0044_3.mp3"
+ },
+ {
+  "text": "나라",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0044.mp3"
+ },
+ {
+  "text": "저는 한국에 살아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0045_1.mp3"
+ },
+ {
+  "text": "한국 음식을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0045_2.mp3"
+ },
+ {
+  "text": "한국에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0045_3.mp3"
+ },
+ {
+  "text": "한국",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0045.mp3"
+ },
+ {
+  "text": "저는 한국어를 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0046_1.mp3"
+ },
+ {
+  "text": "한국어가 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0046_2.mp3"
+ },
+ {
+  "text": "한국어를 잘 하고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0046_3.mp3"
+ },
+ {
+  "text": "한국어",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0046.mp3"
+ },
+ {
+  "text": "영어를 할 수 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0047_1.mp3"
+ },
+ {
+  "text": "영어 공부가 어려워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0047_2.mp3"
+ },
+ {
+  "text": "저는 영어 선생님이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0047_3.mp3"
+ },
+ {
+  "text": "영어",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0047.mp3"
+ },
+ {
+  "text": "한국말을 배워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0048_1.mp3"
+ },
+ {
+  "text": "천천히 말해 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0048_2.mp3"
+ },
+ {
+  "text": "그 말이 맞아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0048_3.mp3"
+ },
+ {
+  "text": "말",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0048.mp3"
+ },
+ {
+  "text": "저는 집에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0049_1.mp3"
+ },
+ {
+  "text": "집에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0049_2.mp3"
+ },
+ {
+  "text": "우리 집은 학교 근처예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0049_3.mp3"
+ },
+ {
+  "text": "집",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0049.mp3"
+ },
+ {
+  "text": "저는 학교에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0050_1.mp3"
+ },
+ {
+  "text": "학교가 멀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0050_2.mp3"
+ },
+ {
+  "text": "학교에서 한국어를 배워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0050_3.mp3"
+ },
+ {
+  "text": "학교",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0050.mp3"
+ },
+ {
+  "text": "저는 회사에 다녀요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0051_1.mp3"
+ },
+ {
+  "text": "회사가 집 근처에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0051_2.mp3"
+ },
+ {
+  "text": "오늘 회사에 안 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0051_3.mp3"
+ },
+ {
+  "text": "회사",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0051.mp3"
+ },
+ {
+  "text": "가게에서 물을 샀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0052_1.mp3"
+ },
+ {
+  "text": "이 가게는 작아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0052_2.mp3"
+ },
+ {
+  "text": "가게가 몇 시에 열어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0052_3.mp3"
+ },
+ {
+  "text": "가게",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0052.mp3"
+ },
+ {
+  "text": "저기 식당이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0053_1.mp3"
+ },
+ {
+  "text": "식당에서 밥을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0053_2.mp3"
+ },
+ {
+  "text": "이 식당 음식이 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0053_3.mp3"
+ },
+ {
+  "text": "식당",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0053.mp3"
+ },
+ {
+  "text": "제 방은 좁아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0054_1.mp3"
+ },
+ {
+  "text": "방에 책상이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0054_2.mp3"
+ },
+ {
+  "text": "방을 청소해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0054_3.mp3"
+ },
+ {
+  "text": "방",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0054.mp3"
+ },
+ {
+  "text": "화장실이 어디에 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0055_1.mp3"
+ },
+ {
+  "text": "화장실에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0055_2.mp3"
+ },
+ {
+  "text": "화장실은 이쪽이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0055_3.mp3"
+ },
+ {
+  "text": "화장실",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0055.mp3"
+ },
+ {
+  "text": "문을 열어 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0056_1.mp3"
+ },
+ {
+  "text": "문이 닫혀 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0056_2.mp3"
+ },
+ {
+  "text": "문 앞에서 기다려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0056_3.mp3"
+ },
+ {
+  "text": "문",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0056.mp3"
+ },
+ {
+  "text": "창문을 열어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0057_1.mp3"
+ },
+ {
+  "text": "창문 밖에 눈이 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0057_2.mp3"
+ },
+ {
+  "text": "창문이 더러워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0057_3.mp3"
+ },
+ {
+  "text": "창문",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0057.mp3"
+ },
+ {
+  "text": "책을 읽어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0058_1.mp3"
+ },
+ {
+  "text": "이 책은 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0058_2.mp3"
+ },
+ {
+  "text": "책상 위에 책이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0058_3.mp3"
+ },
+ {
+  "text": "책",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0058.mp3"
+ },
+ {
+  "text": "책상이 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0059_1.mp3"
+ },
+ {
+  "text": "책상 위에 컴퓨터가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0059_2.mp3"
+ },
+ {
+  "text": "저는 책상에서 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0059_3.mp3"
+ },
+ {
+  "text": "책상",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0059.mp3"
+ },
+ {
+  "text": "의자에 앉아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0060_1.mp3"
+ },
+ {
+  "text": "의자가 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0060_2.mp3"
+ },
+ {
+  "text": "이 의자는 편해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0060_3.mp3"
+ },
+ {
+  "text": "의자",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0060.mp3"
+ },
+ {
+  "text": "컴퓨터로 일해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0061_1.mp3"
+ },
+ {
+  "text": "컴퓨터가 느려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0061_2.mp3"
+ },
+ {
+  "text": "컴퓨터를 켜요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0061_3.mp3"
+ },
+ {
+  "text": "컴퓨터",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0061.mp3"
+ },
+ {
+  "text": "전화해 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0062_1.mp3"
+ },
+ {
+  "text": "전화가 왔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0062_2.mp3"
+ },
+ {
+  "text": "지금 전화할 수 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0062_3.mp3"
+ },
+ {
+  "text": "전화",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0062.mp3"
+ },
+ {
+  "text": "핸드폰이 어디 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0063_1.mp3"
+ },
+ {
+  "text": "핸드폰을 충전해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0063_2.mp3"
+ },
+ {
+  "text": "핸드폰이 없으면 불편해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0063_3.mp3"
+ },
+ {
+  "text": "핸드폰",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0063.mp3"
+ },
+ {
+  "text": "돈이 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0064_1.mp3"
+ },
+ {
+  "text": "돈을 저축해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0064_2.mp3"
+ },
+ {
+  "text": "이 가방은 돈이 많이 들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0064_3.mp3"
+ },
+ {
+  "text": "돈",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0064.mp3"
+ },
+ {
+  "text": "시간이 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0065_1.mp3"
+ },
+ {
+  "text": "시간이 얼마나 걸려요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0065_2.mp3"
+ },
+ {
+  "text": "지금 시간이 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0065_3.mp3"
+ },
+ {
+  "text": "시간",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0065.mp3"
+ },
+ {
+  "text": "오늘 날씨가 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0066_1.mp3"
+ },
+ {
+  "text": "오늘 뭐 해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0066_2.mp3"
+ },
+ {
+  "text": "오늘 학교에 안 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0066_3.mp3"
+ },
+ {
+  "text": "오늘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0066.mp3"
+ },
+ {
+  "text": "내일 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0067_1.mp3"
+ },
+ {
+  "text": "내일 시험이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0067_2.mp3"
+ },
+ {
+  "text": "내일 날씨가 어때요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0067_3.mp3"
+ },
+ {
+  "text": "내일",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0067.mp3"
+ },
+ {
+  "text": "어제 뭐 했어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0068_1.mp3"
+ },
+ {
+  "text": "어제 많이 잤어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0068_2.mp3"
+ },
+ {
+  "text": "어제 친구를 만났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0068_3.mp3"
+ },
+ {
+  "text": "어제",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0068.mp3"
+ },
+ {
+  "text": "지금 어디에 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0069_1.mp3"
+ },
+ {
+  "text": "지금 바빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0069_2.mp3"
+ },
+ {
+  "text": "지금 밥을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0069_3.mp3"
+ },
+ {
+  "text": "지금",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0069.mp3"
+ },
+ {
+  "text": "아침을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0070_1.mp3"
+ },
+ {
+  "text": "아침에 커피를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0070_2.mp3"
+ },
+ {
+  "text": "아침마다 운동해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0070_3.mp3"
+ },
+ {
+  "text": "아침",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0070.mp3"
+ },
+ {
+  "text": "점심을 같이 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0071_1.mp3"
+ },
+ {
+  "text": "점심에 뭐 먹었어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0071_2.mp3"
+ },
+ {
+  "text": "점심 시간이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0071_3.mp3"
+ },
+ {
+  "text": "점심",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0071.mp3"
+ },
+ {
+  "text": "저녁을 만들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0072_1.mp3"
+ },
+ {
+  "text": "저녁에 산책해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0072_2.mp3"
+ },
+ {
+  "text": "저녁을 같이 먹고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0072_3.mp3"
+ },
+ {
+  "text": "저녁",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0072.mp3"
+ },
+ {
+  "text": "밤에 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0073_1.mp3"
+ },
+ {
+  "text": "밤이 됐어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0073_2.mp3"
+ },
+ {
+  "text": "밤에 산책하고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0073_3.mp3"
+ },
+ {
+  "text": "밤",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0073.mp3"
+ },
+ {
+  "text": "오늘은 좋은 날이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0074_1.mp3"
+ },
+ {
+  "text": "매날 운동해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0074_2.mp3"
+ },
+ {
+  "text": "그날 뭐 했어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0074_3.mp3"
+ },
+ {
+  "text": "날",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0074.mp3"
+ },
+ {
+  "text": "이번 주는 바빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0075_1.mp3"
+ },
+ {
+  "text": "다음 주에 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0075_2.mp3"
+ },
+ {
+  "text": "한 주에 세 번 운동해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0075_3.mp3"
+ },
+ {
+  "text": "주",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0075.mp3"
+ },
+ {
+  "text": "이번 달에 여행해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0076_1.mp3"
+ },
+ {
+  "text": "한 달이 지났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0076_2.mp3"
+ },
+ {
+  "text": "밤에 달이 밝아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0076_3.mp3"
+ },
+ {
+  "text": "달",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0076.mp3"
+ },
+ {
+  "text": "올 년도에 졸업해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0077_1.mp3"
+ },
+ {
+  "text": "3년 동안 한국어를 배웠어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0077_2.mp3"
+ },
+ {
+  "text": "내년에 일본에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0077_3.mp3"
+ },
+ {
+  "text": "년",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0077.mp3"
+ },
+ {
+  "text": "오늘 무슨 요일이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0078_1.mp3"
+ },
+ {
+  "text": "무슨 요일에 시간 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0078_2.mp3"
+ },
+ {
+  "text": "월요일이 제일 바빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0078_3.mp3"
+ },
+ {
+  "text": "요일",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0078.mp3"
+ },
+ {
+  "text": "물을 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0079_1.mp3"
+ },
+ {
+  "text": "물 한 잔 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0079_2.mp3"
+ },
+ {
+  "text": "물이 차가워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0079_3.mp3"
+ },
+ {
+  "text": "물",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0079.mp3"
+ },
+ {
+  "text": "밥을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0080_1.mp3"
+ },
+ {
+  "text": "밥이 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0080_2.mp3"
+ },
+ {
+  "text": "밥 먹었어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0080_3.mp3"
+ },
+ {
+  "text": "밥",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0080.mp3"
+ },
+ {
+  "text": "한국 음식을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0081_1.mp3"
+ },
+ {
+  "text": "이 음식은 매워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0081_2.mp3"
+ },
+ {
+  "text": "음식을 만들고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0081_3.mp3"
+ },
+ {
+  "text": "음식",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0081.mp3"
+ },
+ {
+  "text": "커피를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0082_1.mp3"
+ },
+ {
+  "text": "커피가 뜨거워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0082_2.mp3"
+ },
+ {
+  "text": "커피 한 잔 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0082_3.mp3"
+ },
+ {
+  "text": "커피",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0082.mp3"
+ },
+ {
+  "text": "차를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0083_1.mp3"
+ },
+ {
+  "text": "차로 학교에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0083_2.mp3"
+ },
+ {
+  "text": "차가 막혀요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0083_3.mp3"
+ },
+ {
+  "text": "차",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0083.mp3"
+ },
+ {
+  "text": "아침에 우유를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0084_1.mp3"
+ },
+ {
+  "text": "우유가 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0084_2.mp3"
+ },
+ {
+  "text": "우유 한 잔 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0084_3.mp3"
+ },
+ {
+  "text": "우유",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0084.mp3"
+ },
+ {
+  "text": "아침에 빵을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0085_1.mp3"
+ },
+ {
+  "text": "빵이 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0085_2.mp3"
+ },
+ {
+  "text": "빵을 사고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0085_3.mp3"
+ },
+ {
+  "text": "빵",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0085.mp3"
+ },
+ {
+  "text": "고기를 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0086_1.mp3"
+ },
+ {
+  "text": "고기가 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0086_2.mp3"
+ },
+ {
+  "text": "고기를 구워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0086_3.mp3"
+ },
+ {
+  "text": "고기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0086.mp3"
+ },
+ {
+  "text": "과일을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0087_1.mp3"
+ },
+ {
+  "text": "과일이 신선해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0087_2.mp3"
+ },
+ {
+  "text": "과일을 사러 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0087_3.mp3"
+ },
+ {
+  "text": "과일",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0087.mp3"
+ },
+ {
+  "text": "사과를 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0088_1.mp3"
+ },
+ {
+  "text": "사과가 달아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0088_2.mp3"
+ },
+ {
+  "text": "사과 두 개 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0088_3.mp3"
+ },
+ {
+  "text": "사과",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0088.mp3"
+ },
+ {
+  "text": "커피숍에서 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0089_1.mp3"
+ },
+ {
+  "text": "커피숍이 어디에 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0089_2.mp3"
+ },
+ {
+  "text": "친구와 커피숍에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0089_3.mp3"
+ },
+ {
+  "text": "커피숍",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0089.mp3"
+ },
+ {
+  "text": "술을 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0090_1.mp3"
+ },
+ {
+  "text": "술은 안 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0090_2.mp3"
+ },
+ {
+  "text": "친구와 술을 마셨어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0090_3.mp3"
+ },
+ {
+  "text": "술",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0090.mp3"
+ },
+ {
+  "text": "옷을 입어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0091_1.mp3"
+ },
+ {
+  "text": "새 옷을 샀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0091_2.mp3"
+ },
+ {
+  "text": "이 옷이 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0091_3.mp3"
+ },
+ {
+  "text": "옷",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0091.mp3"
+ },
+ {
+  "text": "신발을 신어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0092_1.mp3"
+ },
+ {
+  "text": "이 신발이 편해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0092_2.mp3"
+ },
+ {
+  "text": "신발이 너무 작아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0092_3.mp3"
+ },
+ {
+  "text": "신발",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0092.mp3"
+ },
+ {
+  "text": "가방이 무거워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0093_1.mp3"
+ },
+ {
+  "text": "가방에 책이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0093_2.mp3"
+ },
+ {
+  "text": "새 가방을 사고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0093_3.mp3"
+ },
+ {
+  "text": "가방",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0093.mp3"
+ },
+ {
+  "text": "시계가 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0094_1.mp3"
+ },
+ {
+  "text": "시계를 보세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0094_2.mp3"
+ },
+ {
+  "text": "이 시계는 비싸요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0094_3.mp3"
+ },
+ {
+  "text": "시계",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0094.mp3"
+ },
+ {
+  "text": "자동차가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0095_1.mp3"
+ },
+ {
+  "text": "자동차로 여행해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0095_2.mp3"
+ },
+ {
+  "text": "자동차가 새 거예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0095_3.mp3"
+ },
+ {
+  "text": "자동차",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0095.mp3"
+ },
+ {
+  "text": "버스를 타요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0096_1.mp3"
+ },
+ {
+  "text": "버스가 왔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0096_2.mp3"
+ },
+ {
+  "text": "버스 정류장이 어디에 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0096_3.mp3"
+ },
+ {
+  "text": "버스",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0096.mp3"
+ },
+ {
+  "text": "지하철을 타요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0097_1.mp3"
+ },
+ {
+  "text": "지하철이 빨라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0097_2.mp3"
+ },
+ {
+  "text": "지하철역이 어디에 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0097_3.mp3"
+ },
+ {
+  "text": "지하철",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0097.mp3"
+ },
+ {
+  "text": "기차를 타요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0098_1.mp3"
+ },
+ {
+  "text": "기차가 늦었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0098_2.mp3"
+ },
+ {
+  "text": "기차로 부산에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0098_3.mp3"
+ },
+ {
+  "text": "기차",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0098.mp3"
+ },
+ {
+  "text": "비행기를 타요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0099_1.mp3"
+ },
+ {
+  "text": "비행기가 늦게 출발해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0099_2.mp3"
+ },
+ {
+  "text": "비행기 표를 샀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0099_3.mp3"
+ },
+ {
+  "text": "비행기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0099.mp3"
+ },
+ {
+  "text": "길이 막혀요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0100_1.mp3"
+ },
+ {
+  "text": "이 길이 맞아요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0100_2.mp3"
+ },
+ {
+  "text": "길을 잃었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0100_3.mp3"
+ },
+ {
+  "text": "길",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0100.mp3"
+ },
+ {
+  "text": "저는 도시에 살아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0101_1.mp3"
+ },
+ {
+  "text": "이 도시는 정말 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0101_2.mp3"
+ },
+ {
+  "text": "도시에 사람이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0101_3.mp3"
+ },
+ {
+  "text": "도시",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0101.mp3"
+ },
+ {
+  "text": "시장에서 채소를 사요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0102_1.mp3"
+ },
+ {
+  "text": "시장이 아주 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0102_2.mp3"
+ },
+ {
+  "text": "오늘 시장에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0102_3.mp3"
+ },
+ {
+  "text": "시장",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0102.mp3"
+ },
+ {
+  "text": "병원에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0103_1.mp3"
+ },
+ {
+  "text": "병원이 학교 옆에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0103_2.mp3"
+ },
+ {
+  "text": "어머니가 병원에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0103_3.mp3"
+ },
+ {
+  "text": "병원",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0103.mp3"
+ },
+ {
+  "text": "은행에서 돈을 찾아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0104_1.mp3"
+ },
+ {
+  "text": "은행이 몇 시에 열어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0104_2.mp3"
+ },
+ {
+  "text": "저는 은행에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0104_3.mp3"
+ },
+ {
+  "text": "은행",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0104.mp3"
+ },
+ {
+  "text": "공항에서 친구를 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0105_1.mp3"
+ },
+ {
+  "text": "공항이 멀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0105_2.mp3"
+ },
+ {
+  "text": "내일 공항에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0105_3.mp3"
+ },
+ {
+  "text": "공항",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0105.mp3"
+ },
+ {
+  "text": "공원에서 산책해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0106_1.mp3"
+ },
+ {
+  "text": "공원에 꽃이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0106_2.mp3"
+ },
+ {
+  "text": "주말에 공원에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0106_3.mp3"
+ },
+ {
+  "text": "공원",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0106.mp3"
+ },
+ {
+  "text": "바다가 정말 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0107_1.mp3"
+ },
+ {
+  "text": "여름에 바다에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0107_2.mp3"
+ },
+ {
+  "text": "바다에서 수영해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0107_3.mp3"
+ },
+ {
+  "text": "바다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0107.mp3"
+ },
+ {
+  "text": "산이 높아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0108_1.mp3"
+ },
+ {
+  "text": "주말에 산에 올라가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0108_2.mp3"
+ },
+ {
+  "text": "저는 산을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0108_3.mp3"
+ },
+ {
+  "text": "산",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0108.mp3"
+ },
+ {
+  "text": "하늘이 파래요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0109_1.mp3"
+ },
+ {
+  "text": "오늘 하늘이 맑아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0109_2.mp3"
+ },
+ {
+  "text": "하늘에 별이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0109_3.mp3"
+ },
+ {
+  "text": "하늘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0109.mp3"
+ },
+ {
+  "text": "오늘 날씨가 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0110_1.mp3"
+ },
+ {
+  "text": "날씨가 추워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0110_2.mp3"
+ },
+ {
+  "text": "내일 날씨가 어때요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0110_3.mp3"
+ },
+ {
+  "text": "날씨",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0110.mp3"
+ },
+ {
+  "text": "비가 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0111_1.mp3"
+ },
+ {
+  "text": "오늘 비가 많이 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0111_2.mp3"
+ },
+ {
+  "text": "비가 와서 우산이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0111_3.mp3"
+ },
+ {
+  "text": "비",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0111.mp3"
+ },
+ {
+  "text": "눈이 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0112_1.mp3"
+ },
+ {
+  "text": "눈이 하얘요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0112_2.mp3"
+ },
+ {
+  "text": "겨울에 눈이 많이 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0112_3.mp3"
+ },
+ {
+  "text": "눈",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0112.mp3"
+ },
+ {
+  "text": "바람이 불어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0113_1.mp3"
+ },
+ {
+  "text": "오늘 바람이 강해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0113_2.mp3"
+ },
+ {
+  "text": "시원한 바람이 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0113_3.mp3"
+ },
+ {
+  "text": "바람",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0113.mp3"
+ },
+ {
+  "text": "몸이 아파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0114_1.mp3"
+ },
+ {
+  "text": "운동을 하면 몸이 건강해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0114_2.mp3"
+ },
+ {
+  "text": "몸이 피곤해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0114_3.mp3"
+ },
+ {
+  "text": "몸",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0114.mp3"
+ },
+ {
+  "text": "머리가 아파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0115_1.mp3"
+ },
+ {
+  "text": "머리를 감아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0115_2.mp3"
+ },
+ {
+  "text": "머리가 길어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0115_3.mp3"
+ },
+ {
+  "text": "머리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0115.mp3"
+ },
+ {
+  "text": "얼굴을 씻어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0116_1.mp3"
+ },
+ {
+  "text": "얼굴이 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0116_2.mp3"
+ },
+ {
+  "text": "친구 얼굴이 빨개요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0116_3.mp3"
+ },
+ {
+  "text": "얼굴",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0116.mp3"
+ },
+ {
+  "text": "손을 씻어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0117_1.mp3"
+ },
+ {
+  "text": "손이 차가워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0117_2.mp3"
+ },
+ {
+  "text": "손을 잡아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0117_3.mp3"
+ },
+ {
+  "text": "손",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0117.mp3"
+ },
+ {
+  "text": "발이 아파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0118_1.mp3"
+ },
+ {
+  "text": "발을 씻어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0118_2.mp3"
+ },
+ {
+  "text": "발이 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0118_3.mp3"
+ },
+ {
+  "text": "발",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0118.mp3"
+ },
+ {
+  "text": "마음이 따뜻해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0119_1.mp3"
+ },
+ {
+  "text": "마음이 슬퍼요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0119_2.mp3"
+ },
+ {
+  "text": "마음이 편해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0119_3.mp3"
+ },
+ {
+  "text": "마음",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0119.mp3"
+ },
+ {
+  "text": "오늘 일이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0120_1.mp3"
+ },
+ {
+  "text": "일이 끝났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0120_2.mp3"
+ },
+ {
+  "text": "일하고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0120_3.mp3"
+ },
+ {
+  "text": "일",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0120.mp3"
+ },
+ {
+  "text": "매일 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0121_1.mp3"
+ },
+ {
+  "text": "도서관에서 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0121_2.mp3"
+ },
+ {
+  "text": "한국어 공부가 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0121_3.mp3"
+ },
+ {
+  "text": "공부",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0121.mp3"
+ },
+ {
+  "text": "숙제가 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0122_1.mp3"
+ },
+ {
+  "text": "숙제를 했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0122_2.mp3"
+ },
+ {
+  "text": "숙제를 빨리 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0122_3.mp3"
+ },
+ {
+  "text": "숙제",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0122.mp3"
+ },
+ {
+  "text": "문제가 어려워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0123_1.mp3"
+ },
+ {
+  "text": "이 문제를 알아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0123_2.mp3"
+ },
+ {
+  "text": "문제가 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0123_3.mp3"
+ },
+ {
+  "text": "문제",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0123.mp3"
+ },
+ {
+  "text": "이야기가 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0124_1.mp3"
+ },
+ {
+  "text": "친구와 이야기해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0124_2.mp3"
+ },
+ {
+  "text": "재미있는 이야기를 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0124_3.mp3"
+ },
+ {
+  "text": "이야기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0124.mp3"
+ },
+ {
+  "text": "노래를 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0125_1.mp3"
+ },
+ {
+  "text": "노래를 불러요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0125_2.mp3"
+ },
+ {
+  "text": "이 노래는 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0125_3.mp3"
+ },
+ {
+  "text": "노래",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0125.mp3"
+ },
+ {
+  "text": "영화를 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0126_1.mp3"
+ },
+ {
+  "text": "이 영화는 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0126_2.mp3"
+ },
+ {
+  "text": "주말에 영화를 보고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0126_3.mp3"
+ },
+ {
+  "text": "영화",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0126.mp3"
+ },
+ {
+  "text": "음악을 들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0127_1.mp3"
+ },
+ {
+  "text": "음악이 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0127_2.mp3"
+ },
+ {
+  "text": "공부할 때 음악을 들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0127_3.mp3"
+ },
+ {
+  "text": "음악",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0127.mp3"
+ },
+ {
+  "text": "매일 운동해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0128_1.mp3"
+ },
+ {
+  "text": "운동이 건강에 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0128_2.mp3"
+ },
+ {
+  "text": "공원에서 운동해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0128_3.mp3"
+ },
+ {
+  "text": "운동",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0128.mp3"
+ },
+ {
+  "text": "여행을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0129_1.mp3"
+ },
+ {
+  "text": "일본으로 여행을 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0129_2.mp3"
+ },
+ {
+  "text": "여행이 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0129_3.mp3"
+ },
+ {
+  "text": "여행",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0129.mp3"
+ },
+ {
+  "text": "좋은 생각이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0130_1.mp3"
+ },
+ {
+  "text": "생각이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0130_2.mp3"
+ },
+ {
+  "text": "친구 생각이 나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0130_3.mp3"
+ },
+ {
+  "text": "생각",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0130.mp3"
+ },
+ {
+  "text": "기분이 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0131_1.mp3"
+ },
+ {
+  "text": "오늘 기분이 어때요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0131_2.mp3"
+ },
+ {
+  "text": "기분이 안 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0131_3.mp3"
+ },
+ {
+  "text": "기분",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0131.mp3"
+ },
+ {
+  "text": "사랑해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0132_1.mp3"
+ },
+ {
+  "text": "가족을 사랑해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0132_2.mp3"
+ },
+ {
+  "text": "사랑이 뭐예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0132_3.mp3"
+ },
+ {
+  "text": "사랑",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0132.mp3"
+ },
+ {
+  "text": "학교에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0133_1.mp3"
+ },
+ {
+  "text": "친구 집에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0133_2.mp3"
+ },
+ {
+  "text": "어디에 가요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0133_3.mp3"
+ },
+ {
+  "text": "가다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0133.mp3"
+ },
+ {
+  "text": "집에 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0134_1.mp3"
+ },
+ {
+  "text": "친구가 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0134_2.mp3"
+ },
+ {
+  "text": "언제 와요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0134_3.mp3"
+ },
+ {
+  "text": "오다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0134.mp3"
+ },
+ {
+  "text": "공부를 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0135_1.mp3"
+ },
+ {
+  "text": "운동을 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0135_2.mp3"
+ },
+ {
+  "text": "뭐 해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0135_3.mp3"
+ },
+ {
+  "text": "하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0135.mp3"
+ },
+ {
+  "text": "의사가 되고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0136_1.mp3"
+ },
+ {
+  "text": "선생님이 됐어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0136_2.mp3"
+ },
+ {
+  "text": "어른이 되면 여행해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0136_3.mp3"
+ },
+ {
+  "text": "되다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0136.mp3"
+ },
+ {
+  "text": "책이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0137_1.mp3"
+ },
+ {
+  "text": "집에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0137_2.mp3"
+ },
+ {
+  "text": "시간이 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0137_3.mp3"
+ },
+ {
+  "text": "있다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0137.mp3"
+ },
+ {
+  "text": "시간이 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0138_1.mp3"
+ },
+ {
+  "text": "돈이 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0138_2.mp3"
+ },
+ {
+  "text": "문제가 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0138_3.mp3"
+ },
+ {
+  "text": "없다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0138.mp3"
+ },
+ {
+  "text": "영화를 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0139_1.mp3"
+ },
+ {
+  "text": "텔레비전을 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0139_2.mp3"
+ },
+ {
+  "text": "친구를 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0139_3.mp3"
+ },
+ {
+  "text": "보다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0139.mp3"
+ },
+ {
+  "text": "음악을 들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0140_1.mp3"
+ },
+ {
+  "text": "선생님 말을 들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0140_2.mp3"
+ },
+ {
+  "text": "라디오를 들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0140_3.mp3"
+ },
+ {
+  "text": "듣다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0140.mp3"
+ },
+ {
+  "text": "한국어로 말해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0141_1.mp3"
+ },
+ {
+  "text": "천천히 말해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0141_2.mp3"
+ },
+ {
+  "text": "선생님이 말해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0141_3.mp3"
+ },
+ {
+  "text": "말하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0141.mp3"
+ },
+ {
+  "text": "밥을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0142_1.mp3"
+ },
+ {
+  "text": "사과를 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0142_2.mp3"
+ },
+ {
+  "text": "아침을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0142_3.mp3"
+ },
+ {
+  "text": "먹다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0142.mp3"
+ },
+ {
+  "text": "물을 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0143_1.mp3"
+ },
+ {
+  "text": "커피를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0143_2.mp3"
+ },
+ {
+  "text": "주스를 마시고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0143_3.mp3"
+ },
+ {
+  "text": "마시다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0143.mp3"
+ },
+ {
+  "text": "일찍 자요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0144_1.mp3"
+ },
+ {
+  "text": "아이가 자요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0144_2.mp3"
+ },
+ {
+  "text": "몇 시에 자요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0144_3.mp3"
+ },
+ {
+  "text": "자다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0144.mp3"
+ },
+ {
+  "text": "아침에 일어나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0145_1.mp3"
+ },
+ {
+  "text": "일찍 일어나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0145_2.mp3"
+ },
+ {
+  "text": "몇 시에 일어나요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0145_3.mp3"
+ },
+ {
+  "text": "일어나다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0145.mp3"
+ },
+ {
+  "text": "책을 읽어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0146_1.mp3"
+ },
+ {
+  "text": "신문을 읽어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0146_2.mp3"
+ },
+ {
+  "text": "이 책을 읽고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0146_3.mp3"
+ },
+ {
+  "text": "읽다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0146.mp3"
+ },
+ {
+  "text": "편지를 써요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0147_1.mp3"
+ },
+ {
+  "text": "한국어로 써요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0147_2.mp3"
+ },
+ {
+  "text": "일기를 써요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0147_3.mp3"
+ },
+ {
+  "text": "쓰다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0147.mp3"
+ },
+ {
+  "text": "책을 사요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0148_1.mp3"
+ },
+ {
+  "text": "시장에서 과일을 사요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0148_2.mp3"
+ },
+ {
+  "text": "옷을 사고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0148_3.mp3"
+ },
+ {
+  "text": "사다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0148.mp3"
+ },
+ {
+  "text": "시장에서 과일을 팔아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0149_1.mp3"
+ },
+ {
+  "text": "이 가게에서 옷을 팔아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0149_2.mp3"
+ },
+ {
+  "text": "책을 팔아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0149_3.mp3"
+ },
+ {
+  "text": "팔다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0149.mp3"
+ },
+ {
+  "text": "친구에게 선물을 줘요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0150_1.mp3"
+ },
+ {
+  "text": "물을 줘요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0150_2.mp3"
+ },
+ {
+  "text": "선생님이 숙제를 줘요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0150_3.mp3"
+ },
+ {
+  "text": "주다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0150.mp3"
+ },
+ {
+  "text": "선물을 받았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0151_1.mp3"
+ },
+ {
+  "text": "이메일을 받았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0151_2.mp3"
+ },
+ {
+  "text": "용돈을 받고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0151_3.mp3"
+ },
+ {
+  "text": "받다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0151.mp3"
+ },
+ {
+  "text": "친구를 만났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0152_1.mp3"
+ },
+ {
+  "text": "내일 선생님을 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0152_2.mp3"
+ },
+ {
+  "text": "공원에서 만나고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0152_3.mp3"
+ },
+ {
+  "text": "만나다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0152.mp3"
+ },
+ {
+  "text": "케이크를 만들었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0153_1.mp3"
+ },
+ {
+  "text": "저는 커피를 만들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0153_2.mp3"
+ },
+ {
+  "text": "같이 밥을 만들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0153_3.mp3"
+ },
+ {
+  "text": "만들다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0153.mp3"
+ },
+ {
+  "text": "그 사람을 알아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0154_1.mp3"
+ },
+ {
+  "text": "답을 알았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0154_2.mp3"
+ },
+ {
+  "text": "이 단어를 알아요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0154_3.mp3"
+ },
+ {
+  "text": "알다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0154.mp3"
+ },
+ {
+  "text": "저는 몰라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0155_1.mp3"
+ },
+ {
+  "text": "그 이름을 몰라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0155_2.mp3"
+ },
+ {
+  "text": "길을 몰라서 물어봤어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0155_3.mp3"
+ },
+ {
+  "text": "모르다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0155.mp3"
+ },
+ {
+  "text": "저는 그렇게 생각해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0156_1.mp3"
+ },
+ {
+  "text": "잠깐 생각했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0156_2.mp3"
+ },
+ {
+  "text": "같이 생각해 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0156_3.mp3"
+ },
+ {
+  "text": "생각하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0156.mp3"
+ },
+ {
+  "text": "저는 음악을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0157_1.mp3"
+ },
+ {
+  "text": "고양이를 좋아해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0157_2.mp3"
+ },
+ {
+  "text": "저는 커피를 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0157_3.mp3"
+ },
+ {
+  "text": "좋아하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0157.mp3"
+ },
+ {
+  "text": "저는 매운 음식을 싫어해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0158_1.mp3"
+ },
+ {
+  "text": "추운 날씨를 싫어해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0158_2.mp3"
+ },
+ {
+  "text": "시끄러운 곳을 싫어해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0158_3.mp3"
+ },
+ {
+  "text": "싫어하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0158.mp3"
+ },
+ {
+  "text": "가족을 사랑해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0159_1.mp3"
+ },
+ {
+  "text": "저는 한국을 사랑해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0159_2.mp3"
+ },
+ {
+  "text": "당신을 사랑해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0159_3.mp3"
+ },
+ {
+  "text": "사랑하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0159.mp3"
+ },
+ {
+  "text": "물을 원해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0160_1.mp3"
+ },
+ {
+  "text": "뭘 원해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0160_2.mp3"
+ },
+ {
+  "text": "저는 휴식을 원해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0160_3.mp3"
+ },
+ {
+  "text": "원하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0160.mp3"
+ },
+ {
+  "text": "버스를 기다려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0161_1.mp3"
+ },
+ {
+  "text": "오래 기다렸어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0161_2.mp3"
+ },
+ {
+  "text": "여기서 기다려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0161_3.mp3"
+ },
+ {
+  "text": "기다리다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0161.mp3"
+ },
+ {
+  "text": "수업이 시작해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0162_1.mp3"
+ },
+ {
+  "text": "지금 시작해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0162_2.mp3"
+ },
+ {
+  "text": "한국어 공부를 시작했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0162_3.mp3"
+ },
+ {
+  "text": "시작하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0162.mp3"
+ },
+ {
+  "text": "수업이 끝났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0163_1.mp3"
+ },
+ {
+  "text": "영화가 끝났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0163_2.mp3"
+ },
+ {
+  "text": "일이 곧 끝나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0163_3.mp3"
+ },
+ {
+  "text": "끝나다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0163.mp3"
+ },
+ {
+  "text": "저는 카페에서 일해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0164_1.mp3"
+ },
+ {
+  "text": "매일 열심히 일해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0164_2.mp3"
+ },
+ {
+  "text": "오늘 일했어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0164_3.mp3"
+ },
+ {
+  "text": "일하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0164.mp3"
+ },
+ {
+  "text": "도서관에서 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0165_1.mp3"
+ },
+ {
+  "text": "한국어를 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0165_2.mp3"
+ },
+ {
+  "text": "어제 밤에 공부했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0165_3.mp3"
+ },
+ {
+  "text": "공부하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0165.mp3"
+ },
+ {
+  "text": "한국어를 배워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0166_1.mp3"
+ },
+ {
+  "text": "요리를 배우고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0166_2.mp3"
+ },
+ {
+  "text": "학교에서 배웠어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0166_3.mp3"
+ },
+ {
+  "text": "배우다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0166.mp3"
+ },
+ {
+  "text": "선생님이 한국어를 가르쳐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0167_1.mp3"
+ },
+ {
+  "text": "저에게 가르쳐 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0167_2.mp3"
+ },
+ {
+  "text": "친구에게 수학을 가르쳐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0167_3.mp3"
+ },
+ {
+  "text": "가르치다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0167.mp3"
+ },
+ {
+  "text": "공원에서 놀아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0168_1.mp3"
+ },
+ {
+  "text": "친구와 같이 놀았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0168_2.mp3"
+ },
+ {
+  "text": "주말에 같이 놀아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0168_3.mp3"
+ },
+ {
+  "text": "놀다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0168.mp3"
+ },
+ {
+  "text": "집에서 쉬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0169_1.mp3"
+ },
+ {
+  "text": "잠깐 쉬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0169_2.mp3"
+ },
+ {
+  "text": "주말에 쉬고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0169_3.mp3"
+ },
+ {
+  "text": "쉬다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0169.mp3"
+ },
+ {
+  "text": "매일 공원을 걸어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0170_1.mp3"
+ },
+ {
+  "text": "학교까지 걸었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0170_2.mp3"
+ },
+ {
+  "text": "같이 걷고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0170_3.mp3"
+ },
+ {
+  "text": "걷다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0170.mp3"
+ },
+ {
+  "text": "아이들이 뛰어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0171_1.mp3"
+ },
+ {
+  "text": "빨리 뛰었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0171_2.mp3"
+ },
+ {
+  "text": "버스를 향해 뛰었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0171_3.mp3"
+ },
+ {
+  "text": "뛰다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0171.mp3"
+ },
+ {
+  "text": "버스를 타요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0172_1.mp3"
+ },
+ {
+  "text": "지하철을 타고 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0172_2.mp3"
+ },
+ {
+  "text": "자전거를 타고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0172_3.mp3"
+ },
+ {
+  "text": "타다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0172.mp3"
+ },
+ {
+  "text": "다음 역에서 내려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0173_1.mp3"
+ },
+ {
+  "text": "버스에서 내렸어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0173_2.mp3"
+ },
+ {
+  "text": "비가 내려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0173_3.mp3"
+ },
+ {
+  "text": "내리다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0173.mp3"
+ },
+ {
+  "text": "문을 열어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0174_1.mp3"
+ },
+ {
+  "text": "창문을 열었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0174_2.mp3"
+ },
+ {
+  "text": "가방을 열어 보세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0174_3.mp3"
+ },
+ {
+  "text": "열다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0174.mp3"
+ },
+ {
+  "text": "문을 닫아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0175_1.mp3"
+ },
+ {
+  "text": "창문을 닫았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0175_2.mp3"
+ },
+ {
+  "text": "문을 닫아 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0175_3.mp3"
+ },
+ {
+  "text": "닫다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0175.mp3"
+ },
+ {
+  "text": "여기 앉아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0176_1.mp3"
+ },
+ {
+  "text": "의자에 앉았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0176_2.mp3"
+ },
+ {
+  "text": "같이 앉아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0176_3.mp3"
+ },
+ {
+  "text": "앉다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0176.mp3"
+ },
+ {
+  "text": "문 앞에 서 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0177_1.mp3"
+ },
+ {
+  "text": "버스 정류장에 서요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0177_2.mp3"
+ },
+ {
+  "text": "줄을 서 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0177_3.mp3"
+ },
+ {
+  "text": "서다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0177.mp3"
+ },
+ {
+  "text": "아기가 웃어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0178_1.mp3"
+ },
+ {
+  "text": "재미있어서 웃었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0178_2.mp3"
+ },
+ {
+  "text": "같이 웃어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0178_3.mp3"
+ },
+ {
+  "text": "웃다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0178.mp3"
+ },
+ {
+  "text": "아이가 울어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0179_1.mp3"
+ },
+ {
+  "text": "영화를 보고 울었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0179_2.mp3"
+ },
+ {
+  "text": "슬퍼서 울었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0179_3.mp3"
+ },
+ {
+  "text": "울다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0179.mp3"
+ },
+ {
+  "text": "꽃이 죽었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0180_1.mp3"
+ },
+ {
+  "text": "고기가 죽었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0180_2.mp3"
+ },
+ {
+  "text": "화분의 식물이 죽었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0180_3.mp3"
+ },
+ {
+  "text": "죽다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0180.mp3"
+ },
+ {
+  "text": "저는 서울에 살아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0181_1.mp3"
+ },
+ {
+  "text": "어디에 살아요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0181_2.mp3"
+ },
+ {
+  "text": "부모님과 같이 살아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0181_3.mp3"
+ },
+ {
+  "text": "살다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0181.mp3"
+ },
+ {
+  "text": "오늘 원피스를 입었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0182_1.mp3"
+ },
+ {
+  "text": "따뜻한 옷을 입어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0182_2.mp3"
+ },
+ {
+  "text": "뭘 입고 싶어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0182_3.mp3"
+ },
+ {
+  "text": "입다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0182.mp3"
+ },
+ {
+  "text": "손을 씻어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0183_1.mp3"
+ },
+ {
+  "text": "밥 먹기 전에 손을 씻어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0183_2.mp3"
+ },
+ {
+  "text": "얼굴을 씻었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0183_3.mp3"
+ },
+ {
+  "text": "씻다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0183.mp3"
+ },
+ {
+  "text": "열쇠를 찾아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0184_1.mp3"
+ },
+ {
+  "text": "가방을 찾았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0184_2.mp3"
+ },
+ {
+  "text": "화장실을 찾아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0184_3.mp3"
+ },
+ {
+  "text": "찾다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0184.mp3"
+ },
+ {
+  "text": "이메일을 보냈어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0185_1.mp3"
+ },
+ {
+  "text": "친구에게 사진을 보냈어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0185_2.mp3"
+ },
+ {
+  "text": "주말을 집에서 보냈어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0185_3.mp3"
+ },
+ {
+  "text": "보내다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0185.mp3"
+ },
+ {
+  "text": "날씨가 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0186_1.mp3"
+ },
+ {
+  "text": "이 음식이 정말 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0186_2.mp3"
+ },
+ {
+  "text": "건강이 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0186_3.mp3"
+ },
+ {
+  "text": "좋다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0186.mp3"
+ },
+ {
+  "text": "날씨가 나빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0187_1.mp3"
+ },
+ {
+  "text": "기분이 나빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0187_2.mp3"
+ },
+ {
+  "text": "이 소식이 나빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0187_3.mp3"
+ },
+ {
+  "text": "나쁘다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0187.mp3"
+ },
+ {
+  "text": "이 가방이 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0188_1.mp3"
+ },
+ {
+  "text": "그 건물이 아주 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0188_2.mp3"
+ },
+ {
+  "text": "사이즈가 너무 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0188_3.mp3"
+ },
+ {
+  "text": "크다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0188.mp3"
+ },
+ {
+  "text": "이 방이 작아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0189_1.mp3"
+ },
+ {
+  "text": "이 신발이 작아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0189_2.mp3"
+ },
+ {
+  "text": "글씨가 너무 작아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0189_3.mp3"
+ },
+ {
+  "text": "작다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0189.mp3"
+ },
+ {
+  "text": "사람이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0190_1.mp3"
+ },
+ {
+  "text": "숙제가 너무 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0190_2.mp3"
+ },
+ {
+  "text": "돈이 많고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0190_3.mp3"
+ },
+ {
+  "text": "많다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0190.mp3"
+ },
+ {
+  "text": "시간이 적어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0191_1.mp3"
+ },
+ {
+  "text": "학생이 적어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0191_2.mp3"
+ },
+ {
+  "text": "돈이 너무 적어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0191_3.mp3"
+ },
+ {
+  "text": "적다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0191.mp3"
+ },
+ {
+  "text": "이 산이 높아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0192_1.mp3"
+ },
+ {
+  "text": "건물이 높아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0192_2.mp3"
+ },
+ {
+  "text": "가격이 너무 높아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0192_3.mp3"
+ },
+ {
+  "text": "높다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0192.mp3"
+ },
+ {
+  "text": "이 의자가 낮아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0193_1.mp3"
+ },
+ {
+  "text": "온도가 낮아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0193_2.mp3"
+ },
+ {
+  "text": "가격이 낮아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0193_3.mp3"
+ },
+ {
+  "text": "낮다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0193.mp3"
+ },
+ {
+  "text": "머리카락이 길어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0194_1.mp3"
+ },
+ {
+  "text": "이 줄이 너무 길어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0194_2.mp3"
+ },
+ {
+  "text": "영화가 길어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0194_3.mp3"
+ },
+ {
+  "text": "길다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0194.mp3"
+ },
+ {
+  "text": "이 치마가 짧아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0195_1.mp3"
+ },
+ {
+  "text": "시간이 너무 짧아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0195_2.mp3"
+ },
+ {
+  "text": "머리카락이 짧아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0195_3.mp3"
+ },
+ {
+  "text": "짧다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0195.mp3"
+ },
+ {
+  "text": "이 기차가 빨라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0196_1.mp3"
+ },
+ {
+  "text": "그 선수가 정말 빨라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0196_2.mp3"
+ },
+ {
+  "text": "인터넷이 빨라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0196_3.mp3"
+ },
+ {
+  "text": "빠르다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0196.mp3"
+ },
+ {
+  "text": "이 컴퓨터가 느려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0197_1.mp3"
+ },
+ {
+  "text": "걸음이 느려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0197_2.mp3"
+ },
+ {
+  "text": "배달이 너무 느려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0197_3.mp3"
+ },
+ {
+  "text": "느리다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0197.mp3"
+ },
+ {
+  "text": "이 문제가 쉬워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0198_1.mp3"
+ },
+ {
+  "text": "한국어가 쉬워요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0198_2.mp3"
+ },
+ {
+  "text": "이 요리는 쉬워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0198_3.mp3"
+ },
+ {
+  "text": "쉽다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0198.mp3"
+ },
+ {
+  "text": "시험이 어려워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0199_1.mp3"
+ },
+ {
+  "text": "한자가 어려워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0199_2.mp3"
+ },
+ {
+  "text": "이 질문이 어려워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0199_3.mp3"
+ },
+ {
+  "text": "어렵다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0199.mp3"
+ },
+ {
+  "text": "이 핸드폰이 새로워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0200_1.mp3"
+ },
+ {
+  "text": "새로운 친구를 만났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0200_2.mp3"
+ },
+ {
+  "text": "새로운 것을 배우고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0200_3.mp3"
+ },
+ {
+  "text": "새롭다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0200.mp3"
+ },
+ {
+  "text": "이 가방은 너무 비싸요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0201_1.mp3"
+ },
+ {
+  "text": "그 식당은 좀 비싸요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0201_2.mp3"
+ },
+ {
+  "text": "이 옷은 왜 이렇게 비싸요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0201_3.mp3"
+ },
+ {
+  "text": "비싸다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0201.mp3"
+ },
+ {
+  "text": "이 과일은 정말 싸요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0202_1.mp3"
+ },
+ {
+  "text": "여기 음식이 싸고 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0202_2.mp3"
+ },
+ {
+  "text": "시장에서 사면 더 싸요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0202_3.mp3"
+ },
+ {
+  "text": "싸다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0202.mp3"
+ },
+ {
+  "text": "이 김치찌개가 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0203_1.mp3"
+ },
+ {
+  "text": "엄마가 만든 음식은 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0203_2.mp3"
+ },
+ {
+  "text": "이 케이크 정말 맛있어요!",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0203_3.mp3"
+ },
+ {
+  "text": "맛있다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0203.mp3"
+ },
+ {
+  "text": "이 커피는 맛없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0204_1.mp3"
+ },
+ {
+  "text": "너무 짜서 맛없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0204_2.mp3"
+ },
+ {
+  "text": "그 식당 음식이 맛없었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0204_3.mp3"
+ },
+ {
+  "text": "맛없다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0204.mp3"
+ },
+ {
+  "text": "그 꽃이 정말 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0205_1.mp3"
+ },
+ {
+  "text": "언니는 얼굴이 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0205_2.mp3"
+ },
+ {
+  "text": "이 드레스가 너무 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0205_3.mp3"
+ },
+ {
+  "text": "예쁘다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0205.mp3"
+ },
+ {
+  "text": "오빠 옷이 멋있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0206_1.mp3"
+ },
+ {
+  "text": "그 배우는 정말 멋있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0206_2.mp3"
+ },
+ {
+  "text": "저 자동차가 멋있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0206_3.mp3"
+ },
+ {
+  "text": "멋있다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0206.mp3"
+ },
+ {
+  "text": "제주도는 정말 아름다워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0207_1.mp3"
+ },
+ {
+  "text": "저 산이 아름다워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0207_2.mp3"
+ },
+ {
+  "text": "노을이 아름다워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0207_3.mp3"
+ },
+ {
+  "text": "아름답다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0207.mp3"
+ },
+ {
+  "text": "오늘 날씨가 너무 더워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0208_1.mp3"
+ },
+ {
+  "text": "여름에는 한국이 더워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0208_2.mp3"
+ },
+ {
+  "text": "방이 더워서 창문을 열었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0208_3.mp3"
+ },
+ {
+  "text": "덥다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0208.mp3"
+ },
+ {
+  "text": "오늘 밖이 너무 추워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0209_1.mp3"
+ },
+ {
+  "text": "겨울에는 서울이 추워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0209_2.mp3"
+ },
+ {
+  "text": "추워서 코트를 입었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0209_3.mp3"
+ },
+ {
+  "text": "춥다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0209.mp3"
+ },
+ {
+  "text": "봄 날씨가 따뜻해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0210_1.mp3"
+ },
+ {
+  "text": "이 담요가 따뜻해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0210_2.mp3"
+ },
+ {
+  "text": "따뜻한 차 한 잔 마실게요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0210_3.mp3"
+ },
+ {
+  "text": "따뜻하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0210.mp3"
+ },
+ {
+  "text": "요즘 많이 바빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0211_1.mp3"
+ },
+ {
+  "text": "주말에도 바빠요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0211_2.mp3"
+ },
+ {
+  "text": "바빠서 밥을 못 먹었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0211_3.mp3"
+ },
+ {
+  "text": "바쁘다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0211.mp3"
+ },
+ {
+  "text": "머리가 아파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0212_1.mp3"
+ },
+ {
+  "text": "배가 아파서 학교에 못 갔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0212_2.mp3"
+ },
+ {
+  "text": "아파서 병원에 갔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0212_3.mp3"
+ },
+ {
+  "text": "아프다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0212.mp3"
+ },
+ {
+  "text": "오늘 너무 피곤해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0213_1.mp3"
+ },
+ {
+  "text": "일이 많아서 피곤해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0213_2.mp3"
+ },
+ {
+  "text": "피곤해서 일찍 잤어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0213_3.mp3"
+ },
+ {
+  "text": "피곤하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0213.mp3"
+ },
+ {
+  "text": "지금 정말 행복해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0214_1.mp3"
+ },
+ {
+  "text": "가족과 함께라서 행복해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0214_2.mp3"
+ },
+ {
+  "text": "행복한 하루 보내세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0214_3.mp3"
+ },
+ {
+  "text": "행복하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0214.mp3"
+ },
+ {
+  "text": "이 영화는 너무 슬퍼요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0215_1.mp3"
+ },
+ {
+  "text": "친구가 떠나서 슬퍼요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0215_2.mp3"
+ },
+ {
+  "text": "슬퍼서 울었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0215_3.mp3"
+ },
+ {
+  "text": "슬프다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0215.mp3"
+ },
+ {
+  "text": "이 게임이 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0216_1.mp3"
+ },
+ {
+  "text": "한국어 공부가 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0216_2.mp3"
+ },
+ {
+  "text": "그 영화 정말 재미있었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0216_3.mp3"
+ },
+ {
+  "text": "재미있다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0216.mp3"
+ },
+ {
+  "text": "이 책은 재미없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0217_1.mp3"
+ },
+ {
+  "text": "그 수업이 너무 재미없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0217_2.mp3"
+ },
+ {
+  "text": "파티가 재미없어서 일찍 갔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0217_3.mp3"
+ },
+ {
+  "text": "재미없다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0217.mp3"
+ },
+ {
+  "text": "건강이 중요해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0218_1.mp3"
+ },
+ {
+  "text": "이 회의가 정말 중요해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0218_2.mp3"
+ },
+ {
+  "text": "중요한 약속을 잊지 마세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0218_3.mp3"
+ },
+ {
+  "text": "중요하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0218.mp3"
+ },
+ {
+  "text": "두 사람이 키가 같아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0219_1.mp3"
+ },
+ {
+  "text": "이 색이 저 색이랑 같아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0219_2.mp3"
+ },
+ {
+  "text": "우리 취미가 같아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0219_3.mp3"
+ },
+ {
+  "text": "같다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0219.mp3"
+ },
+ {
+  "text": "두 사람은 성격이 달라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0220_1.mp3"
+ },
+ {
+  "text": "이 가방이랑 저 가방은 달라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0220_2.mp3"
+ },
+ {
+  "text": "한국어와 일본어는 달라요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0220_3.mp3"
+ },
+ {
+  "text": "다르다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0220.mp3"
+ },
+ {
+  "text": "밥을 많이 먹었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0221_1.mp3"
+ },
+ {
+  "text": "많이 기다렸어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0221_2.mp3"
+ },
+ {
+  "text": "한국어를 많이 공부했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0221_3.mp3"
+ },
+ {
+  "text": "많이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0221.mp3"
+ },
+ {
+  "text": "한국어를 조금 알아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0222_1.mp3"
+ },
+ {
+  "text": "조금 기다려 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0222_2.mp3"
+ },
+ {
+  "text": "조금 피곤해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0222_3.mp3"
+ },
+ {
+  "text": "조금",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0222.mp3"
+ },
+ {
+  "text": "오늘 날씨가 아주 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0223_1.mp3"
+ },
+ {
+  "text": "이 음식이 아주 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0223_2.mp3"
+ },
+ {
+  "text": "그 사람은 아주 친절해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0223_3.mp3"
+ },
+ {
+  "text": "아주",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0223.mp3"
+ },
+ {
+  "text": "너무 먹어서 배불러요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0224_1.mp3"
+ },
+ {
+  "text": "이 드라마가 너무 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0224_2.mp3"
+ },
+ {
+  "text": "너무 추워서 나가기 싫어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0224_3.mp3"
+ },
+ {
+  "text": "너무",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0224.mp3"
+ },
+ {
+  "text": "정말 감사해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0225_1.mp3"
+ },
+ {
+  "text": "정말 힘들었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0225_2.mp3"
+ },
+ {
+  "text": "이거 정말 맛있어요!",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0225_3.mp3"
+ },
+ {
+  "text": "정말",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0225.mp3"
+ },
+ {
+  "text": "진짜예요? 믿을 수 없어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0226_1.mp3"
+ },
+ {
+  "text": "진짜 맛있는 라면을 찾았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0226_2.mp3"
+ },
+ {
+  "text": "그거 진짜 어려워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0226_3.mp3"
+ },
+ {
+  "text": "진짜",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0226.mp3"
+ },
+ {
+  "text": "좀 도와주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0227_1.mp3"
+ },
+ {
+  "text": "창문 좀 열어 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0227_2.mp3"
+ },
+ {
+  "text": "좀 더 크게 말해 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0227_3.mp3"
+ },
+ {
+  "text": "좀",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0227.mp3"
+ },
+ {
+  "text": "한국어를 잘 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0228_1.mp3"
+ },
+ {
+  "text": "잘 잤어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0228_2.mp3"
+ },
+ {
+  "text": "요리를 잘 못해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0228_3.mp3"
+ },
+ {
+  "text": "잘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0228.mp3"
+ },
+ {
+  "text": "수영을 못 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0229_1.mp3"
+ },
+ {
+  "text": "어제 못 잤어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0229_2.mp3"
+ },
+ {
+  "text": "바빠서 못 갔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0229_3.mp3"
+ },
+ {
+  "text": "못",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0229.mp3"
+ },
+ {
+  "text": "오늘 학교에 안 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0230_1.mp3"
+ },
+ {
+  "text": "고기를 안 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0230_2.mp3"
+ },
+ {
+  "text": "안 피곤해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0230_3.mp3"
+ },
+ {
+  "text": "안",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0230.mp3"
+ },
+ {
+  "text": "다시 한번 말씀해 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0231_1.mp3"
+ },
+ {
+  "text": "내일 다시 올게요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0231_2.mp3"
+ },
+ {
+  "text": "이 영화를 다시 보고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0231_3.mp3"
+ },
+ {
+  "text": "다시",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0231.mp3"
+ },
+ {
+  "text": "또 만나요!",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0232_1.mp3"
+ },
+ {
+  "text": "또 늦었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0232_2.mp3"
+ },
+ {
+  "text": "이 책을 또 읽고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0232_3.mp3"
+ },
+ {
+  "text": "또",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0232.mp3"
+ },
+ {
+  "text": "먼저 손을 씻어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0233_1.mp3"
+ },
+ {
+  "text": "저 먼저 갈게요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0233_2.mp3"
+ },
+ {
+  "text": "먼저 이것을 해 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0233_3.mp3"
+ },
+ {
+  "text": "먼저",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0233.mp3"
+ },
+ {
+  "text": "빨리 오세요!",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0234_1.mp3"
+ },
+ {
+  "text": "빨리 먹고 나가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0234_2.mp3"
+ },
+ {
+  "text": "빨리 걸어서 늦지 않았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0234_3.mp3"
+ },
+ {
+  "text": "빨리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0234.mp3"
+ },
+ {
+  "text": "천천히 말해 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0235_1.mp3"
+ },
+ {
+  "text": "천천히 걸어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0235_2.mp3"
+ },
+ {
+  "text": "천천히 먹는 게 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0235_3.mp3"
+ },
+ {
+  "text": "천천히",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0235.mp3"
+ },
+ {
+  "text": "항상 감사해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0236_1.mp3"
+ },
+ {
+  "text": "아침에 항상 커피를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0236_2.mp3"
+ },
+ {
+  "text": "항상 조심하세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0236_3.mp3"
+ },
+ {
+  "text": "항상",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0236.mp3"
+ },
+ {
+  "text": "보통 아침 7시에 일어나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0237_1.mp3"
+ },
+ {
+  "text": "점심은 보통 집에서 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0237_2.mp3"
+ },
+ {
+  "text": "보통 어디서 공부해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0237_3.mp3"
+ },
+ {
+  "text": "보통",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0237.mp3"
+ },
+ {
+  "text": "가끔 영화를 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0238_1.mp3"
+ },
+ {
+  "text": "친구를 가끔 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0238_2.mp3"
+ },
+ {
+  "text": "가끔 이 카페에 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0238_3.mp3"
+ },
+ {
+  "text": "가끔",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0238.mp3"
+ },
+ {
+  "text": "이 식당에 자주 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0239_1.mp3"
+ },
+ {
+  "text": "자주 운동을 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0239_2.mp3"
+ },
+ {
+  "text": "친구에게 자주 연락해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0239_3.mp3"
+ },
+ {
+  "text": "자주",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0239.mp3"
+ },
+ {
+  "text": "벌써 10시예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0240_1.mp3"
+ },
+ {
+  "text": "벌써 다 먹었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0240_2.mp3"
+ },
+ {
+  "text": "벌써 방학이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0240_3.mp3"
+ },
+ {
+  "text": "벌써",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0240.mp3"
+ },
+ {
+  "text": "아직 안 왔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0241_1.mp3"
+ },
+ {
+  "text": "숙제를 아직 못 했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0241_2.mp3"
+ },
+ {
+  "text": "아직 배고파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0241_3.mp3"
+ },
+ {
+  "text": "아직",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0241.mp3"
+ },
+ {
+  "text": "같이 밥 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0242_1.mp3"
+ },
+ {
+  "text": "친구와 같이 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0242_2.mp3"
+ },
+ {
+  "text": "같이 영화 보고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0242_3.mp3"
+ },
+ {
+  "text": "같이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0242.mp3"
+ },
+ {
+  "text": "혼자 밥을 먹었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0243_1.mp3"
+ },
+ {
+  "text": "혼자 여행하고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0243_2.mp3"
+ },
+ {
+  "text": "혼자 공부하는 게 어려워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0243_3.mp3"
+ },
+ {
+  "text": "혼자",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0243.mp3"
+ },
+ {
+  "text": "한국어가 제일 좋아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0244_1.mp3"
+ },
+ {
+  "text": "이 식당이 제일 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0244_2.mp3"
+ },
+ {
+  "text": "제일 좋아하는 계절이 뭐예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0244_3.mp3"
+ },
+ {
+  "text": "제일",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0244.mp3"
+ },
+ {
+  "text": "가장 좋아하는 음식이 뭐예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0245_1.mp3"
+ },
+ {
+  "text": "서울이 한국에서 가장 커요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0245_2.mp3"
+ },
+ {
+  "text": "이게 가장 쉬운 방법이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0245_3.mp3"
+ },
+ {
+  "text": "가장",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0245.mp3"
+ },
+ {
+  "text": "이 책이 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0246_1.mp3"
+ },
+ {
+  "text": "이 사람이 제 친구예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0246_2.mp3"
+ },
+ {
+  "text": "이 가방은 얼마예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0246_3.mp3"
+ },
+ {
+  "text": "이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0246.mp3"
+ },
+ {
+  "text": "그 영화 봤어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0247_1.mp3"
+ },
+ {
+  "text": "그 사람이 선생님이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0247_2.mp3"
+ },
+ {
+  "text": "그 식당에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0247_3.mp3"
+ },
+ {
+  "text": "그",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0247.mp3"
+ },
+ {
+  "text": "무슨 음식을 좋아해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0248_1.mp3"
+ },
+ {
+  "text": "무슨 일이에요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0248_2.mp3"
+ },
+ {
+  "text": "무슨 영화를 봤어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0248_3.mp3"
+ },
+ {
+  "text": "무슨",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0248.mp3"
+ },
+ {
+  "text": "어떤 음악을 좋아해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0249_1.mp3"
+ },
+ {
+  "text": "어떤 색이 좋아요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0249_2.mp3"
+ },
+ {
+  "text": "어떤 사람을 좋아해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0249_3.mp3"
+ },
+ {
+  "text": "어떤",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0249.mp3"
+ },
+ {
+  "text": "사과 하나 주세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0250_1.mp3"
+ },
+ {
+  "text": "질문이 하나 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0250_2.mp3"
+ },
+ {
+  "text": "하나만 더 먹을게요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0250_3.mp3"
+ },
+ {
+  "text": "하나",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0250.mp3"
+ },
+ {
+  "text": "사과가 둘 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0251_1.mp3"
+ },
+ {
+  "text": "우리 둘이서 밥을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0251_2.mp3"
+ },
+ {
+  "text": "아이가 둘이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0251_3.mp3"
+ },
+ {
+  "text": "둘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0251.mp3"
+ },
+ {
+  "text": "의자가 셋 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0252_1.mp3"
+ },
+ {
+  "text": "우리 셋이서 영화를 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0252_2.mp3"
+ },
+ {
+  "text": "사탕을 셋 먹었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0252_3.mp3"
+ },
+ {
+  "text": "셋",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0252.mp3"
+ },
+ {
+  "text": "책이 넷 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0253_1.mp3"
+ },
+ {
+  "text": "고양이가 넷이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0253_2.mp3"
+ },
+ {
+  "text": "사람이 넷 왔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0253_3.mp3"
+ },
+ {
+  "text": "넷",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0253.mp3"
+ },
+ {
+  "text": "손가락이 다섯 개예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0254_1.mp3"
+ },
+ {
+  "text": "다섯 시에 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0254_2.mp3"
+ },
+ {
+  "text": "사과를 다섯 개 샀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0254_3.mp3"
+ },
+ {
+  "text": "다섯",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0254.mp3"
+ },
+ {
+  "text": "여섯 시에 일어나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0255_1.mp3"
+ },
+ {
+  "text": "달걀이 여섯 개 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0255_2.mp3"
+ },
+ {
+  "text": "학생이 여섯 명이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0255_3.mp3"
+ },
+ {
+  "text": "여섯",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0255.mp3"
+ },
+ {
+  "text": "일주일은 일곱 날이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0256_1.mp3"
+ },
+ {
+  "text": "일곱 시에 저녁을 먹어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0256_2.mp3"
+ },
+ {
+  "text": "사탕이 일곱 개 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0256_3.mp3"
+ },
+ {
+  "text": "일곱",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0256.mp3"
+ },
+ {
+  "text": "여덟 시에 잠을 자요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0257_1.mp3"
+ },
+ {
+  "text": "다리가 여덟 개예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0257_2.mp3"
+ },
+ {
+  "text": "여덟 명이 왔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0257_3.mp3"
+ },
+ {
+  "text": "여덟",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0257.mp3"
+ },
+ {
+  "text": "아홉 시에 학교에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0258_1.mp3"
+ },
+ {
+  "text": "고양이 목숨이 아홉 개예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0258_2.mp3"
+ },
+ {
+  "text": "사람이 아홉 명이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0258_3.mp3"
+ },
+ {
+  "text": "아홉",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0258.mp3"
+ },
+ {
+  "text": "열 시에 회의가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0259_1.mp3"
+ },
+ {
+  "text": "연필이 열 자루 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0259_2.mp3"
+ },
+ {
+  "text": "열까지 세어 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0259_3.mp3"
+ },
+ {
+  "text": "열",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0259.mp3"
+ },
+ {
+  "text": "백 원짜리 동전이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0260_1.mp3"
+ },
+ {
+  "text": "백 명이 왔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0260_2.mp3"
+ },
+ {
+  "text": "백 개를 샀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0260_3.mp3"
+ },
+ {
+  "text": "백",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0260.mp3"
+ },
+ {
+  "text": "천 원을 줬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0261_1.mp3"
+ },
+ {
+  "text": "천 명이 모였어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0261_2.mp3"
+ },
+ {
+  "text": "책이 천 권이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0261_3.mp3"
+ },
+ {
+  "text": "천",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0261.mp3"
+ },
+ {
+  "text": "이만 원이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0262_1.mp3"
+ },
+ {
+  "text": "만 명이 살아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0262_2.mp3"
+ },
+ {
+  "text": "만 원을 냈어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0262_3.mp3"
+ },
+ {
+  "text": "만",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0262.mp3"
+ },
+ {
+  "text": "책이 책상 위에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0263_1.mp3"
+ },
+ {
+  "text": "고양이가 소파 위에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0263_2.mp3"
+ },
+ {
+  "text": "사진이 위에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0263_3.mp3"
+ },
+ {
+  "text": "위",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0263.mp3"
+ },
+ {
+  "text": "신발이 침대 아래에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0264_1.mp3"
+ },
+ {
+  "text": "고양이가 테이블 아래에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0264_2.mp3"
+ },
+ {
+  "text": "이름이 아래에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0264_3.mp3"
+ },
+ {
+  "text": "아래",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0264.mp3"
+ },
+ {
+  "text": "학교 앞에서 기다려요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0265_1.mp3"
+ },
+ {
+  "text": "앞에 공원이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0265_2.mp3"
+ },
+ {
+  "text": "차가 집 앞에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0265_3.mp3"
+ },
+ {
+  "text": "앞",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0265.mp3"
+ },
+ {
+  "text": "가방이 의자 뒤에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0266_1.mp3"
+ },
+ {
+  "text": "뒤에 누가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0266_2.mp3"
+ },
+ {
+  "text": "학교 뒤에 산이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0266_3.mp3"
+ },
+ {
+  "text": "뒤",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0266.mp3"
+ },
+ {
+  "text": "가방 안에 책이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0267_1.mp3"
+ },
+ {
+  "text": "냉장고 안에 뭐가 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0267_2.mp3"
+ },
+ {
+  "text": "상자 안을 봐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0267_3.mp3"
+ },
+ {
+  "text": "안",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0267.mp3"
+ },
+ {
+  "text": "밖에 비가 와요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0268_1.mp3"
+ },
+ {
+  "text": "개가 밖에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0268_2.mp3"
+ },
+ {
+  "text": "지금 밖에 나가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0268_3.mp3"
+ },
+ {
+  "text": "밖",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0268.mp3"
+ },
+ {
+  "text": "제 옆에 앉아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0269_1.mp3"
+ },
+ {
+  "text": "학교 옆에 편의점이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0269_2.mp3"
+ },
+ {
+  "text": "가방이 내 옆에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0269_3.mp3"
+ },
+ {
+  "text": "옆",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0269.mp3"
+ },
+ {
+  "text": "두 건물 사이에 공원이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0270_1.mp3"
+ },
+ {
+  "text": "책상과 침대 사이가 좁아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0270_2.mp3"
+ },
+ {
+  "text": "나무 사이로 걸어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0270_3.mp3"
+ },
+ {
+  "text": "사이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0270.mp3"
+ },
+ {
+  "text": "오른쪽으로 가세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0271_1.mp3"
+ },
+ {
+  "text": "은행이 오른쪽에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0271_2.mp3"
+ },
+ {
+  "text": "오른쪽 손을 들어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0271_3.mp3"
+ },
+ {
+  "text": "오른쪽",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0271.mp3"
+ },
+ {
+  "text": "왼쪽으로 도세요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0272_1.mp3"
+ },
+ {
+  "text": "카페가 왼쪽에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0272_2.mp3"
+ },
+ {
+  "text": "왼쪽 다리가 아파요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0272_3.mp3"
+ },
+ {
+  "text": "왼쪽",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0272.mp3"
+ },
+ {
+  "text": "무슨 색을 좋아해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0273_1.mp3"
+ },
+ {
+  "text": "이 색이 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0273_2.mp3"
+ },
+ {
+  "text": "좋아하는 색이 뭐예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0273_3.mp3"
+ },
+ {
+  "text": "색",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0273.mp3"
+ },
+ {
+  "text": "하얀색 셔츠를 입어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0274_1.mp3"
+ },
+ {
+  "text": "눈이 하얀색이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0274_2.mp3"
+ },
+ {
+  "text": "하얀색 고양이가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0274_3.mp3"
+ },
+ {
+  "text": "하얀색",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0274.mp3"
+ },
+ {
+  "text": "검은색 가방을 샀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0275_1.mp3"
+ },
+ {
+  "text": "검은색 고양이가 귀여워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0275_2.mp3"
+ },
+ {
+  "text": "저는 검은색 옷을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0275_3.mp3"
+ },
+ {
+  "text": "검은색",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0275.mp3"
+ },
+ {
+  "text": "빨간색 장미가 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0276_1.mp3"
+ },
+ {
+  "text": "빨간색 옷을 입었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0276_2.mp3"
+ },
+ {
+  "text": "신호등이 빨간색이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0276_3.mp3"
+ },
+ {
+  "text": "빨간색",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0276.mp3"
+ },
+ {
+  "text": "하늘이 파란색이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0277_1.mp3"
+ },
+ {
+  "text": "파란색 펜을 써요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0277_2.mp3"
+ },
+ {
+  "text": "파란색 티셔츠가 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0277_3.mp3"
+ },
+ {
+  "text": "파란색",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0277.mp3"
+ },
+ {
+  "text": "저는 날마다 운동해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0278_1.mp3"
+ },
+ {
+  "text": "날마다 한국어를 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0278_2.mp3"
+ },
+ {
+  "text": "날마다 커피를 마셔요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0278_3.mp3"
+ },
+ {
+  "text": "날마다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0278.mp3"
+ },
+ {
+  "text": "주말에 뭐 해요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0279_1.mp3"
+ },
+ {
+  "text": "주말에 친구를 만나요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0279_2.mp3"
+ },
+ {
+  "text": "이번 주말은 쉬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0279_3.mp3"
+ },
+ {
+  "text": "주말",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0279.mp3"
+ },
+ {
+  "text": "다음 주에 휴가예요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0280_1.mp3"
+ },
+ {
+  "text": "휴가 때 일본에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0280_2.mp3"
+ },
+ {
+  "text": "휴가가 얼마나 있어요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0280_3.mp3"
+ },
+ {
+  "text": "휴가",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0280.mp3"
+ },
+ {
+  "text": "오늘이 내 생일이에요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0281_1.mp3"
+ },
+ {
+  "text": "생일 축하해요!",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0281_2.mp3"
+ },
+ {
+  "text": "친구 생일 선물을 샀어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0281_3.mp3"
+ },
+ {
+  "text": "생일",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0281.mp3"
+ },
+ {
+  "text": "생일 선물을 받았어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0282_1.mp3"
+ },
+ {
+  "text": "친구한테 선물을 줬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0282_2.mp3"
+ },
+ {
+  "text": "선물이 예쁘게 포장되어 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0282_3.mp3"
+ },
+ {
+  "text": "선물",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0282.mp3"
+ },
+ {
+  "text": "생일 파티에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0283_1.mp3"
+ },
+ {
+  "text": "파티에서 노래를 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0283_2.mp3"
+ },
+ {
+  "text": "파티 준비를 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0283_3.mp3"
+ },
+ {
+  "text": "파티",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0283.mp3"
+ },
+ {
+  "text": "사진을 찍어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0284_1.mp3"
+ },
+ {
+  "text": "사진이 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0284_2.mp3"
+ },
+ {
+  "text": "같이 사진을 찍어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0284_3.mp3"
+ },
+ {
+  "text": "사진",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0284.mp3"
+ },
+ {
+  "text": "꽃이 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0285_1.mp3"
+ },
+ {
+  "text": "친구한테 꽃을 줬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0285_2.mp3"
+ },
+ {
+  "text": "공원에 꽃이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0285_3.mp3"
+ },
+ {
+  "text": "꽃",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0285.mp3"
+ },
+ {
+  "text": "공원에 나무가 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0286_1.mp3"
+ },
+ {
+  "text": "나무 아래에서 쉬어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0286_2.mp3"
+ },
+ {
+  "text": "나무가 크고 예뻐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0286_3.mp3"
+ },
+ {
+  "text": "나무",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0286.mp3"
+ },
+ {
+  "text": "좋아하는 동물이 뭐예요?",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0287_1.mp3"
+ },
+ {
+  "text": "동물원에 동물이 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0287_2.mp3"
+ },
+ {
+  "text": "저는 동물을 좋아해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0287_3.mp3"
+ },
+ {
+  "text": "동물",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0287.mp3"
+ },
+ {
+  "text": "저는 개를 키워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0288_1.mp3"
+ },
+ {
+  "text": "개가 공원에서 뛰어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0288_2.mp3"
+ },
+ {
+  "text": "개가 귀여워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0288_3.mp3"
+ },
+ {
+  "text": "개",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0288.mp3"
+ },
+ {
+  "text": "고양이가 소파에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0289_1.mp3"
+ },
+ {
+  "text": "고양이를 키우고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0289_2.mp3"
+ },
+ {
+  "text": "고양이가 귀여워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0289_3.mp3"
+ },
+ {
+  "text": "고양이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0289.mp3"
+ },
+ {
+  "text": "새가 나무에 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0290_1.mp3"
+ },
+ {
+  "text": "새가 노래를 해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0290_2.mp3"
+ },
+ {
+  "text": "하늘에 새가 날아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0290_3.mp3"
+ },
+ {
+  "text": "새",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0290.mp3"
+ },
+ {
+  "text": "물고기를 키워요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0291_1.mp3"
+ },
+ {
+  "text": "강에 물고기가 많아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0291_2.mp3"
+ },
+ {
+  "text": "물고기가 헤엄쳐요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0291_3.mp3"
+ },
+ {
+  "text": "물고기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0291.mp3"
+ },
+ {
+  "text": "오늘 일찍 일어났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0292_1.mp3"
+ },
+ {
+  "text": "일찍 자고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0292_2.mp3"
+ },
+ {
+  "text": "학교에 일찍 왔어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0292_3.mp3"
+ },
+ {
+  "text": "일찍",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0292.mp3"
+ },
+ {
+  "text": "어제 늦게 잤어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0293_1.mp3"
+ },
+ {
+  "text": "늦게 일어났어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0293_2.mp3"
+ },
+ {
+  "text": "회사에 늦게 도착했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0293_3.mp3"
+ },
+ {
+  "text": "늦게",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0293.mp3"
+ },
+ {
+  "text": "여러 나라에 가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0294_1.mp3"
+ },
+ {
+  "text": "여러 가지 음식이 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0294_2.mp3"
+ },
+ {
+  "text": "여러 번 연습했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0294_3.mp3"
+ },
+ {
+  "text": "여러",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0294.mp3"
+ },
+ {
+  "text": "모든 학생이 열심히 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0295_1.mp3"
+ },
+ {
+  "text": "모든 문제를 풀었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0295_2.mp3"
+ },
+ {
+  "text": "모든 음식이 맛있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0295_3.mp3"
+ },
+ {
+  "text": "모든",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0295.mp3"
+ },
+ {
+  "text": "숙제를 다 했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0296_1.mp3"
+ },
+ {
+  "text": "밥을 다 먹었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0296_2.mp3"
+ },
+ {
+  "text": "물을 다 마셨어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0296_3.mp3"
+ },
+ {
+  "text": "다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0296.mp3"
+ },
+ {
+  "text": "돈을 전부 썼어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0297_1.mp3"
+ },
+ {
+  "text": "음식을 전부 먹었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0297_2.mp3"
+ },
+ {
+  "text": "전부 이해했어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0297_3.mp3"
+ },
+ {
+  "text": "전부",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0297.mp3"
+ },
+ {
+  "text": "이제 집에 가요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0298_1.mp3"
+ },
+ {
+  "text": "이제 한국어를 조금 알아요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0298_2.mp3"
+ },
+ {
+  "text": "이제 시작해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0298_3.mp3"
+ },
+ {
+  "text": "이제",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0298.mp3"
+ },
+ {
+  "text": "사과를 먹었어요. 그리고 물을 마셨어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0299_1.mp3"
+ },
+ {
+  "text": "저는 학생이에요. 그리고 선생님도 있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0299_2.mp3"
+ },
+ {
+  "text": "공부했어요. 그리고 쉬었어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0299_3.mp3"
+ },
+ {
+  "text": "그리고",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0299.mp3"
+ },
+ {
+  "text": "한국어가 어려워요. 하지만 재미있어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0300_1.mp3"
+ },
+ {
+  "text": "비가 와요. 하지만 나가고 싶어요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0300_2.mp3"
+ },
+ {
+  "text": "피곤해요. 하지만 공부해요.",
+  "voice": "8cOkLISXzLWeGEsu0cZC",
+  "path": "audio/sentences/0300_3.mp3"
+ },
+ {
+  "text": "하지만",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/words/0300.mp3"
+ },
+ {
+  "text": "기역",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_giyeok.mp3"
+ },
+ {
+  "text": "가다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_giyeok_1.mp3"
+ },
+ {
+  "text": "고기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_giyeok_2.mp3"
+ },
+ {
+  "text": "학교",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_giyeok_3.mp3"
+ },
+ {
+  "text": "니은",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_nieun.mp3"
+ },
+ {
+  "text": "나",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_nieun_1.mp3"
+ },
+ {
+  "text": "나무",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_nieun_2.mp3"
+ },
+ {
+  "text": "누나",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_nieun_3.mp3"
+ },
+ {
+  "text": "디귿",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_digeut.mp3"
+ },
+ {
+  "text": "다리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_digeut_1.mp3"
+ },
+ {
+  "text": "도시",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_digeut_2.mp3"
+ },
+ {
+  "text": "구두",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_digeut_3.mp3"
+ },
+ {
+  "text": "리을",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_rieul.mp3"
+ },
+ {
+  "text": "라디오",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_rieul_1.mp3"
+ },
+ {
+  "text": "우리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_rieul_2.mp3"
+ },
+ {
+  "text": "물",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_rieul_3.mp3"
+ },
+ {
+  "text": "미음",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_mieum.mp3"
+ },
+ {
+  "text": "물",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_mieum_1.mp3"
+ },
+ {
+  "text": "엄마",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_mieum_2.mp3"
+ },
+ {
+  "text": "이름",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_mieum_3.mp3"
+ },
+ {
+  "text": "비읍",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_bieup.mp3"
+ },
+ {
+  "text": "밥",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_bieup_1.mp3"
+ },
+ {
+  "text": "바다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_bieup_2.mp3"
+ },
+ {
+  "text": "부모",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_bieup_3.mp3"
+ },
+ {
+  "text": "시옷",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_siot.mp3"
+ },
+ {
+  "text": "사람",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_siot_1.mp3"
+ },
+ {
+  "text": "시간",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_siot_2.mp3"
+ },
+ {
+  "text": "사과",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_siot_3.mp3"
+ },
+ {
+  "text": "이응",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ieung.mp3"
+ },
+ {
+  "text": "아기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ieung_1.mp3"
+ },
+ {
+  "text": "오이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ieung_2.mp3"
+ },
+ {
+  "text": "강",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ieung_3.mp3"
+ },
+ {
+  "text": "지읒",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_jieut.mp3"
+ },
+ {
+  "text": "집",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_jieut_1.mp3"
+ },
+ {
+  "text": "자다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_jieut_2.mp3"
+ },
+ {
+  "text": "바지",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_jieut_3.mp3"
+ },
+ {
+  "text": "치읓",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_chieut.mp3"
+ },
+ {
+  "text": "차",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_chieut_1.mp3"
+ },
+ {
+  "text": "책",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_chieut_2.mp3"
+ },
+ {
+  "text": "기차",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_chieut_3.mp3"
+ },
+ {
+  "text": "키읔",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_kieuk.mp3"
+ },
+ {
+  "text": "코",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_kieuk_1.mp3"
+ },
+ {
+  "text": "커피",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_kieuk_2.mp3"
+ },
+ {
+  "text": "카메라",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_kieuk_3.mp3"
+ },
+ {
+  "text": "티읕",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_tieut.mp3"
+ },
+ {
+  "text": "타다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_tieut_1.mp3"
+ },
+ {
+  "text": "토마토",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_tieut_2.mp3"
+ },
+ {
+  "text": "기타",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_tieut_3.mp3"
+ },
+ {
+  "text": "피읖",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_pieup.mp3"
+ },
+ {
+  "text": "팔",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_pieup_1.mp3"
+ },
+ {
+  "text": "포도",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_pieup_2.mp3"
+ },
+ {
+  "text": "우표",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_pieup_3.mp3"
+ },
+ {
+  "text": "히읗",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_hieut.mp3"
+ },
+ {
+  "text": "하다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_hieut_1.mp3"
+ },
+ {
+  "text": "하늘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_hieut_2.mp3"
+ },
+ {
+  "text": "형",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_hieut_3.mp3"
+ },
+ {
+  "text": "쌍기역",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ssang_giyeok.mp3"
+ },
+ {
+  "text": "꿈",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_giyeok_1.mp3"
+ },
+ {
+  "text": "토끼",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_giyeok_2.mp3"
+ },
+ {
+  "text": "꽃",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_giyeok_3.mp3"
+ },
+ {
+  "text": "쌍디귿",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ssang_digeut.mp3"
+ },
+ {
+  "text": "딸",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_digeut_1.mp3"
+ },
+ {
+  "text": "땅",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_digeut_2.mp3"
+ },
+ {
+  "text": "또",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_digeut_3.mp3"
+ },
+ {
+  "text": "쌍비읍",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ssang_bieup.mp3"
+ },
+ {
+  "text": "빵",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_bieup_1.mp3"
+ },
+ {
+  "text": "오빠",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_bieup_2.mp3"
+ },
+ {
+  "text": "바쁘다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_bieup_3.mp3"
+ },
+ {
+  "text": "쌍시옷",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ssang_siot.mp3"
+ },
+ {
+  "text": "싸다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_siot_1.mp3"
+ },
+ {
+  "text": "쌀",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_siot_2.mp3"
+ },
+ {
+  "text": "있다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_siot_3.mp3"
+ },
+ {
+  "text": "쌍지읒",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ssang_jieut.mp3"
+ },
+ {
+  "text": "짜다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_jieut_1.mp3"
+ },
+ {
+  "text": "가짜",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_jieut_2.mp3"
+ },
+ {
+  "text": "찌개",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ssang_jieut_3.mp3"
+ },
+ {
+  "text": "아",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_a.mp3"
+ },
+ {
+  "text": "아이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_a_1.mp3"
+ },
+ {
+  "text": "가방",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_a_2.mp3"
+ },
+ {
+  "text": "사람",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_a_3.mp3"
+ },
+ {
+  "text": "야",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ya.mp3"
+ },
+ {
+  "text": "야구",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ya_1.mp3"
+ },
+ {
+  "text": "이야기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ya_2.mp3"
+ },
+ {
+  "text": "야채",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ya_3.mp3"
+ },
+ {
+  "text": "어",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_eo.mp3"
+ },
+ {
+  "text": "어디",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_eo_1.mp3"
+ },
+ {
+  "text": "머리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_eo_2.mp3"
+ },
+ {
+  "text": "버스",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_eo_3.mp3"
+ },
+ {
+  "text": "여",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_yeo.mp3"
+ },
+ {
+  "text": "여자",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yeo_1.mp3"
+ },
+ {
+  "text": "여행",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yeo_2.mp3"
+ },
+ {
+  "text": "겨울",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yeo_3.mp3"
+ },
+ {
+  "text": "오",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_o.mp3"
+ },
+ {
+  "text": "오",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_o_1.mp3"
+ },
+ {
+  "text": "오늘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_o_2.mp3"
+ },
+ {
+  "text": "소",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_o_3.mp3"
+ },
+ {
+  "text": "요",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_yo.mp3"
+ },
+ {
+  "text": "요리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yo_1.mp3"
+ },
+ {
+  "text": "교실",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yo_2.mp3"
+ },
+ {
+  "text": "우유",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yo_3.mp3"
+ },
+ {
+  "text": "우",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_u.mp3"
+ },
+ {
+  "text": "우산",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_u_1.mp3"
+ },
+ {
+  "text": "두부",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_u_2.mp3"
+ },
+ {
+  "text": "구두",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_u_3.mp3"
+ },
+ {
+  "text": "유",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_yu.mp3"
+ },
+ {
+  "text": "유리",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yu_1.mp3"
+ },
+ {
+  "text": "휴지",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yu_2.mp3"
+ },
+ {
+  "text": "우유",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yu_3.mp3"
+ },
+ {
+  "text": "으",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_eu.mp3"
+ },
+ {
+  "text": "그",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_eu_1.mp3"
+ },
+ {
+  "text": "음악",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_eu_2.mp3"
+ },
+ {
+  "text": "느리다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_eu_3.mp3"
+ },
+ {
+  "text": "이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_i.mp3"
+ },
+ {
+  "text": "이",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_i_1.mp3"
+ },
+ {
+  "text": "기차",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_i_2.mp3"
+ },
+ {
+  "text": "시간",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_i_3.mp3"
+ },
+ {
+  "text": "애",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ae.mp3"
+ },
+ {
+  "text": "개",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ae_1.mp3"
+ },
+ {
+  "text": "애기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ae_2.mp3"
+ },
+ {
+  "text": "노래",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ae_3.mp3"
+ },
+ {
+  "text": "얘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_yae.mp3"
+ },
+ {
+  "text": "얘",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yae_1.mp3"
+ },
+ {
+  "text": "얘기",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yae_2.mp3"
+ },
+ {
+  "text": "쟤",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_yae_3.mp3"
+ },
+ {
+  "text": "에",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_e.mp3"
+ },
+ {
+  "text": "네",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_e_1.mp3"
+ },
+ {
+  "text": "가게",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_e_2.mp3"
+ },
+ {
+  "text": "세",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_e_3.mp3"
+ },
+ {
+  "text": "예",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ye.mp3"
+ },
+ {
+  "text": "예",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ye_1.mp3"
+ },
+ {
+  "text": "예약",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ye_2.mp3"
+ },
+ {
+  "text": "시계",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ye_3.mp3"
+ },
+ {
+  "text": "와",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_wa.mp3"
+ },
+ {
+  "text": "와",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wa_1.mp3"
+ },
+ {
+  "text": "사과",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wa_2.mp3"
+ },
+ {
+  "text": "과일",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wa_3.mp3"
+ },
+ {
+  "text": "왜",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_wae.mp3"
+ },
+ {
+  "text": "왜",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wae_1.mp3"
+ },
+ {
+  "text": "돼지",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wae_2.mp3"
+ },
+ {
+  "text": "괜찮다",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wae_3.mp3"
+ },
+ {
+  "text": "외",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_oe.mp3"
+ },
+ {
+  "text": "외국",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_oe_1.mp3"
+ },
+ {
+  "text": "회사",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_oe_2.mp3"
+ },
+ {
+  "text": "교회",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_oe_3.mp3"
+ },
+ {
+  "text": "워",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_wo.mp3"
+ },
+ {
+  "text": "워",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wo_1.mp3"
+ },
+ {
+  "text": "더워요",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wo_2.mp3"
+ },
+ {
+  "text": "고마워",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wo_3.mp3"
+ },
+ {
+  "text": "웨",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_we.mp3"
+ },
+ {
+  "text": "웨이터",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_we_1.mp3"
+ },
+ {
+  "text": "스웨터",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_we_2.mp3"
+ },
+ {
+  "text": "궤도",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_we_3.mp3"
+ },
+ {
+  "text": "위",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_wi.mp3"
+ },
+ {
+  "text": "위",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wi_1.mp3"
+ },
+ {
+  "text": "귀",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wi_2.mp3"
+ },
+ {
+  "text": "가위",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_wi_3.mp3"
+ },
+ {
+  "text": "의",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_ui.mp3"
+ },
+ {
+  "text": "의자",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ui_1.mp3"
+ },
+ {
+  "text": "의사",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ui_2.mp3"
+ },
+ {
+  "text": "회의",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_ui_3.mp3"
+ },
+ {
+  "text": "받침",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul/hangul_batchim.mp3"
+ },
+ {
+  "text": "밥",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_batchim_1.mp3"
+ },
+ {
+  "text": "꽃",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_batchim_2.mp3"
+ },
+ {
+  "text": "한국",
+  "voice": "n2fbxG88jqAoaVPUy3IG",
+  "path": "audio/hangul_ex/hangul_batchim_3.mp3"
+ }
+]

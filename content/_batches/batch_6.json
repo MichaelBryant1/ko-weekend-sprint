@@ -1,0 +1,352 @@
+[
+ {
+  "rank": 251,
+  "ko": "둘",
+  "en": "two",
+  "pos": "number",
+  "romaja": "dul"
+ },
+ {
+  "rank": 252,
+  "ko": "셋",
+  "en": "three",
+  "pos": "number",
+  "romaja": "set"
+ },
+ {
+  "rank": 253,
+  "ko": "넷",
+  "en": "four",
+  "pos": "number",
+  "romaja": "net"
+ },
+ {
+  "rank": 254,
+  "ko": "다섯",
+  "en": "five",
+  "pos": "number",
+  "romaja": "daseot"
+ },
+ {
+  "rank": 255,
+  "ko": "여섯",
+  "en": "six",
+  "pos": "number",
+  "romaja": "yeoseot"
+ },
+ {
+  "rank": 256,
+  "ko": "일곱",
+  "en": "seven",
+  "pos": "number",
+  "romaja": "ilgop"
+ },
+ {
+  "rank": 257,
+  "ko": "여덟",
+  "en": "eight",
+  "pos": "number",
+  "romaja": "yeodeol"
+ },
+ {
+  "rank": 258,
+  "ko": "아홉",
+  "en": "nine",
+  "pos": "number",
+  "romaja": "ahop"
+ },
+ {
+  "rank": 259,
+  "ko": "열",
+  "en": "ten",
+  "pos": "number",
+  "romaja": "yeol"
+ },
+ {
+  "rank": 260,
+  "ko": "백",
+  "en": "hundred",
+  "pos": "number",
+  "romaja": "baek"
+ },
+ {
+  "rank": 261,
+  "ko": "천",
+  "en": "thousand",
+  "pos": "number",
+  "romaja": "cheon"
+ },
+ {
+  "rank": 262,
+  "ko": "만",
+  "en": "ten thousand",
+  "pos": "number",
+  "romaja": "man"
+ },
+ {
+  "rank": 263,
+  "ko": "위",
+  "en": "above / top",
+  "pos": "noun",
+  "romaja": "wi"
+ },
+ {
+  "rank": 264,
+  "ko": "아래",
+  "en": "below / under",
+  "pos": "noun",
+  "romaja": "arae"
+ },
+ {
+  "rank": 265,
+  "ko": "앞",
+  "en": "front",
+  "pos": "noun",
+  "romaja": "ap"
+ },
+ {
+  "rank": 266,
+  "ko": "뒤",
+  "en": "back / behind",
+  "pos": "noun",
+  "romaja": "dwi"
+ },
+ {
+  "rank": 267,
+  "ko": "안",
+  "en": "inside",
+  "pos": "noun",
+  "romaja": "an"
+ },
+ {
+  "rank": 268,
+  "ko": "밖",
+  "en": "outside",
+  "pos": "noun",
+  "romaja": "bak"
+ },
+ {
+  "rank": 269,
+  "ko": "옆",
+  "en": "beside / next to",
+  "pos": "noun",
+  "romaja": "yeop"
+ },
+ {
+  "rank": 270,
+  "ko": "사이",
+  "en": "between",
+  "pos": "noun",
+  "romaja": "sai"
+ },
+ {
+  "rank": 271,
+  "ko": "오른쪽",
+  "en": "right side",
+  "pos": "noun",
+  "romaja": "oreunjjok"
+ },
+ {
+  "rank": 272,
+  "ko": "왼쪽",
+  "en": "left side",
+  "pos": "noun",
+  "romaja": "oenjjok"
+ },
+ {
+  "rank": 273,
+  "ko": "색",
+  "en": "color",
+  "pos": "noun",
+  "romaja": "saek"
+ },
+ {
+  "rank": 274,
+  "ko": "하얀색",
+  "en": "white",
+  "pos": "noun",
+  "romaja": "hayansaek"
+ },
+ {
+  "rank": 275,
+  "ko": "검은색",
+  "en": "black",
+  "pos": "noun",
+  "romaja": "geomeunsaek"
+ },
+ {
+  "rank": 276,
+  "ko": "빨간색",
+  "en": "red",
+  "pos": "noun",
+  "romaja": "ppalgansaek"
+ },
+ {
+  "rank": 277,
+  "ko": "파란색",
+  "en": "blue",
+  "pos": "noun",
+  "romaja": "paransaek"
+ },
+ {
+  "rank": 278,
+  "ko": "날마다",
+  "en": "every day",
+  "pos": "adverb",
+  "romaja": "nalmada"
+ },
+ {
+  "rank": 279,
+  "ko": "주말",
+  "en": "weekend",
+  "pos": "noun",
+  "romaja": "jumal"
+ },
+ {
+  "rank": 280,
+  "ko": "휴가",
+  "en": "vacation",
+  "pos": "noun",
+  "romaja": "hyuga"
+ },
+ {
+  "rank": 281,
+  "ko": "생일",
+  "en": "birthday",
+  "pos": "noun",
+  "romaja": "saengil"
+ },
+ {
+  "rank": 282,
+  "ko": "선물",
+  "en": "gift",
+  "pos": "noun",
+  "romaja": "seonmul"
+ },
+ {
+  "rank": 283,
+  "ko": "파티",
+  "en": "party",
+  "pos": "noun",
+  "romaja": "pati"
+ },
+ {
+  "rank": 284,
+  "ko": "사진",
+  "en": "photo",
+  "pos": "noun",
+  "romaja": "sajin"
+ },
+ {
+  "rank": 285,
+  "ko": "꽃",
+  "en": "flower",
+  "pos": "noun",
+  "romaja": "kkot"
+ },
+ {
+  "rank": 286,
+  "ko": "나무",
+  "en": "tree",
+  "pos": "noun",
+  "romaja": "namu"
+ },
+ {
+  "rank": 287,
+  "ko": "동물",
+  "en": "animal",
+  "pos": "noun",
+  "romaja": "dongmul"
+ },
+ {
+  "rank": 288,
+  "ko": "개",
+  "en": "dog",
+  "pos": "noun",
+  "romaja": "gae"
+ },
+ {
+  "rank": 289,
+  "ko": "고양이",
+  "en": "cat",
+  "pos": "noun",
+  "romaja": "goyangi"
+ },
+ {
+  "rank": 290,
+  "ko": "새",
+  "en": "bird",
+  "pos": "noun",
+  "romaja": "sae"
+ },
+ {
+  "rank": 291,
+  "ko": "물고기",
+  "en": "fish",
+  "pos": "noun",
+  "romaja": "mulgogi"
+ },
+ {
+  "rank": 292,
+  "ko": "일찍",
+  "en": "early",
+  "pos": "adverb",
+  "romaja": "iljjik"
+ },
+ {
+  "rank": 293,
+  "ko": "늦게",
+  "en": "late",
+  "pos": "adverb",
+  "romaja": "neutge"
+ },
+ {
+  "rank": 294,
+  "ko": "여러",
+  "en": "several / various",
+  "pos": "determiner",
+  "romaja": "yeoreo"
+ },
+ {
+  "rank": 295,
+  "ko": "모든",
+  "en": "every / all",
+  "pos": "determiner",
+  "romaja": "modeun"
+ },
+ {
+  "rank": 296,
+  "ko": "다",
+  "en": "all / everything",
+  "pos": "adverb",
+  "romaja": "da"
+ },
+ {
+  "rank": 297,
+  "ko": "전부",
+  "en": "all / the whole",
+  "pos": "noun",
+  "romaja": "jeonbu"
+ },
+ {
+  "rank": 298,
+  "ko": "이제",
+  "en": "now / from now",
+  "pos": "adverb",
+  "romaja": "ije"
+ },
+ {
+  "rank": 299,
+  "ko": "그리고",
+  "en": "and / and then",
+  "pos": "conjunction",
+  "romaja": "geurigo"
+ },
+ {
+  "rank": 300,
+  "ko": "하지만",
+  "en": "but / however",
+  "pos": "conjunction",
+  "romaja": "hajiman"
+ }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "rank": 151,
+    "ko": "받다",
+    "sentences": [
+      {"ko": "선물을 받았어요.", "en": "I received a gift.", "romaja": "seonmureul badasseoyo"},
+      {"ko": "이메일을 받았어요.", "en": "I received an email.", "romaja": "imeireul badasseoyo"},
+      {"ko": "용돈을 받고 싶어요.", "en": "I want to receive pocket money.", "romaja": "yongdoneul batgo sipeoyo"}
+    ]
+  },
+  {
+    "rank": 152,
+    "ko": "만나다",
+    "sentences": [
+      {"ko": "친구를 만났어요.", "en": "I met a friend.", "romaja": "chingureul mannasseoyo"},
+      {"ko": "내일 선생님을 만나요.", "en": "I'm meeting my teacher tomorrow.", "romaja": "naeil seonsaengnimeul mannayo"},
+      {"ko": "공원에서 만나고 싶어요.", "en": "I want to meet at the park.", "romaja": "gongwoneseo mannago sipeoyo"}
+    ]
+  },
+  {
+    "rank": 153,
+    "ko": "만들다",
+    "sentences": [
+      {"ko": "케이크를 만들었어요.", "en": "I made a cake.", "romaja": "keikeuреul mandeureosseoyo"},
+      {"ko": "저는 커피를 만들어요.", "en": "I make coffee.", "romaja": "jeoneun keopireul mandeureoyo"},
+      {"ko": "같이 밥을 만들어요.", "en": "Let's make food together.", "romaja": "gachi babeul mandeureoyo"}
+    ]
+  },
+  {
+    "rank": 154,
+    "ko": "알다",
+    "sentences": [
+      {"ko": "그 사람을 알아요.", "en": "I know that person.", "romaja": "geu sarameul arayo"},
+      {"ko": "답을 알았어요.", "en": "I knew the answer.", "romaja": "dabeul arasseoyo"},
+      {"ko": "이 단어를 알아요?", "en": "Do you know this word?", "romaja": "i daneoreul arayo"}
+    ]
+  },
+  {
+    "rank": 155,
+    "ko": "모르다",
+    "sentences": [
+      {"ko": "저는 몰라요.", "en": "I don't know.", "romaja": "jeoneun mollayo"},
+      {"ko": "그 이름을 몰라요.", "en": "I don't know that name.", "romaja": "geu ireumeul mollayo"},
+      {"ko": "길을 몰라서 물어봤어요.", "en": "I didn't know the way so I asked.", "romaja": "gireul mollaseo mureobwasseoyo"}
+    ]
+  },
+  {
+    "rank": 156,
+    "ko": "생각하다",
+    "sentences": [
+      {"ko": "저는 그렇게 생각해요.", "en": "I think so.", "romaja": "jeoneun geureoke saenggakaeyo"},
+      {"ko": "잠깐 생각했어요.", "en": "I thought about it for a moment.", "romaja": "jamkkan saenggakaesseoyo"},
+      {"ko": "같이 생각해 봐요.", "en": "Let's think about it together.", "romaja": "gachi saenggakae bwayo"}
+    ]
+  },
+  {
+    "rank": 157,
+    "ko": "좋아하다",
+    "sentences": [
+      {"ko": "저는 음악을 좋아해요.", "en": "I like music.", "romaja": "jeoneun eumagеul joahaeyo"},
+      {"ko": "고양이를 좋아해요?", "en": "Do you like cats?", "romaja": "goyangi reul joahaeyo"},
+      {"ko": "저는 커피를 좋아해요.", "en": "I like coffee.", "romaja": "jeoneun keopireul joahaeyo"}
+    ]
+  },
+  {
+    "rank": 158,
+    "ko": "싫어하다",
+    "sentences": [
+      {"ko": "저는 매운 음식을 싫어해요.", "en": "I dislike spicy food.", "romaja": "jeoneun maeun eumsigеul sireohaeyo"},
+      {"ko": "추운 날씨를 싫어해요.", "en": "I dislike cold weather.", "romaja": "chuun nalssireul sireohaeyo"},
+      {"ko": "시끄러운 곳을 싫어해요.", "en": "I dislike noisy places.", "romaja": "sikkeureoсun goseul sireohaeyo"}
+    ]
+  },
+  {
+    "rank": 159,
+    "ko": "사랑하다",
+    "sentences": [
+      {"ko": "가족을 사랑해요.", "en": "I love my family.", "romaja": "gajogeul saranghaeyo"},
+      {"ko": "저는 한국을 사랑해요.", "en": "I love Korea.", "romaja": "jeoneun hangugeul saranghaeyo"},
+      {"ko": "당신을 사랑해요.", "en": "I love you.", "romaja": "dangsineul saranghaeyo"}
+    ]
+  },
+  {
+    "rank": 160,
+    "ko": "원하다",
+    "sentences": [
+      {"ko": "물을 원해요.", "en": "I want water.", "romaja": "mureul wonhaeyo"},
+      {"ko": "뭘 원해요?", "en": "What do you want?", "romaja": "mwol wonhaeyo"},
+      {"ko": "저는 휴식을 원해요.", "en": "I want a rest.", "romaja": "jeoneun hyusigeul wonhaeyo"}
+    ]
+  },
+  {
+    "rank": 161,
+    "ko": "기다리다",
+    "sentences": [
+      {"ko": "버스를 기다려요.", "en": "I'm waiting for the bus.", "romaja": "beoseureul gidaryeoyo"},
+      {"ko": "오래 기다렸어요.", "en": "I waited for a long time.", "romaja": "orae gidaryeosseoyo"},
+      {"ko": "여기서 기다려요.", "en": "Wait here.", "romaja": "yeogiseo gidaryeoyo"}
+    ]
+  },
+  {
+    "rank": 162,
+    "ko": "시작하다",
+    "sentences": [
+      {"ko": "수업이 시작해요.", "en": "Class is starting.", "romaja": "suebi sijakaeyo"},
+      {"ko": "지금 시작해요.", "en": "Let's start now.", "romaja": "jigeum sijakaeyo"},
+      {"ko": "한국어 공부를 시작했어요.", "en": "I started studying Korean.", "romaja": "hangueo gongbureul sijkaesseoyo"}
+    ]
+  },
+  {
+    "rank": 163,
+    "ko": "끝나다",
+    "sentences": [
+      {"ko": "수업이 끝났어요.", "en": "Class ended.", "romaja": "suebi kkeunasseoyo"},
+      {"ko": "영화가 끝났어요.", "en": "The movie is over.", "romaja": "yeonghwaga kkeunasseoyo"},
+      {"ko": "일이 곧 끝나요.", "en": "Work will finish soon.", "romaja": "iri got kkeunnayo"}
+    ]
+  },
+  {
+    "rank": 164,
+    "ko": "일하다",
+    "sentences": [
+      {"ko": "저는 카페에서 일해요.", "en": "I work at a cafe.", "romaja": "jeoneun kafeeseo ilhaeyo"},
+      {"ko": "매일 열심히 일해요.", "en": "I work hard every day.", "romaja": "maeil yeolsimhi ilhaeyo"},
+      {"ko": "오늘 일했어요?", "en": "Did you work today?", "romaja": "oneul ilhaesseoyo"}
+    ]
+  },
+  {
+    "rank": 165,
+    "ko": "공부하다",
+    "sentences": [
+      {"ko": "도서관에서 공부해요.", "en": "I study at the library.", "romaja": "doseogwaneseo gongbuhaeyo"},
+      {"ko": "한국어를 공부해요.", "en": "I study Korean.", "romaja": "hanguеoreul gongbuhaeyo"},
+      {"ko": "어제 밤에 공부했어요.", "en": "I studied last night.", "romaja": "eoje bame gongbuhaesseoyo"}
+    ]
+  },
+  {
+    "rank": 166,
+    "ko": "배우다",
+    "sentences": [
+      {"ko": "한국어를 배워요.", "en": "I'm learning Korean.", "romaja": "hangugеoreul baeweoyo"},
+      {"ko": "요리를 배우고 싶어요.", "en": "I want to learn cooking.", "romaja": "yorireul baeugo sipeoyo"},
+      {"ko": "학교에서 배웠어요.", "en": "I learned it at school.", "romaja": "hakgyoeseo baewosseoyo"}
+    ]
+  },
+  {
+    "rank": 167,
+    "ko": "가르치다",
+    "sentences": [
+      {"ko": "선생님이 한국어를 가르쳐요.", "en": "The teacher teaches Korean.", "romaja": "seonsaengnimi hangugeoreul gareuchyeoyo"},
+      {"ko": "저에게 가르쳐 주세요.", "en": "Please teach me.", "romaja": "jeoege gareuchyeo juseyo"},
+      {"ko": "친구에게 수학을 가르쳐요.", "en": "I teach my friend math.", "romaja": "chinguege suhageul gareuchyeoyo"}
+    ]
+  },
+  {
+    "rank": 168,
+    "ko": "놀다",
+    "sentences": [
+      {"ko": "공원에서 놀아요.", "en": "I play at the park.", "romaja": "gongwoneseo norayo"},
+      {"ko": "친구와 같이 놀았어요.", "en": "I hung out with a friend.", "romaja": "chinguwa gachi norasseoyo"},
+      {"ko": "주말에 같이 놀아요.", "en": "Let's hang out this weekend.", "romaja": "jumare gachi norayo"}
+    ]
+  },
+  {
+    "rank": 169,
+    "ko": "쉬다",
+    "sentences": [
+      {"ko": "집에서 쉬어요.", "en": "I'm resting at home.", "romaja": "jibeseo swieоyo"},
+      {"ko": "잠깐 쉬어요.", "en": "Let's rest for a moment.", "romaja": "jamkkan swieoyo"},
+      {"ko": "주말에 쉬고 싶어요.", "en": "I want to rest on the weekend.", "romaja": "jumare swigo sipeoyo"}
+    ]
+  },
+  {
+    "rank": 170,
+    "ko": "걷다",
+    "sentences": [
+      {"ko": "매일 공원을 걸어요.", "en": "I walk in the park every day.", "romaja": "maeil gonwoneul georeoyo"},
+      {"ko": "학교까지 걸었어요.", "en": "I walked to school.", "romaja": "hakgyokkaji georeosseoyo"},
+      {"ko": "같이 걷고 싶어요.", "en": "I want to walk together.", "romaja": "gachi geotgo sipeoyo"}
+    ]
+  },
+  {
+    "rank": 171,
+    "ko": "뛰다",
+    "sentences": [
+      {"ko": "아이들이 뛰어요.", "en": "The children are running.", "romaja": "aidеuri ttwieоyo"},
+      {"ko": "빨리 뛰었어요.", "en": "I ran fast.", "romaja": "ppalli ttwieosseoyo"},
+      {"ko": "버스를 향해 뛰었어요.", "en": "I ran toward the bus.", "romaja": "beoseureul hyanghae ttwieosseoyo"}
+    ]
+  },
+  {
+    "rank": 172,
+    "ko": "타다",
+    "sentences": [
+      {"ko": "버스를 타요.", "en": "I ride the bus.", "romaja": "beoseureul tayo"},
+      {"ko": "지하철을 타고 가요.", "en": "I go by subway.", "romaja": "jihacheoreul tago gayo"},
+      {"ko": "자전거를 타고 싶어요.", "en": "I want to ride a bicycle.", "romaja": "jajeonggeoreul tago sipeoyo"}
+    ]
+  },
+  {
+    "rank": 173,
+    "ko": "내리다",
+    "sentences": [
+      {"ko": "다음 역에서 내려요.", "en": "I get off at the next station.", "romaja": "daeum yegeseo naeryeoyo"},
+      {"ko": "버스에서 내렸어요.", "en": "I got off the bus.", "romaja": "beosueseo naeryeosseoyo"},
+      {"ko": "비가 내려요.", "en": "Rain is falling.", "romaja": "biga naeryeoyo"}
+    ]
+  },
+  {
+    "rank": 174,
+    "ko": "열다",
+    "sentences": [
+      {"ko": "문을 열어요.", "en": "I open the door.", "romaja": "muneul yeoreoyo"},
+      {"ko": "창문을 열었어요.", "en": "I opened the window.", "romaja": "changmuneul yeoreosseoyo"},
+      {"ko": "가방을 열어 보세요.", "en": "Please open the bag.", "romaja": "gabangeul yeoreo boseyo"}
+    ]
+  },
+  {
+    "rank": 175,
+    "ko": "닫다",
+    "sentences": [
+      {"ko": "문을 닫아요.", "en": "I close the door.", "romaja": "muneul dadayo"},
+      {"ko": "창문을 닫았어요.", "en": "I closed the window.", "romaja": "changmuneul dadasseoyo"},
+      {"ko": "문을 닫아 주세요.", "en": "Please close the door.", "romaja": "muneul dada juseyo"}
+    ]
+  },
+  {
+    "rank": 176,
+    "ko": "앉다",
+    "sentences": [
+      {"ko": "여기 앉아요.", "en": "Sit here.", "romaja": "yeogi anjayo"},
+      {"ko": "의자에 앉았어요.", "en": "I sat on the chair.", "romaja": "uijae anjasseoyo"},
+      {"ko": "같이 앉아요.", "en": "Let's sit together.", "romaja": "gachi anjayo"}
+    ]
+  },
+  {
+    "rank": 177,
+    "ko": "서다",
+    "sentences": [
+      {"ko": "문 앞에 서 있어요.", "en": "I'm standing in front of the door.", "romaja": "mun ape seo isseoyo"},
+      {"ko": "버스 정류장에 서요.", "en": "I stand at the bus stop.", "romaja": "beoseu jeongnyujanге seoyo"},
+      {"ko": "줄을 서 주세요.", "en": "Please stand in line.", "romaja": "jureul seo juseyo"}
+    ]
+  },
+  {
+    "rank": 178,
+    "ko": "웃다",
+    "sentences": [
+      {"ko": "아기가 웃어요.", "en": "The baby is smiling.", "romaja": "agiga useoyo"},
+      {"ko": "재미있어서 웃었어요.", "en": "It was funny so I laughed.", "romaja": "jaemiissеoseo useosseoyo"},
+      {"ko": "같이 웃어요.", "en": "Let's laugh together.", "romaja": "gachi useoyo"}
+    ]
+  },
+  {
+    "rank": 179,
+    "ko": "울다",
+    "sentences": [
+      {"ko": "아이가 울어요.", "en": "The child is crying.", "romaja": "aiga ureoyo"},
+      {"ko": "영화를 보고 울었어요.", "en": "I cried watching the movie.", "romaja": "yeonghwareul bogo ureosseoyo"},
+      {"ko": "슬퍼서 울었어요.", "en": "I cried because I was sad.", "romaja": "seulpeoseo ureosseoyo"}
+    ]
+  },
+  {
+    "rank": 180,
+    "ko": "죽다",
+    "sentences": [
+      {"ko": "꽃이 죽었어요.", "en": "The flower died.", "romaja": "kkochi jugeosseoyo"},
+      {"ko": "고기가 죽었어요.", "en": "The fish died.", "romaja": "murkogi jugeosseoyo"},
+      {"ko": "화분의 식물이 죽었어요.", "en": "The plant in the pot died.", "romaja": "hwabunui sikmuri jugeosseoyo"}
+    ]
+  },
+  {
+    "rank": 181,
+    "ko": "살다",
+    "sentences": [
+      {"ko": "저는 서울에 살아요.", "en": "I live in Seoul.", "romaja": "jeoneun seoure sarayo"},
+      {"ko": "어디에 살아요?", "en": "Where do you live?", "romaja": "eodie sarayo"},
+      {"ko": "부모님과 같이 살아요.", "en": "I live with my parents.", "romaja": "bumonimgwa gachi sarayo"}
+    ]
+  },
+  {
+    "rank": 182,
+    "ko": "입다",
+    "sentences": [
+      {"ko": "오늘 원피스를 입었어요.", "en": "I wore a dress today.", "romaja": "oneul wonpiseureul ibeosseoyo"},
+      {"ko": "따뜻한 옷을 입어요.", "en": "I wear warm clothes.", "romaja": "ttatteuthan oseul ibeoyo"},
+      {"ko": "뭘 입고 싶어요?", "en": "What do you want to wear?", "romaja": "mwol ipgo sipeoyo"}
+    ]
+  },
+  {
+    "rank": 183,
+    "ko": "씻다",
+    "sentences": [
+      {"ko": "손을 씻어요.", "en": "I wash my hands.", "romaja": "soneul ssiseoyo"},
+      {"ko": "밥 먹기 전에 손을 씻어요.", "en": "I wash my hands before eating.", "romaja": "bap meokgi jeone soneul ssiseoyo"},
+      {"ko": "얼굴을 씻었어요.", "en": "I washed my face.", "romaja": "eolgureul ssiseosseoyo"}
+    ]
+  },
+  {
+    "rank": 184,
+    "ko": "찾다",
+    "sentences": [
+      {"ko": "열쇠를 찾아요.", "en": "I'm looking for my key.", "romaja": "yeolssoereul chajayo"},
+      {"ko": "가방을 찾았어요.", "en": "I found my bag.", "romaja": "gabangeul chasseoyo"},
+      {"ko": "화장실을 찾아요.", "en": "I'm looking for the restroom.", "romaja": "hwajangsireul chajayo"}
+    ]
+  },
+  {
+    "rank": 185,
+    "ko": "보내다",
+    "sentences": [
+      {"ko": "이메일을 보냈어요.", "en": "I sent an email.", "romaja": "imeireul bonaesseoyo"},
+      {"ko": "친구에게 사진을 보냈어요.", "en": "I sent a photo to my friend.", "romaja": "chinguege sajineul bonaesseoyo"},
+      {"ko": "주말을 집에서 보냈어요.", "en": "I spent the weekend at home.", "romaja": "jumare jibeseo bonaesseoyo"}
+    ]
+  },
+  {
+    "rank": 186,
+    "ko": "좋다",
+    "sentences": [
+      {"ko": "날씨가 좋아요.", "en": "The weather is nice.", "romaja": "nalssiga joayo"},
+      {"ko": "이 음식이 정말 좋아요.", "en": "This food is really good.", "romaja": "i eumsigi jeongmal joayo"},
+      {"ko": "건강이 좋아요.", "en": "My health is good.", "romaja": "geongangi joayo"}
+    ]
+  },
+  {
+    "rank": 187,
+    "ko": "나쁘다",
+    "sentences": [
+      {"ko": "날씨가 나빠요.", "en": "The weather is bad.", "romaja": "nalssiga nappayo"},
+      {"ko": "기분이 나빠요.", "en": "I'm in a bad mood.", "romaja": "gibuni nappayo"},
+      {"ko": "이 소식이 나빠요.", "en": "This news is bad.", "romaja": "i sosigi nappayo"}
+    ]
+  },
+  {
+    "rank": 188,
+    "ko": "크다",
+    "sentences": [
+      {"ko": "이 가방이 커요.", "en": "This bag is big.", "romaja": "i gabangi keoyo"},
+      {"ko": "그 건물이 아주 커요.", "en": "That building is very big.", "romaja": "geu geonmuri aju keoyo"},
+      {"ko": "사이즈가 너무 커요.", "en": "The size is too big.", "romaja": "saijeuга neomu keoyo"}
+    ]
+  },
+  {
+    "rank": 189,
+    "ko": "작다",
+    "sentences": [
+      {"ko": "이 방이 작아요.", "en": "This room is small.", "romaja": "i bangi jagayo"},
+      {"ko": "이 신발이 작아요.", "en": "These shoes are small.", "romaja": "i sinbari jagayo"},
+      {"ko": "글씨가 너무 작아요.", "en": "The text is too small.", "romaja": "geulssiga neomu jagayo"}
+    ]
+  },
+  {
+    "rank": 190,
+    "ko": "많다",
+    "sentences": [
+      {"ko": "사람이 많아요.", "en": "There are many people.", "romaja": "sarami manayo"},
+      {"ko": "숙제가 너무 많아요.", "en": "There is too much homework.", "romaja": "sukjega neomu manayo"},
+      {"ko": "돈이 많고 싶어요.", "en": "I want to have a lot of money.", "romaja": "doni manko sipeoyo"}
+    ]
+  },
+  {
+    "rank": 191,
+    "ko": "적다",
+    "sentences": [
+      {"ko": "시간이 적어요.", "en": "There is little time.", "romaja": "sigani jeogeоyo"},
+      {"ko": "학생이 적어요.", "en": "There are few students.", "romaja": "haksaengi jeogeоyo"},
+      {"ko": "돈이 너무 적어요.", "en": "There is too little money.", "romaja": "doni neomu jeogeоyo"}
+    ]
+  },
+  {
+    "rank": 192,
+    "ko": "높다",
+    "sentences": [
+      {"ko": "이 산이 높아요.", "en": "This mountain is high.", "romaja": "i sani nopayo"},
+      {"ko": "건물이 높아요.", "en": "The building is tall.", "romaja": "geonmuri nopayo"},
+      {"ko": "가격이 너무 높아요.", "en": "The price is too high.", "romaja": "gagyeogi neomu nopayo"}
+    ]
+  },
+  {
+    "rank": 193,
+    "ko": "낮다",
+    "sentences": [
+      {"ko": "이 의자가 낮아요.", "en": "This chair is low.", "romaja": "i uijaga najayo"},
+      {"ko": "온도가 낮아요.", "en": "The temperature is low.", "romaja": "ondoga najayo"},
+      {"ko": "가격이 낮아요.", "en": "The price is low.", "romaja": "gagyeogi najayo"}
+    ]
+  },
+  {
+    "rank": 194,
+    "ko": "길다",
+    "sentences": [
+      {"ko": "머리카락이 길어요.", "en": "Her hair is long.", "romaja": "meorikaragі gireоyo"},
+      {"ko": "이 줄이 너무 길어요.", "en": "This line is too long.", "romaja": "i juri neomu gireoyo"},
+      {"ko": "영화가 길어요.", "en": "The movie is long.", "romaja": "yeonghwaga gireoyo"}
+    ]
+  },
+  {
+    "rank": 195,
+    "ko": "짧다",
+    "sentences": [
+      {"ko": "이 치마가 짧아요.", "en": "This skirt is short.", "romaja": "i chimaga jjalbayo"},
+      {"ko": "시간이 너무 짧아요.", "en": "The time is too short.", "romaja": "sigani neomu jjalbayo"},
+      {"ko": "머리카락이 짧아요.", "en": "The hair is short.", "romaja": "meorikaragі jjalbayo"}
+    ]
+  },
+  {
+    "rank": 196,
+    "ko": "빠르다",
+    "sentences": [
+      {"ko": "이 기차가 빨라요.", "en": "This train is fast.", "romaja": "i gichaga ppallayo"},
+      {"ko": "그 선수가 정말 빨라요.", "en": "That athlete is really fast.", "romaja": "geu seonsuga jeongmal ppallayo"},
+      {"ko": "인터넷이 빨라요.", "en": "The internet is fast.", "romaja": "inteoneseul ppallayo"}
+    ]
+  },
+  {
+    "rank": 197,
+    "ko": "느리다",
+    "sentences": [
+      {"ko": "이 컴퓨터가 느려요.", "en": "This computer is slow.", "romaja": "i keompyuteoga neuryeoyo"},
+      {"ko": "걸음이 느려요.", "en": "My pace is slow.", "romaja": "georeumi neuryeoyo"},
+      {"ko": "배달이 너무 느려요.", "en": "The delivery is too slow.", "romaja": "baedari neomu neuryeoyo"}
+    ]
+  },
+  {
+    "rank": 198,
+    "ko": "쉽다",
+    "sentences": [
+      {"ko": "이 문제가 쉬워요.", "en": "This problem is easy.", "romaja": "i munjega swiweoyo"},
+      {"ko": "한국어가 쉬워요?", "en": "Is Korean easy?", "romaja": "hangugеoga swiweoyo"},
+      {"ko": "이 요리는 쉬워요.", "en": "This dish is easy to make.", "romaja": "i yorineun swiweoyo"}
+    ]
+  },
+  {
+    "rank": 199,
+    "ko": "어렵다",
+    "sentences": [
+      {"ko": "시험이 어려워요.", "en": "The exam is difficult.", "romaja": "siheomi eoryeowoyo"},
+      {"ko": "한자가 어려워요.", "en": "Kanji is difficult.", "romaja": "hanjaga eoryeowoyo"},
+      {"ko": "이 질문이 어려워요.", "en": "This question is difficult.", "romaja": "i jilmuni eoryeowoyo"}
+    ]
+  },
+  {
+    "rank": 200,
+    "ko": "새롭다",
+    "sentences": [
+      {"ko": "이 핸드폰이 새로워요.", "en": "This phone is new.", "romaja": "i haendeuponі saerowoyo"},
+      {"ko": "새로운 친구를 만났어요.", "en": "I met a new friend.", "romaja": "saeroun chingureul mannasseoyo"},
+      {"ko": "새로운 것을 배우고 싶어요.", "en": "I want to learn something new.", "romaja": "saeroun geoseul baeugo sipeoyo"}
+    ]
+  }
+]

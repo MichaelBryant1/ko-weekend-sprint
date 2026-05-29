@@ -1,0 +1,452 @@
+[
+  {
+    "rank": 1,
+    "ko": "나",
+    "sentences": [
+      {"ko": "나는 학생이에요.", "en": "I am a student.", "romaja": "na-neun haksaeng-i-eyo"},
+      {"ko": "나는 한국어를 공부해요.", "en": "I study Korean.", "romaja": "na-neun hangugeo-reul gongbuhaeyo"},
+      {"ko": "나도 가고 싶어요.", "en": "I want to go too.", "romaja": "na-do ga-go sipeoyo"}
+    ]
+  },
+  {
+    "rank": 2,
+    "ko": "저",
+    "sentences": [
+      {"ko": "저는 미국 사람이에요.", "en": "I am American.", "romaja": "jeo-neun miguk saram-i-eyo"},
+      {"ko": "저는 커피를 마셔요.", "en": "I drink coffee.", "romaja": "jeo-neun keopi-reul masyeoyo"},
+      {"ko": "저도 배가 고파요.", "en": "I am hungry too.", "romaja": "jeo-do bae-ga gopayo"}
+    ]
+  },
+  {
+    "rank": 3,
+    "ko": "너",
+    "sentences": [
+      {"ko": "너는 어디에 가요?", "en": "Where are you going?", "romaja": "neo-neun eodi-e gayo"},
+      {"ko": "너는 친구예요.", "en": "You are my friend.", "romaja": "neo-neun chingu-yeyo"},
+      {"ko": "너도 한국어를 해요?", "en": "Do you speak Korean too?", "romaja": "neo-do hangugeo-reul haeyo"}
+    ]
+  },
+  {
+    "rank": 4,
+    "ko": "우리",
+    "sentences": [
+      {"ko": "우리는 친구예요.", "en": "We are friends.", "romaja": "uri-neun chingu-yeyo"},
+      {"ko": "우리 집은 여기예요.", "en": "Our house is here.", "romaja": "uri jip-eun yeogi-yeyo"},
+      {"ko": "우리 같이 가요.", "en": "Let's go together.", "romaja": "uri gachi gayo"}
+    ]
+  },
+  {
+    "rank": 5,
+    "ko": "이것",
+    "sentences": [
+      {"ko": "이것은 제 책이에요.", "en": "This is my book.", "romaja": "igeot-eun je chaeg-i-eyo"},
+      {"ko": "이것은 얼마예요?", "en": "How much is this?", "romaja": "igeot-eun eolma-yeyo"},
+      {"ko": "이것은 맛있어요.", "en": "This is delicious.", "romaja": "igeot-eun mas-isseoyo"}
+    ]
+  },
+  {
+    "rank": 6,
+    "ko": "그것",
+    "sentences": [
+      {"ko": "그것은 무엇이에요?", "en": "What is that?", "romaja": "geugeot-eun mueot-i-eyo"},
+      {"ko": "그것은 제 가방이에요.", "en": "That is my bag.", "romaja": "geugeot-eun je gabang-i-eyo"},
+      {"ko": "그것도 주세요.", "en": "Please give me that too.", "romaja": "geugeot-do juseyo"}
+    ]
+  },
+  {
+    "rank": 7,
+    "ko": "저것",
+    "sentences": [
+      {"ko": "저것은 무엇이에요?", "en": "What is that over there?", "romaja": "jeogeot-eun mueot-i-eyo"},
+      {"ko": "저것은 산이에요.", "en": "That over there is a mountain.", "romaja": "jeogeot-eun san-i-eyo"},
+      {"ko": "저것을 보세요.", "en": "Look at that over there.", "romaja": "jeogeot-eul boseyo"}
+    ]
+  },
+  {
+    "rank": 8,
+    "ko": "것",
+    "sentences": [
+      {"ko": "먹는 것을 좋아해요.", "en": "I like eating.", "romaja": "meongneun geot-eul joahaeyo"},
+      {"ko": "이것은 제 것이에요.", "en": "This is mine.", "romaja": "igeot-eun je geot-i-eyo"},
+      {"ko": "좋은 것을 찾아요.", "en": "I'm looking for a good one.", "romaja": "jo-eun geot-eul chajayo"}
+    ]
+  },
+  {
+    "rank": 9,
+    "ko": "여기",
+    "sentences": [
+      {"ko": "여기에 앉으세요.", "en": "Please sit here.", "romaja": "yeogi-e anjeuseyo"},
+      {"ko": "여기는 학교예요.", "en": "This place is a school.", "romaja": "yeogi-neun hakgyo-yeyo"},
+      {"ko": "여기에 있어요.", "en": "It's here.", "romaja": "yeogi-e isseoyo"}
+    ]
+  },
+  {
+    "rank": 10,
+    "ko": "거기",
+    "sentences": [
+      {"ko": "거기에 가요.", "en": "I'm going there.", "romaja": "geogi-e gayo"},
+      {"ko": "거기는 어디예요?", "en": "Where is that place?", "romaja": "geogi-neun eodi-yeyo"},
+      {"ko": "거기에 있어요?", "en": "Is it there?", "romaja": "geogi-e isseoyo"}
+    ]
+  },
+  {
+    "rank": 11,
+    "ko": "저기",
+    "sentences": [
+      {"ko": "저기에 카페가 있어요.", "en": "There is a café over there.", "romaja": "jeogi-e kape-ga isseoyo"},
+      {"ko": "저기를 보세요.", "en": "Look over there.", "romaja": "jeogi-reul boseyo"},
+      {"ko": "저기서 기다려요.", "en": "Wait over there.", "romaja": "jeogi-seo gidaryeoyo"}
+    ]
+  },
+  {
+    "rank": 12,
+    "ko": "누구",
+    "sentences": [
+      {"ko": "저분은 누구예요?", "en": "Who is that person?", "romaja": "jeobun-eun nugu-yeyo"},
+      {"ko": "누구를 만나요?", "en": "Who are you meeting?", "romaja": "nugu-reul mannayo"},
+      {"ko": "누구예요?", "en": "Who is it?", "romaja": "nugu-yeyo"}
+    ]
+  },
+  {
+    "rank": 13,
+    "ko": "무엇",
+    "sentences": [
+      {"ko": "무엇을 먹고 싶어요?", "en": "What do you want to eat?", "romaja": "mueot-eul meokgo sipeoyo"},
+      {"ko": "이것은 무엇이에요?", "en": "What is this?", "romaja": "igeot-eun mueot-i-eyo"},
+      {"ko": "무엇을 해요?", "en": "What are you doing?", "romaja": "mueot-eul haeyo"}
+    ]
+  },
+  {
+    "rank": 14,
+    "ko": "뭐",
+    "sentences": [
+      {"ko": "뭐 먹어요?", "en": "What are you eating?", "romaja": "mwo meogeoyo"},
+      {"ko": "뭐가 필요해요?", "en": "What do you need?", "romaja": "mwo-ga piryohaeyo"},
+      {"ko": "뭐 해요?", "en": "What are you doing?", "romaja": "mwo haeyo"}
+    ]
+  },
+  {
+    "rank": 15,
+    "ko": "어디",
+    "sentences": [
+      {"ko": "어디에 가요?", "en": "Where are you going?", "romaja": "eodi-e gayo"},
+      {"ko": "화장실이 어디에 있어요?", "en": "Where is the restroom?", "romaja": "hwajangsil-i eodi-e isseoyo"},
+      {"ko": "어디에서 왔어요?", "en": "Where are you from?", "romaja": "eodi-eseo wasseoyo"}
+    ]
+  },
+  {
+    "rank": 16,
+    "ko": "언제",
+    "sentences": [
+      {"ko": "언제 와요?", "en": "When are you coming?", "romaja": "eonje wayo"},
+      {"ko": "생일이 언제예요?", "en": "When is your birthday?", "romaja": "saengil-i eonje-yeyo"},
+      {"ko": "언제 시간이 있어요?", "en": "When do you have time?", "romaja": "eonje sigan-i isseoyo"}
+    ]
+  },
+  {
+    "rank": 17,
+    "ko": "왜",
+    "sentences": [
+      {"ko": "왜 안 와요?", "en": "Why aren't you coming?", "romaja": "wae an wayo"},
+      {"ko": "왜 울어요?", "en": "Why are you crying?", "romaja": "wae ureoyo"},
+      {"ko": "왜 늦었어요?", "en": "Why were you late?", "romaja": "wae neujeosseoyo"}
+    ]
+  },
+  {
+    "rank": 18,
+    "ko": "어떻게",
+    "sentences": [
+      {"ko": "어떻게 가요?", "en": "How do I get there?", "romaja": "eotteoke gayo"},
+      {"ko": "이름을 어떻게 써요?", "en": "How do you write the name?", "romaja": "ireum-eul eotteoke sseoyo"},
+      {"ko": "어떻게 해요?", "en": "How do you do it?", "romaja": "eotteoke haeyo"}
+    ]
+  },
+  {
+    "rank": 19,
+    "ko": "얼마",
+    "sentences": [
+      {"ko": "이거 얼마예요?", "en": "How much is this?", "romaja": "igeo eolma-yeyo"},
+      {"ko": "얼마나 걸려요?", "en": "How long does it take?", "romaja": "eolma-na geollyeoyo"},
+      {"ko": "모두 얼마예요?", "en": "How much is it in total?", "romaja": "modu eolma-yeyo"}
+    ]
+  },
+  {
+    "rank": 20,
+    "ko": "몇",
+    "sentences": [
+      {"ko": "지금 몇 시예요?", "en": "What time is it now?", "romaja": "jigeum myeot si-yeyo"},
+      {"ko": "몇 명이에요?", "en": "How many people are there?", "romaja": "myeot myeong-i-eyo"},
+      {"ko": "몇 살이에요?", "en": "How old are you?", "romaja": "myeot sal-i-eyo"}
+    ]
+  },
+  {
+    "rank": 21,
+    "ko": "네",
+    "sentences": [
+      {"ko": "네, 알겠어요.", "en": "Yes, I understand.", "romaja": "ne, algessseoyo"},
+      {"ko": "네, 맞아요.", "en": "Yes, that's right.", "romaja": "ne, majayo"},
+      {"ko": "네, 감사합니다.", "en": "Yes, thank you.", "romaja": "ne, gamsahamnida"}
+    ]
+  },
+  {
+    "rank": 22,
+    "ko": "아니요",
+    "sentences": [
+      {"ko": "아니요, 저는 학생이에요.", "en": "No, I'm a student.", "romaja": "aniyo, jeo-neun haksaeng-i-eyo"},
+      {"ko": "아니요, 괜찮아요.", "en": "No, it's fine.", "romaja": "aniyo, gwaenchanayo"},
+      {"ko": "아니요, 잘 몰라요.", "en": "No, I don't know well.", "romaja": "aniyo, jal mollayo"}
+    ]
+  },
+  {
+    "rank": 23,
+    "ko": "안녕하세요",
+    "sentences": [
+      {"ko": "안녕하세요, 저는 민준이에요.", "en": "Hello, I'm Minjun.", "romaja": "annyeonghaseyo, jeo-neun minjun-i-eyo"},
+      {"ko": "선생님, 안녕하세요.", "en": "Hello, teacher.", "romaja": "seonsaengnim, annyeonghaseyo"},
+      {"ko": "아침에 안녕하세요 해요.", "en": "I say hello in the morning.", "romaja": "achim-e annyeonghaseyo haeyo"}
+    ]
+  },
+  {
+    "rank": 24,
+    "ko": "감사합니다",
+    "sentences": [
+      {"ko": "도와줘서 감사합니다.", "en": "Thank you for helping me.", "romaja": "dowajwoseo gamsahamnida"},
+      {"ko": "선물 감사합니다.", "en": "Thank you for the gift.", "romaja": "seonmul gamsahamnida"},
+      {"ko": "감사합니다, 잘 받겠습니다.", "en": "Thank you, I'll gladly receive it.", "romaja": "gamsahamnida, jal batgesseumnida"}
+    ]
+  },
+  {
+    "rank": 25,
+    "ko": "죄송합니다",
+    "sentences": [
+      {"ko": "늦어서 죄송합니다.", "en": "I'm sorry for being late.", "romaja": "neujeoseo joesonghamnida"},
+      {"ko": "죄송합니다, 잘 몰랐어요.", "en": "I'm sorry, I didn't know.", "romaja": "joesonghamnida, jal mollasseoyo"},
+      {"ko": "실수해서 죄송합니다.", "en": "I'm sorry for the mistake.", "romaja": "silsuhae-seo joesonghamnida"}
+    ]
+  },
+  {
+    "rank": 26,
+    "ko": "사람",
+    "sentences": [
+      {"ko": "저는 한국 사람이에요.", "en": "I am Korean.", "romaja": "jeo-neun hanguk saram-i-eyo"},
+      {"ko": "저 사람은 누구예요?", "en": "Who is that person?", "romaja": "jeo saram-eun nugu-yeyo"},
+      {"ko": "여기에 사람이 많아요.", "en": "There are many people here.", "romaja": "yeogi-e saram-i manayo"}
+    ]
+  },
+  {
+    "rank": 27,
+    "ko": "남자",
+    "sentences": [
+      {"ko": "저 남자는 제 형이에요.", "en": "That man is my older brother.", "romaja": "jeo namja-neun je hyeong-i-eyo"},
+      {"ko": "남자 친구가 있어요.", "en": "I have a boyfriend.", "romaja": "namja chingu-ga isseoyo"},
+      {"ko": "남자 선생님이에요.", "en": "He is a male teacher.", "romaja": "namja seonsaengnim-i-eyo"}
+    ]
+  },
+  {
+    "rank": 28,
+    "ko": "여자",
+    "sentences": [
+      {"ko": "저 여자는 제 언니예요.", "en": "That woman is my older sister.", "romaja": "jeo yeoja-neun je eonni-yeyo"},
+      {"ko": "여자 친구가 있어요?", "en": "Do you have a girlfriend?", "romaja": "yeoja chingu-ga isseoyo"},
+      {"ko": "여자 학생이 많아요.", "en": "There are many female students.", "romaja": "yeoja haksaeng-i manayo"}
+    ]
+  },
+  {
+    "rank": 29,
+    "ko": "아이",
+    "sentences": [
+      {"ko": "아이가 학교에 가요.", "en": "The child goes to school.", "romaja": "ai-ga hakgyo-e gayo"},
+      {"ko": "저 아이는 제 동생이에요.", "en": "That child is my younger sibling.", "romaja": "jeo ai-neun je dongsaeng-i-eyo"},
+      {"ko": "아이가 울어요.", "en": "The child is crying.", "romaja": "ai-ga ureoyo"}
+    ]
+  },
+  {
+    "rank": 30,
+    "ko": "친구",
+    "sentences": [
+      {"ko": "친구를 만나요.", "en": "I'm meeting a friend.", "romaja": "chingu-reul mannayo"},
+      {"ko": "제 친구는 일본에 있어요.", "en": "My friend is in Japan.", "romaja": "je chingu-neun ilbon-e isseoyo"},
+      {"ko": "친구와 같이 공부해요.", "en": "I study with my friend.", "romaja": "chingu-wa gachi gongbuhaeyo"}
+    ]
+  },
+  {
+    "rank": 31,
+    "ko": "가족",
+    "sentences": [
+      {"ko": "우리 가족은 네 명이에요.", "en": "Our family has four people.", "romaja": "uri gajok-eun ne myeong-i-eyo"},
+      {"ko": "가족이 보고 싶어요.", "en": "I miss my family.", "romaja": "gajok-i bogo sipeoyo"},
+      {"ko": "가족과 저녁을 먹어요.", "en": "I eat dinner with my family.", "romaja": "gajok-gwa jeonyeok-eul meogeoyo"}
+    ]
+  },
+  {
+    "rank": 32,
+    "ko": "엄마",
+    "sentences": [
+      {"ko": "엄마가 밥을 해요.", "en": "Mom makes rice.", "romaja": "eomma-ga bab-eul haeyo"},
+      {"ko": "엄마, 배고파요.", "en": "Mom, I'm hungry.", "romaja": "eomma, baegopayo"},
+      {"ko": "우리 엄마는 선생님이에요.", "en": "My mom is a teacher.", "romaja": "uri eomma-neun seonsaengnim-i-eyo"}
+    ]
+  },
+  {
+    "rank": 33,
+    "ko": "아빠",
+    "sentences": [
+      {"ko": "아빠가 회사에 가요.", "en": "Dad goes to work.", "romaja": "appa-ga hoesa-e gayo"},
+      {"ko": "아빠, 저 여기에 있어요.", "en": "Dad, I'm here.", "romaja": "appa, jeo yeogi-e isseoyo"},
+      {"ko": "우리 아빠는 요리를 잘해요.", "en": "My dad cooks well.", "romaja": "uri appa-neun yori-reul jalhaeyo"}
+    ]
+  },
+  {
+    "rank": 34,
+    "ko": "어머니",
+    "sentences": [
+      {"ko": "어머니가 집에 계세요.", "en": "My mother is at home.", "romaja": "eomeoni-ga jip-e gyeseyo"},
+      {"ko": "어머니, 감사합니다.", "en": "Thank you, mother.", "romaja": "eomeoni, gamsahamnida"},
+      {"ko": "어머니는 한국 사람이에요.", "en": "My mother is Korean.", "romaja": "eomeoni-neun hanguk saram-i-eyo"}
+    ]
+  },
+  {
+    "rank": 35,
+    "ko": "아버지",
+    "sentences": [
+      {"ko": "아버지는 의사예요.", "en": "My father is a doctor.", "romaja": "abeoji-neun uisa-yeyo"},
+      {"ko": "아버지가 오세요.", "en": "Father is coming.", "romaja": "abeoji-ga oseyo"},
+      {"ko": "저는 아버지를 사랑해요.", "en": "I love my father.", "romaja": "jeo-neun abeoji-reul saranghaeyo"}
+    ]
+  },
+  {
+    "rank": 36,
+    "ko": "형",
+    "sentences": [
+      {"ko": "형이 저보다 커요.", "en": "My older brother is taller than me.", "romaja": "hyeong-i jeo-boda keoyo"},
+      {"ko": "형, 같이 가요.", "en": "Bro, let's go together.", "romaja": "hyeong, gachi gayo"},
+      {"ko": "제 형은 대학생이에요.", "en": "My older brother is a university student.", "romaja": "je hyeong-eun daehaksaeng-i-eyo"}
+    ]
+  },
+  {
+    "rank": 37,
+    "ko": "누나",
+    "sentences": [
+      {"ko": "누나가 밥을 만들어요.", "en": "My older sister makes food.", "romaja": "nuna-ga bab-eul mandeureoyo"},
+      {"ko": "누나, 이것 좀 봐요.", "en": "Sis, look at this.", "romaja": "nuna, igeot jom bwayo"},
+      {"ko": "제 누나는 회사원이에요.", "en": "My older sister is an office worker.", "romaja": "je nuna-neun hoesawon-i-eyo"}
+    ]
+  },
+  {
+    "rank": 38,
+    "ko": "오빠",
+    "sentences": [
+      {"ko": "오빠가 저를 도와줘요.", "en": "My older brother helps me.", "romaja": "oppa-ga jeo-reul dowajweoyo"},
+      {"ko": "오빠, 같이 공부해요.", "en": "Oppa, let's study together.", "romaja": "oppa, gachi gongbuhaeyo"},
+      {"ko": "제 오빠는 멋있어요.", "en": "My older brother is cool.", "romaja": "je oppa-neun meositsseoyo"}
+    ]
+  },
+  {
+    "rank": 39,
+    "ko": "언니",
+    "sentences": [
+      {"ko": "언니가 선물을 줬어요.", "en": "My older sister gave me a gift.", "romaja": "eonni-ga seonmul-eul jwosseoyo"},
+      {"ko": "언니, 같이 가요.", "en": "Sis, let's go together.", "romaja": "eonni, gachi gayo"},
+      {"ko": "제 언니는 요리를 잘해요.", "en": "My older sister cooks well.", "romaja": "je eonni-neun yori-reul jalhaeyo"}
+    ]
+  },
+  {
+    "rank": 40,
+    "ko": "동생",
+    "sentences": [
+      {"ko": "동생이 학교에 다녀요.", "en": "My younger sibling goes to school.", "romaja": "dongsaeng-i hakgyo-e danyeoyo"},
+      {"ko": "동생과 같이 놀아요.", "en": "I play with my younger sibling.", "romaja": "dongsaeng-gwa gachi norayo"},
+      {"ko": "제 동생은 아홉 살이에요.", "en": "My younger sibling is nine years old.", "romaja": "je dongsaeng-eun ahop sal-i-eyo"}
+    ]
+  },
+  {
+    "rank": 41,
+    "ko": "선생님",
+    "sentences": [
+      {"ko": "선생님, 질문이 있어요.", "en": "Teacher, I have a question.", "romaja": "seonsaengnim, jilmun-i isseoyo"},
+      {"ko": "우리 선생님은 친절해요.", "en": "Our teacher is kind.", "romaja": "uri seonsaengnim-eun chinjeolhaeyo"},
+      {"ko": "선생님이 한국어를 가르쳐요.", "en": "The teacher teaches Korean.", "romaja": "seonsaengnim-i hangugeo-reul gareuchyeoyo"}
+    ]
+  },
+  {
+    "rank": 42,
+    "ko": "학생",
+    "sentences": [
+      {"ko": "저는 한국어 학생이에요.", "en": "I am a Korean language student.", "romaja": "jeo-neun hangugeo haksaeng-i-eyo"},
+      {"ko": "학생이 교실에 있어요.", "en": "The students are in the classroom.", "romaja": "haksaeng-i gyosil-e isseoyo"},
+      {"ko": "저는 대학생이에요.", "en": "I am a university student.", "romaja": "jeo-neun daehaksaeng-i-eyo"}
+    ]
+  },
+  {
+    "rank": 43,
+    "ko": "이름",
+    "sentences": [
+      {"ko": "이름이 뭐예요?", "en": "What is your name?", "romaja": "ireum-i mwo-yeyo"},
+      {"ko": "제 이름은 지수예요.", "en": "My name is Jisu.", "romaja": "je ireum-eun jisu-yeyo"},
+      {"ko": "이름을 써 주세요.", "en": "Please write your name.", "romaja": "ireum-eul sseo juseyo"}
+    ]
+  },
+  {
+    "rank": 44,
+    "ko": "나라",
+    "sentences": [
+      {"ko": "어느 나라 사람이에요?", "en": "What country are you from?", "romaja": "eoneu nara saram-i-eyo"},
+      {"ko": "한국은 좋은 나라예요.", "en": "Korea is a good country.", "romaja": "hanguk-eun jo-eun nara-yeyo"},
+      {"ko": "저는 다른 나라에 가고 싶어요.", "en": "I want to go to another country.", "romaja": "jeo-neun dareun nara-e ga-go sipeoyo"}
+    ]
+  },
+  {
+    "rank": 45,
+    "ko": "한국",
+    "sentences": [
+      {"ko": "저는 한국에 살아요.", "en": "I live in Korea.", "romaja": "jeo-neun hanguk-e sarayo"},
+      {"ko": "한국 음식을 좋아해요.", "en": "I like Korean food.", "romaja": "hanguk eumsik-eul joahaeyo"},
+      {"ko": "한국에 가고 싶어요.", "en": "I want to go to Korea.", "romaja": "hanguk-e ga-go sipeoyo"}
+    ]
+  },
+  {
+    "rank": 46,
+    "ko": "한국어",
+    "sentences": [
+      {"ko": "저는 한국어를 공부해요.", "en": "I study Korean.", "romaja": "jeo-neun hangugeo-reul gongbuhaeyo"},
+      {"ko": "한국어가 재미있어요.", "en": "Korean is interesting.", "romaja": "hangugeo-ga jaemi-isseoyo"},
+      {"ko": "한국어를 잘 하고 싶어요.", "en": "I want to speak Korean well.", "romaja": "hangugeo-reul jal ha-go sipeoyo"}
+    ]
+  },
+  {
+    "rank": 47,
+    "ko": "영어",
+    "sentences": [
+      {"ko": "영어를 할 수 있어요?", "en": "Can you speak English?", "romaja": "yeongeo-reul hal su isseoyo"},
+      {"ko": "영어 공부가 어려워요.", "en": "Studying English is difficult.", "romaja": "yeongeo gongbu-ga eoryeowoyo"},
+      {"ko": "저는 영어 선생님이에요.", "en": "I am an English teacher.", "romaja": "jeo-neun yeongeo seonsaengnim-i-eyo"}
+    ]
+  },
+  {
+    "rank": 48,
+    "ko": "말",
+    "sentences": [
+      {"ko": "한국말을 배워요.", "en": "I'm learning Korean.", "romaja": "hangukmal-eul baeweoyo"},
+      {"ko": "천천히 말해 주세요.", "en": "Please speak slowly.", "romaja": "cheoncheonhi malhae juseyo"},
+      {"ko": "그 말이 맞아요.", "en": "Those words are right.", "romaja": "geu mal-i majayo"}
+    ]
+  },
+  {
+    "rank": 49,
+    "ko": "집",
+    "sentences": [
+      {"ko": "저는 집에 있어요.", "en": "I am at home.", "romaja": "jeo-neun jip-e isseoyo"},
+      {"ko": "집에 가고 싶어요.", "en": "I want to go home.", "romaja": "jip-e ga-go sipeoyo"},
+      {"ko": "우리 집은 학교 근처예요.", "en": "Our house is near the school.", "romaja": "uri jip-eun hakgyo geuncheo-yeyo"}
+    ]
+  },
+  {
+    "rank": 50,
+    "ko": "학교",
+    "sentences": [
+      {"ko": "저는 학교에 가요.", "en": "I go to school.", "romaja": "jeo-neun hakgyo-e gayo"},
+      {"ko": "학교가 멀어요.", "en": "The school is far.", "romaja": "hakgyo-ga meoreoyo"},
+      {"ko": "학교에서 한국어를 배워요.", "en": "I learn Korean at school.", "romaja": "hakgyo-eseo hangugeo-reul baeweoyo"}
+    ]
+  }
+]

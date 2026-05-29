@@ -1,0 +1,352 @@
+[
+ {
+  "rank": 201,
+  "ko": "비싸다",
+  "en": "to be expensive",
+  "pos": "adjective",
+  "romaja": "bissada"
+ },
+ {
+  "rank": 202,
+  "ko": "싸다",
+  "en": "to be cheap",
+  "pos": "adjective",
+  "romaja": "ssada"
+ },
+ {
+  "rank": 203,
+  "ko": "맛있다",
+  "en": "to be delicious",
+  "pos": "adjective",
+  "romaja": "masitda"
+ },
+ {
+  "rank": 204,
+  "ko": "맛없다",
+  "en": "to taste bad",
+  "pos": "adjective",
+  "romaja": "madeopda"
+ },
+ {
+  "rank": 205,
+  "ko": "예쁘다",
+  "en": "to be pretty",
+  "pos": "adjective",
+  "romaja": "yeppeuda"
+ },
+ {
+  "rank": 206,
+  "ko": "멋있다",
+  "en": "to be cool / stylish",
+  "pos": "adjective",
+  "romaja": "meositda"
+ },
+ {
+  "rank": 207,
+  "ko": "아름답다",
+  "en": "to be beautiful",
+  "pos": "adjective",
+  "romaja": "areumdapda"
+ },
+ {
+  "rank": 208,
+  "ko": "덥다",
+  "en": "to be hot (weather)",
+  "pos": "adjective",
+  "romaja": "deopda"
+ },
+ {
+  "rank": 209,
+  "ko": "춥다",
+  "en": "to be cold (weather)",
+  "pos": "adjective",
+  "romaja": "chupda"
+ },
+ {
+  "rank": 210,
+  "ko": "따뜻하다",
+  "en": "to be warm",
+  "pos": "adjective",
+  "romaja": "ttatteutada"
+ },
+ {
+  "rank": 211,
+  "ko": "바쁘다",
+  "en": "to be busy",
+  "pos": "adjective",
+  "romaja": "bappeuda"
+ },
+ {
+  "rank": 212,
+  "ko": "아프다",
+  "en": "to be sick / to hurt",
+  "pos": "adjective",
+  "romaja": "apeuda"
+ },
+ {
+  "rank": 213,
+  "ko": "피곤하다",
+  "en": "to be tired",
+  "pos": "adjective",
+  "romaja": "pigonhada"
+ },
+ {
+  "rank": 214,
+  "ko": "행복하다",
+  "en": "to be happy",
+  "pos": "adjective",
+  "romaja": "haengbokada"
+ },
+ {
+  "rank": 215,
+  "ko": "슬프다",
+  "en": "to be sad",
+  "pos": "adjective",
+  "romaja": "seulpeuda"
+ },
+ {
+  "rank": 216,
+  "ko": "재미있다",
+  "en": "to be fun / interesting",
+  "pos": "adjective",
+  "romaja": "jaemiitda"
+ },
+ {
+  "rank": 217,
+  "ko": "재미없다",
+  "en": "to be boring",
+  "pos": "adjective",
+  "romaja": "jaemieopda"
+ },
+ {
+  "rank": 218,
+  "ko": "중요하다",
+  "en": "to be important",
+  "pos": "adjective",
+  "romaja": "jungyohada"
+ },
+ {
+  "rank": 219,
+  "ko": "같다",
+  "en": "to be the same / to seem",
+  "pos": "adjective",
+  "romaja": "gatda"
+ },
+ {
+  "rank": 220,
+  "ko": "다르다",
+  "en": "to be different",
+  "pos": "adjective",
+  "romaja": "dareuda"
+ },
+ {
+  "rank": 221,
+  "ko": "많이",
+  "en": "a lot / much",
+  "pos": "adverb",
+  "romaja": "mani"
+ },
+ {
+  "rank": 222,
+  "ko": "조금",
+  "en": "a little",
+  "pos": "adverb",
+  "romaja": "jogeum"
+ },
+ {
+  "rank": 223,
+  "ko": "아주",
+  "en": "very",
+  "pos": "adverb",
+  "romaja": "aju"
+ },
+ {
+  "rank": 224,
+  "ko": "너무",
+  "en": "too / so much",
+  "pos": "adverb",
+  "romaja": "neomu"
+ },
+ {
+  "rank": 225,
+  "ko": "정말",
+  "en": "really",
+  "pos": "adverb",
+  "romaja": "jeongmal"
+ },
+ {
+  "rank": 226,
+  "ko": "진짜",
+  "en": "really / for real",
+  "pos": "adverb",
+  "romaja": "jinjja"
+ },
+ {
+  "rank": 227,
+  "ko": "좀",
+  "en": "a bit / please (softener)",
+  "pos": "adverb",
+  "romaja": "jom"
+ },
+ {
+  "rank": 228,
+  "ko": "잘",
+  "en": "well",
+  "pos": "adverb",
+  "romaja": "jal"
+ },
+ {
+  "rank": 229,
+  "ko": "못",
+  "en": "cannot",
+  "pos": "adverb",
+  "romaja": "mot"
+ },
+ {
+  "rank": 230,
+  "ko": "안",
+  "en": "not",
+  "pos": "adverb",
+  "romaja": "an"
+ },
+ {
+  "rank": 231,
+  "ko": "다시",
+  "en": "again",
+  "pos": "adverb",
+  "romaja": "dasi"
+ },
+ {
+  "rank": 232,
+  "ko": "또",
+  "en": "again / also",
+  "pos": "adverb",
+  "romaja": "tto"
+ },
+ {
+  "rank": 233,
+  "ko": "먼저",
+  "en": "first / beforehand",
+  "pos": "adverb",
+  "romaja": "meonjeo"
+ },
+ {
+  "rank": 234,
+  "ko": "빨리",
+  "en": "quickly",
+  "pos": "adverb",
+  "romaja": "ppalli"
+ },
+ {
+  "rank": 235,
+  "ko": "천천히",
+  "en": "slowly",
+  "pos": "adverb",
+  "romaja": "cheoncheonhi"
+ },
+ {
+  "rank": 236,
+  "ko": "항상",
+  "en": "always",
+  "pos": "adverb",
+  "romaja": "hangsang"
+ },
+ {
+  "rank": 237,
+  "ko": "보통",
+  "en": "usually",
+  "pos": "adverb",
+  "romaja": "botong"
+ },
+ {
+  "rank": 238,
+  "ko": "가끔",
+  "en": "sometimes",
+  "pos": "adverb",
+  "romaja": "gakkeum"
+ },
+ {
+  "rank": 239,
+  "ko": "자주",
+  "en": "often",
+  "pos": "adverb",
+  "romaja": "jaju"
+ },
+ {
+  "rank": 240,
+  "ko": "벌써",
+  "en": "already",
+  "pos": "adverb",
+  "romaja": "beolsseo"
+ },
+ {
+  "rank": 241,
+  "ko": "아직",
+  "en": "still / yet",
+  "pos": "adverb",
+  "romaja": "ajik"
+ },
+ {
+  "rank": 242,
+  "ko": "같이",
+  "en": "together",
+  "pos": "adverb",
+  "romaja": "gachi"
+ },
+ {
+  "rank": 243,
+  "ko": "혼자",
+  "en": "alone",
+  "pos": "adverb",
+  "romaja": "honja"
+ },
+ {
+  "rank": 244,
+  "ko": "제일",
+  "en": "the most",
+  "pos": "adverb",
+  "romaja": "jeil"
+ },
+ {
+  "rank": 245,
+  "ko": "가장",
+  "en": "the most",
+  "pos": "adverb",
+  "romaja": "gajang"
+ },
+ {
+  "rank": 246,
+  "ko": "이",
+  "en": "this",
+  "pos": "determiner",
+  "romaja": "i"
+ },
+ {
+  "rank": 247,
+  "ko": "그",
+  "en": "that / the",
+  "pos": "determiner",
+  "romaja": "geu"
+ },
+ {
+  "rank": 248,
+  "ko": "무슨",
+  "en": "what kind of",
+  "pos": "determiner",
+  "romaja": "museun"
+ },
+ {
+  "rank": 249,
+  "ko": "어떤",
+  "en": "which / what kind of",
+  "pos": "determiner",
+  "romaja": "eotteon"
+ },
+ {
+  "rank": 250,
+  "ko": "하나",
+  "en": "one",
+  "pos": "number",
+  "romaja": "hana"
+ }
+]

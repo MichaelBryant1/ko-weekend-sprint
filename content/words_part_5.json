@@ -1,0 +1,452 @@
+[
+  {
+    "rank": 201,
+    "ko": "비싸다",
+    "sentences": [
+      {"ko": "이 가방은 너무 비싸요.", "en": "This bag is too expensive.", "romaja": "i gabang-eun neomu bissayo"},
+      {"ko": "그 식당은 좀 비싸요.", "en": "That restaurant is a bit expensive.", "romaja": "geu sikdang-eun jom bissayo"},
+      {"ko": "이 옷은 왜 이렇게 비싸요?", "en": "Why is this outfit so expensive?", "romaja": "i os-eun wae ireoke bissayo"}
+    ]
+  },
+  {
+    "rank": 202,
+    "ko": "싸다",
+    "sentences": [
+      {"ko": "이 과일은 정말 싸요.", "en": "This fruit is really cheap.", "romaja": "i gwail-eun jeongmal ssayo"},
+      {"ko": "여기 음식이 싸고 맛있어요.", "en": "The food here is cheap and delicious.", "romaja": "yeogi eumsigi ssago massisseoyo"},
+      {"ko": "시장에서 사면 더 싸요.", "en": "It's cheaper if you buy it at the market.", "romaja": "sijang-eseo samyeon deo ssayo"}
+    ]
+  },
+  {
+    "rank": 203,
+    "ko": "맛있다",
+    "sentences": [
+      {"ko": "이 김치찌개가 맛있어요.", "en": "This kimchi stew is delicious.", "romaja": "i gimchijjigaega massisseoyo"},
+      {"ko": "엄마가 만든 음식은 맛있어요.", "en": "The food my mom makes is delicious.", "romaja": "eommaga mandeun eumsig-eun massisseoyo"},
+      {"ko": "이 케이크 정말 맛있어요!", "en": "This cake is really delicious!", "romaja": "i keikeu jeongmal massisseoyo"}
+    ]
+  },
+  {
+    "rank": 204,
+    "ko": "맛없다",
+    "sentences": [
+      {"ko": "이 커피는 맛없어요.", "en": "This coffee tastes bad.", "romaja": "i keopi-neun madeopsseoyo"},
+      {"ko": "너무 짜서 맛없어요.", "en": "It's too salty so it tastes bad.", "romaja": "neomu jjaseo madeopsseoyo"},
+      {"ko": "그 식당 음식이 맛없었어요.", "en": "The food at that restaurant tasted bad.", "romaja": "geu sikdang eumsigi madeopseosseoyo"}
+    ]
+  },
+  {
+    "rank": 205,
+    "ko": "예쁘다",
+    "sentences": [
+      {"ko": "그 꽃이 정말 예뻐요.", "en": "Those flowers are really pretty.", "romaja": "geu kkouchi jeongmal yeppeoyo"},
+      {"ko": "언니는 얼굴이 예뻐요.", "en": "My older sister has a pretty face.", "romaja": "eonni-neun eolguri yeppeoyo"},
+      {"ko": "이 드레스가 너무 예뻐요.", "en": "This dress is so pretty.", "romaja": "i deureseu-ga neomu yeppeoyo"}
+    ]
+  },
+  {
+    "rank": 206,
+    "ko": "멋있다",
+    "sentences": [
+      {"ko": "오빠 옷이 멋있어요.", "en": "My older brother's outfit is cool.", "romaja": "oppa osi meositsseoyo"},
+      {"ko": "그 배우는 정말 멋있어요.", "en": "That actor is really cool.", "romaja": "geu baeu-neun jeongmal meositsseoyo"},
+      {"ko": "저 자동차가 멋있어요.", "en": "That car over there is stylish.", "romaja": "jeo jadongcha-ga meositsseoyo"}
+    ]
+  },
+  {
+    "rank": 207,
+    "ko": "아름답다",
+    "sentences": [
+      {"ko": "제주도는 정말 아름다워요.", "en": "Jeju Island is really beautiful.", "romaja": "jejudo-neun jeongmal areumdawoyo"},
+      {"ko": "저 산이 아름다워요.", "en": "That mountain is beautiful.", "romaja": "jeo sani areumdawoyo"},
+      {"ko": "노을이 아름다워요.", "en": "The sunset is beautiful.", "romaja": "noeuri areumdawoyo"}
+    ]
+  },
+  {
+    "rank": 208,
+    "ko": "덥다",
+    "sentences": [
+      {"ko": "오늘 날씨가 너무 더워요.", "en": "The weather today is too hot.", "romaja": "oneul nalssiga neomu deowoyo"},
+      {"ko": "여름에는 한국이 더워요.", "en": "Korea is hot in summer.", "romaja": "yeoreum-eneun hangug-i deowoyo"},
+      {"ko": "방이 더워서 창문을 열었어요.", "en": "The room was hot so I opened the window.", "romaja": "bang-i deowoseo changmun-eul yeoreosseoyo"}
+    ]
+  },
+  {
+    "rank": 209,
+    "ko": "춥다",
+    "sentences": [
+      {"ko": "오늘 밖이 너무 추워요.", "en": "It is too cold outside today.", "romaja": "oneul bakki neomu chuwoyo"},
+      {"ko": "겨울에는 서울이 추워요.", "en": "Seoul is cold in winter.", "romaja": "gyeoul-eneun seoul-i chuwoyo"},
+      {"ko": "추워서 코트를 입었어요.", "en": "It was cold so I put on a coat.", "romaja": "chuwoseo koteu-reul ibeoSSEOyo"}
+    ]
+  },
+  {
+    "rank": 210,
+    "ko": "따뜻하다",
+    "sentences": [
+      {"ko": "봄 날씨가 따뜻해요.", "en": "The spring weather is warm.", "romaja": "bom nalssiga ttatteutaeyo"},
+      {"ko": "이 담요가 따뜻해요.", "en": "This blanket is warm.", "romaja": "i damyo-ga ttatteutaeyo"},
+      {"ko": "따뜻한 차 한 잔 마실게요.", "en": "I'll have a warm cup of tea.", "romaja": "ttatteuthan cha han jan masilgeyo"}
+    ]
+  },
+  {
+    "rank": 211,
+    "ko": "바쁘다",
+    "sentences": [
+      {"ko": "요즘 많이 바빠요.", "en": "I've been very busy lately.", "romaja": "yojeum mani bappayo"},
+      {"ko": "주말에도 바빠요.", "en": "I'm busy even on weekends.", "romaja": "jumal-edo bappayo"},
+      {"ko": "바빠서 밥을 못 먹었어요.", "en": "I was so busy I couldn't eat.", "romaja": "bappaseo bab-eul mot meogeosseoyo"}
+    ]
+  },
+  {
+    "rank": 212,
+    "ko": "아프다",
+    "sentences": [
+      {"ko": "머리가 아파요.", "en": "My head hurts.", "romaja": "meori-ga apayo"},
+      {"ko": "배가 아파서 학교에 못 갔어요.", "en": "My stomach hurt so I couldn't go to school.", "romaja": "bae-ga apaseo hakgyo-e mot gasseoyo"},
+      {"ko": "아파서 병원에 갔어요.", "en": "I was sick so I went to the hospital.", "romaja": "apaseo byeongwon-e gasseoyo"}
+    ]
+  },
+  {
+    "rank": 213,
+    "ko": "피곤하다",
+    "sentences": [
+      {"ko": "오늘 너무 피곤해요.", "en": "I'm so tired today.", "romaja": "oneul neomu pigonhaeyo"},
+      {"ko": "일이 많아서 피곤해요.", "en": "I'm tired because I have a lot of work.", "romaja": "iri manaseo pigonhaeyo"},
+      {"ko": "피곤해서 일찍 잤어요.", "en": "I was tired so I went to bed early.", "romaja": "pigonhaeseo iljjik jasseoyo"}
+    ]
+  },
+  {
+    "rank": 214,
+    "ko": "행복하다",
+    "sentences": [
+      {"ko": "지금 정말 행복해요.", "en": "I'm really happy right now.", "romaja": "jigeum jeongmal haengbokaeyo"},
+      {"ko": "가족과 함께라서 행복해요.", "en": "I'm happy because I'm with my family.", "romaja": "gajok-gwa hamkkeraseo haengbokaeyo"},
+      {"ko": "행복한 하루 보내세요.", "en": "Have a happy day.", "romaja": "haengbokan haru bonaeseyo"}
+    ]
+  },
+  {
+    "rank": 215,
+    "ko": "슬프다",
+    "sentences": [
+      {"ko": "이 영화는 너무 슬퍼요.", "en": "This movie is so sad.", "romaja": "i yeonghwa-neun neomu seulpeoyo"},
+      {"ko": "친구가 떠나서 슬퍼요.", "en": "I'm sad because my friend left.", "romaja": "chingu-ga tteonaseo seulpeoyo"},
+      {"ko": "슬퍼서 울었어요.", "en": "I was sad so I cried.", "romaja": "seulpeoseo ureosseoyo"}
+    ]
+  },
+  {
+    "rank": 216,
+    "ko": "재미있다",
+    "sentences": [
+      {"ko": "이 게임이 재미있어요.", "en": "This game is fun.", "romaja": "i geim-i jaemiitsseoyo"},
+      {"ko": "한국어 공부가 재미있어요.", "en": "Studying Korean is interesting.", "romaja": "hangugeo gongbu-ga jaemiitsseoyo"},
+      {"ko": "그 영화 정말 재미있었어요.", "en": "That movie was really fun.", "romaja": "geu yeonghwa jeongmal jaemiitseosseoyo"}
+    ]
+  },
+  {
+    "rank": 217,
+    "ko": "재미없다",
+    "sentences": [
+      {"ko": "이 책은 재미없어요.", "en": "This book is boring.", "romaja": "i chaek-eun jaemieopsseoyo"},
+      {"ko": "그 수업이 너무 재미없어요.", "en": "That class is so boring.", "romaja": "geu sueob-i neomu jaemieopsseoyo"},
+      {"ko": "파티가 재미없어서 일찍 갔어요.", "en": "The party was boring so I left early.", "romaja": "pati-ga jaemieopseoseo iljjik gasseoyo"}
+    ]
+  },
+  {
+    "rank": 218,
+    "ko": "중요하다",
+    "sentences": [
+      {"ko": "건강이 중요해요.", "en": "Health is important.", "romaja": "geongang-i jungyohaeyo"},
+      {"ko": "이 회의가 정말 중요해요.", "en": "This meeting is really important.", "romaja": "i hoeui-ga jeongmal jungyohaeyo"},
+      {"ko": "중요한 약속을 잊지 마세요.", "en": "Don't forget an important appointment.", "romaja": "jungyohan yaksok-eul itji maseyo"}
+    ]
+  },
+  {
+    "rank": 219,
+    "ko": "같다",
+    "sentences": [
+      {"ko": "두 사람이 키가 같아요.", "en": "The two people are the same height.", "romaja": "du saram-i ki-ga gatayo"},
+      {"ko": "이 색이 저 색이랑 같아요.", "en": "This color is the same as that color.", "romaja": "i saek-i jeo saek-irang gatayo"},
+      {"ko": "우리 취미가 같아요.", "en": "Our hobbies are the same.", "romaja": "uri chwimi-ga gatayo"}
+    ]
+  },
+  {
+    "rank": 220,
+    "ko": "다르다",
+    "sentences": [
+      {"ko": "두 사람은 성격이 달라요.", "en": "The two people have different personalities.", "romaja": "du saram-eun seonggyeogi dallayo"},
+      {"ko": "이 가방이랑 저 가방은 달라요.", "en": "This bag and that bag are different.", "romaja": "i gabang-irang jeo gabang-eun dallayo"},
+      {"ko": "한국어와 일본어는 달라요.", "en": "Korean and Japanese are different.", "romaja": "hangugeo-wa ilboneo-neun dallayo"}
+    ]
+  },
+  {
+    "rank": 221,
+    "ko": "많이",
+    "sentences": [
+      {"ko": "밥을 많이 먹었어요.", "en": "I ate a lot of rice.", "romaja": "bab-eul mani meogeosseoyo"},
+      {"ko": "많이 기다렸어요.", "en": "I waited a long time.", "romaja": "mani gidareyeosseoyo"},
+      {"ko": "한국어를 많이 공부했어요.", "en": "I studied Korean a lot.", "romaja": "hangugeo-reul mani gongbuhaesseoyo"}
+    ]
+  },
+  {
+    "rank": 222,
+    "ko": "조금",
+    "sentences": [
+      {"ko": "한국어를 조금 알아요.", "en": "I know a little Korean.", "romaja": "hangugeo-reul jogeum arayo"},
+      {"ko": "조금 기다려 주세요.", "en": "Please wait a little.", "romaja": "jogeum gidaryeo juseyo"},
+      {"ko": "조금 피곤해요.", "en": "I'm a little tired.", "romaja": "jogeum pigonhaeyo"}
+    ]
+  },
+  {
+    "rank": 223,
+    "ko": "아주",
+    "sentences": [
+      {"ko": "오늘 날씨가 아주 좋아요.", "en": "The weather today is very nice.", "romaja": "oneul nalssiga aju joayo"},
+      {"ko": "이 음식이 아주 맛있어요.", "en": "This food is very delicious.", "romaja": "i eumsigi aju massisseoyo"},
+      {"ko": "그 사람은 아주 친절해요.", "en": "That person is very kind.", "romaja": "geu saram-eun aju chinjeolhaeyo"}
+    ]
+  },
+  {
+    "rank": 224,
+    "ko": "너무",
+    "sentences": [
+      {"ko": "너무 먹어서 배불러요.", "en": "I'm full because I ate too much.", "romaja": "neomu meogeoseo baebulleoyo"},
+      {"ko": "이 드라마가 너무 재미있어요.", "en": "This drama is so fun.", "romaja": "i deurama-ga neomu jaemiitsseoyo"},
+      {"ko": "너무 추워서 나가기 싫어요.", "en": "It's too cold so I don't want to go out.", "romaja": "neomu chuwoseo nagagi sireoyo"}
+    ]
+  },
+  {
+    "rank": 225,
+    "ko": "정말",
+    "sentences": [
+      {"ko": "정말 감사해요.", "en": "Thank you so much (really).", "romaja": "jeongmal gamsahaeyo"},
+      {"ko": "정말 힘들었어요.", "en": "It was really hard.", "romaja": "jeongmal himdeureosseoyo"},
+      {"ko": "이거 정말 맛있어요!", "en": "This is really delicious!", "romaja": "igeo jeongmal massisseoyo"}
+    ]
+  },
+  {
+    "rank": 226,
+    "ko": "진짜",
+    "sentences": [
+      {"ko": "진짜예요? 믿을 수 없어요.", "en": "Really? I can't believe it.", "romaja": "jinjjayeyo mideur su eopsseoyo"},
+      {"ko": "진짜 맛있는 라면을 찾았어요.", "en": "I found really delicious ramen.", "romaja": "jinjja massinneun ramyeon-eul chajasseoyo"},
+      {"ko": "그거 진짜 어려워요.", "en": "That is really difficult.", "romaja": "geugeo jinjja eolyeowoyo"}
+    ]
+  },
+  {
+    "rank": 227,
+    "ko": "좀",
+    "sentences": [
+      {"ko": "좀 도와주세요.", "en": "Please help me a bit.", "romaja": "jom dowajuseyo"},
+      {"ko": "창문 좀 열어 주세요.", "en": "Could you open the window a bit?", "romaja": "changmun jom yeoreo juseyo"},
+      {"ko": "좀 더 크게 말해 주세요.", "en": "Please speak a bit louder.", "romaja": "jom deo keuge malhae juseyo"}
+    ]
+  },
+  {
+    "rank": 228,
+    "ko": "잘",
+    "sentences": [
+      {"ko": "한국어를 잘 해요.", "en": "I speak Korean well.", "romaja": "hangugeo-reul jal haeyo"},
+      {"ko": "잘 잤어요?", "en": "Did you sleep well?", "romaja": "jal jasseoyo"},
+      {"ko": "요리를 잘 못해요.", "en": "I'm not good at cooking.", "romaja": "yori-reul jal motaeyo"}
+    ]
+  },
+  {
+    "rank": 229,
+    "ko": "못",
+    "sentences": [
+      {"ko": "수영을 못 해요.", "en": "I can't swim.", "romaja": "suyeong-eul mot haeyo"},
+      {"ko": "어제 못 잤어요.", "en": "I couldn't sleep yesterday.", "romaja": "eoje mot jasseoyo"},
+      {"ko": "바빠서 못 갔어요.", "en": "I was busy so I couldn't go.", "romaja": "bappaseo mot gasseoyo"}
+    ]
+  },
+  {
+    "rank": 230,
+    "ko": "안",
+    "sentences": [
+      {"ko": "오늘 학교에 안 가요.", "en": "I'm not going to school today.", "romaja": "oneul hakgyo-e an gayo"},
+      {"ko": "고기를 안 먹어요.", "en": "I don't eat meat.", "romaja": "gogi-reul an meogeyo"},
+      {"ko": "안 피곤해요.", "en": "I'm not tired.", "romaja": "an pigonhaeyo"}
+    ]
+  },
+  {
+    "rank": 231,
+    "ko": "다시",
+    "sentences": [
+      {"ko": "다시 한번 말씀해 주세요.", "en": "Please say it once more.", "romaja": "dasi hanbeon malsseum hae juseyo"},
+      {"ko": "내일 다시 올게요.", "en": "I'll come again tomorrow.", "romaja": "naeil dasi olgeyo"},
+      {"ko": "이 영화를 다시 보고 싶어요.", "en": "I want to watch this movie again.", "romaja": "i yeonghwa-reul dasi bogo sipeoyo"}
+    ]
+  },
+  {
+    "rank": 232,
+    "ko": "또",
+    "sentences": [
+      {"ko": "또 만나요!", "en": "See you again!", "romaja": "tto mannayo"},
+      {"ko": "또 늦었어요.", "en": "You're late again.", "romaja": "tto neujeosseoyo"},
+      {"ko": "이 책을 또 읽고 싶어요.", "en": "I want to read this book again.", "romaja": "i chaek-eul tto ilkgo sipeoyo"}
+    ]
+  },
+  {
+    "rank": 233,
+    "ko": "먼저",
+    "sentences": [
+      {"ko": "먼저 손을 씻어요.", "en": "First, wash your hands.", "romaja": "meonjeo son-eul ssisseoyo"},
+      {"ko": "저 먼저 갈게요.", "en": "I'll go first.", "romaja": "jeo meonjeo galgeyo"},
+      {"ko": "먼저 이것을 해 주세요.", "en": "Please do this first.", "romaja": "meonjeo igeoseul hae juseyo"}
+    ]
+  },
+  {
+    "rank": 234,
+    "ko": "빨리",
+    "sentences": [
+      {"ko": "빨리 오세요!", "en": "Come quickly!", "romaja": "ppalli oseyo"},
+      {"ko": "빨리 먹고 나가요.", "en": "Let's eat quickly and go out.", "romaja": "ppalli meokgo nagayo"},
+      {"ko": "빨리 걸어서 늦지 않았어요.", "en": "I walked quickly so I wasn't late.", "romaja": "ppalli georeoseo neutji anasseoyo"}
+    ]
+  },
+  {
+    "rank": 235,
+    "ko": "천천히",
+    "sentences": [
+      {"ko": "천천히 말해 주세요.", "en": "Please speak slowly.", "romaja": "cheoncheonhi malhae juseyo"},
+      {"ko": "천천히 걸어요.", "en": "I walk slowly.", "romaja": "cheoncheonhi georeoyo"},
+      {"ko": "천천히 먹는 게 좋아요.", "en": "It's good to eat slowly.", "romaja": "cheoncheonhi meongneun ge joayo"}
+    ]
+  },
+  {
+    "rank": 236,
+    "ko": "항상",
+    "sentences": [
+      {"ko": "항상 감사해요.", "en": "I'm always grateful.", "romaja": "hangsang gamsahaeyo"},
+      {"ko": "아침에 항상 커피를 마셔요.", "en": "I always drink coffee in the morning.", "romaja": "achime hangsang keopi-reul masyeoyo"},
+      {"ko": "항상 조심하세요.", "en": "Always be careful.", "romaja": "hangsang josimhaseyo"}
+    ]
+  },
+  {
+    "rank": 237,
+    "ko": "보통",
+    "sentences": [
+      {"ko": "보통 아침 7시에 일어나요.", "en": "I usually wake up at 7 in the morning.", "romaja": "botong achim ilgop si-e ireonayo"},
+      {"ko": "점심은 보통 집에서 먹어요.", "en": "I usually eat lunch at home.", "romaja": "jeomsim-eun botong jib-eseo meogeyo"},
+      {"ko": "보통 어디서 공부해요?", "en": "Where do you usually study?", "romaja": "botong eodiseo gongbuhaeyo"}
+    ]
+  },
+  {
+    "rank": 238,
+    "ko": "가끔",
+    "sentences": [
+      {"ko": "가끔 영화를 봐요.", "en": "I sometimes watch movies.", "romaja": "gakkeum yeonghwa-reul bwayo"},
+      {"ko": "친구를 가끔 만나요.", "en": "I sometimes meet my friend.", "romaja": "chingu-reul gakkeum mannayo"},
+      {"ko": "가끔 이 카페에 와요.", "en": "I sometimes come to this café.", "romaja": "gakkeum i kape-e wayo"}
+    ]
+  },
+  {
+    "rank": 239,
+    "ko": "자주",
+    "sentences": [
+      {"ko": "이 식당에 자주 와요.", "en": "I come to this restaurant often.", "romaja": "i sikdang-e jaju wayo"},
+      {"ko": "자주 운동을 해요.", "en": "I exercise often.", "romaja": "jaju undong-eul haeyo"},
+      {"ko": "친구에게 자주 연락해요.", "en": "I contact my friend often.", "romaja": "chingu-ege jaju yeollakaeyo"}
+    ]
+  },
+  {
+    "rank": 240,
+    "ko": "벌써",
+    "sentences": [
+      {"ko": "벌써 10시예요.", "en": "It's already 10 o'clock.", "romaja": "beolsseo yeol siyeyo"},
+      {"ko": "벌써 다 먹었어요.", "en": "I already ate it all.", "romaja": "beolsseo da meogeosseoyo"},
+      {"ko": "벌써 방학이에요.", "en": "It's already vacation.", "romaja": "beolsseo banghak-ieyo"}
+    ]
+  },
+  {
+    "rank": 241,
+    "ko": "아직",
+    "sentences": [
+      {"ko": "아직 안 왔어요.", "en": "They haven't come yet.", "romaja": "ajik an wasseoyo"},
+      {"ko": "숙제를 아직 못 했어요.", "en": "I haven't done my homework yet.", "romaja": "sukje-reul ajik mot haesseoyo"},
+      {"ko": "아직 배고파요.", "en": "I'm still hungry.", "romaja": "ajik baegopayo"}
+    ]
+  },
+  {
+    "rank": 242,
+    "ko": "같이",
+    "sentences": [
+      {"ko": "같이 밥 먹어요.", "en": "Let's eat together.", "romaja": "gachi bab meogeyo"},
+      {"ko": "친구와 같이 공부해요.", "en": "I study together with my friend.", "romaja": "chingu-wa gachi gongbuhaeyo"},
+      {"ko": "같이 영화 보고 싶어요.", "en": "I want to watch a movie together.", "romaja": "gachi yeonghwa bogo sipeoyo"}
+    ]
+  },
+  {
+    "rank": 243,
+    "ko": "혼자",
+    "sentences": [
+      {"ko": "혼자 밥을 먹었어요.", "en": "I ate alone.", "romaja": "honja bab-eul meogeosseoyo"},
+      {"ko": "혼자 여행하고 싶어요.", "en": "I want to travel alone.", "romaja": "honja yeohaenghago sipeoyo"},
+      {"ko": "혼자 공부하는 게 어려워요.", "en": "Studying alone is difficult.", "romaja": "honja gongbuhaneun ge eolyeowoyo"}
+    ]
+  },
+  {
+    "rank": 244,
+    "ko": "제일",
+    "sentences": [
+      {"ko": "한국어가 제일 좋아요.", "en": "I like Korean the most.", "romaja": "hangugeo-ga jeil joayo"},
+      {"ko": "이 식당이 제일 맛있어요.", "en": "This restaurant is the most delicious.", "romaja": "i sikdang-i jeil massisseoyo"},
+      {"ko": "제일 좋아하는 계절이 뭐예요?", "en": "What is your favorite season?", "romaja": "jeil joahaneun gyejeori mwoyeyo"}
+    ]
+  },
+  {
+    "rank": 245,
+    "ko": "가장",
+    "sentences": [
+      {"ko": "가장 좋아하는 음식이 뭐예요?", "en": "What food do you like the most?", "romaja": "gajang joahaneun eumsigi mwoyeyo"},
+      {"ko": "서울이 한국에서 가장 커요.", "en": "Seoul is the biggest in Korea.", "romaja": "seoul-i hangug-eseo gajang keoyo"},
+      {"ko": "이게 가장 쉬운 방법이에요.", "en": "This is the easiest method.", "romaja": "ige gajang swiun bangbeob-ieyo"}
+    ]
+  },
+  {
+    "rank": 246,
+    "ko": "이",
+    "sentences": [
+      {"ko": "이 책이 재미있어요.", "en": "This book is interesting.", "romaja": "i chaegi jaemiitsseoyo"},
+      {"ko": "이 사람이 제 친구예요.", "en": "This person is my friend.", "romaja": "i sarami je chinguyeyo"},
+      {"ko": "이 가방은 얼마예요?", "en": "How much is this bag?", "romaja": "i gabang-eun eolmayeyo"}
+    ]
+  },
+  {
+    "rank": 247,
+    "ko": "그",
+    "sentences": [
+      {"ko": "그 영화 봤어요?", "en": "Did you see that movie?", "romaja": "geu yeonghwa bwasseoyo"},
+      {"ko": "그 사람이 선생님이에요.", "en": "That person is a teacher.", "romaja": "geu sarami seonsaengnim-ieyo"},
+      {"ko": "그 식당에 가고 싶어요.", "en": "I want to go to that restaurant.", "romaja": "geu sikdang-e gago sipeoyo"}
+    ]
+  },
+  {
+    "rank": 248,
+    "ko": "무슨",
+    "sentences": [
+      {"ko": "무슨 음식을 좋아해요?", "en": "What kind of food do you like?", "romaja": "museun eumsig-eul joahaeyo"},
+      {"ko": "무슨 일이에요?", "en": "What's the matter?", "romaja": "museun ir-ieyo"},
+      {"ko": "무슨 영화를 봤어요?", "en": "What movie did you watch?", "romaja": "museun yeonghwa-reul bwasseoyo"}
+    ]
+  },
+  {
+    "rank": 249,
+    "ko": "어떤",
+    "sentences": [
+      {"ko": "어떤 음악을 좋아해요?", "en": "What kind of music do you like?", "romaja": "eotteon eumageur joahaeyo"},
+      {"ko": "어떤 색이 좋아요?", "en": "Which color do you like?", "romaja": "eotteon saegi joayo"},
+      {"ko": "어떤 사람을 좋아해요?", "en": "What kind of person do you like?", "romaja": "eotteon saram-eul joahaeyo"}
+    ]
+  },
+  {
+    "rank": 250,
+    "ko": "하나",
+    "sentences": [
+      {"ko": "사과 하나 주세요.", "en": "Please give me one apple.", "romaja": "sagwa hana juseyo"},
+      {"ko": "질문이 하나 있어요.", "en": "I have one question.", "romaja": "jilmuni hana isseoyo"},
+      {"ko": "하나만 더 먹을게요.", "en": "I'll eat just one more.", "romaja": "hanaman deo meogeulgeyo"}
+    ]
+  }
+]
