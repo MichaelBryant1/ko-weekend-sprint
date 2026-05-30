@@ -170,7 +170,7 @@
         <div class="logo">KO <b>Sprint</b></div>
         <div class="empty"><div class="ic">🔒</div>
           <h3>Not on the list yet</h3>
-          <p><b>${esc(email)}</b> isn't on the invite list.<br>Ask Michael to add you, then sign in again.</p>
+          <p><b>${esc(email)}</b> isn't on the invite list.<br>Ask the Focus Immersion host to add you, then sign in again.</p>
         </div>
         <button class="submit" id="out">Sign out</button>
       </div></div>`;

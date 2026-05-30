@@ -1,10 +1,10 @@
 # HANDOFF — KO Weekend Sprint
 
-Built in one session. Private Korean learning app for Michael + friends.
+Built in one session. Private Korean learning app for Focus Immersion and invited friends.
 
 ## Live
 - **App:** https://kankoku.focusimmersion.com/
-- **Repo:** https://github.com/MichaelBryant1/ko-weekend-sprint (public — see note below)
+- **Repo:** GitHub Pages source repo (public while using free Pages hosting — see note below)
 - **Supabase:** project `ylceljdbapxeynyqphcr` (JP Atlas), tables prefixed `ko_sprint_*`
 - **Audio:** Supabase Storage bucket `ko-sprint` (public read)
 
