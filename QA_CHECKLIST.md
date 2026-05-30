@@ -13,7 +13,8 @@
 - [x] **Security — anonymous** users cannot read items (permission denied), cannot read
       cards/allowlist (empty), cannot insert cards (401).
 - [x] **Storage locked down** — temporary write policies removed; bucket is public-read only.
-- [x] **Pages serves real HTML** at https://bryantanalytics.com/ko-weekend-sprint/ (text/html, app.js as JS).
+- [ ] **DNS + Pages** — after Squarespace DNS is updated, `https://kankoku.focusimmersion.com/`
+      serves the app as real HTML.
 - [x] **Writing module local QA** — mocked logged-in iPhone flow renders 40 writing tiles,
       opens ㄱ stroke animation, mounts trace canvas, opens a syllable-block canvas, and logs
       zero JS errors.

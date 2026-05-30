@@ -4,8 +4,14 @@ A small, private Korean learning app — Hangul sound board, the top **300 words
 (each with 3 example sentences), native-Korean **audio** on every item, and an
 **FSRS-6** spaced-repetition review that tracks each user separately.
 
-**Live app:** https://bryantanalytics.com/ko-weekend-sprint/
-(also reachable at https://michaelbryant1.github.io/ko-weekend-sprint/ — it redirects to the line above)
+**Live app:** https://kankoku.focusimmersion.com/
+
+DNS must point `kankoku.focusimmersion.com` to GitHub Pages before the URL
+works. In Squarespace DNS, add:
+
+```text
+CNAME  kankoku  MichaelBryant1.github.io
+```
 
 ---
 
@@ -17,10 +23,9 @@ on phones. Do these once in the **JP Atlas** Supabase project
 
 ### 1. Allow the app URL (required — makes the email link work)
 Dashboard → **Authentication → URL Configuration**
-- **Site URL:** `https://bryantanalytics.com/ko-weekend-sprint/`
+- **Site URL:** `https://kankoku.focusimmersion.com/`
 - **Redirect URLs → Add:**
-  - `https://bryantanalytics.com/ko-weekend-sprint/**`
-  - `https://michaelbryant1.github.io/ko-weekend-sprint/**`
+  - `https://kankoku.focusimmersion.com/**`
 
 With this set, a friend enters their email, taps the **link** in the email on
 their phone, and the app opens already signed in.

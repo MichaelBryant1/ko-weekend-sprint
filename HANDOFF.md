@@ -3,16 +3,17 @@
 Built in one session. Private Korean learning app for Michael + friends.
 
 ## Live
-- **App:** https://bryantanalytics.com/ko-weekend-sprint/
+- **App:** https://kankoku.focusimmersion.com/
 - **Repo:** https://github.com/MichaelBryant1/ko-weekend-sprint (public — see note below)
 - **Supabase:** project `ylceljdbapxeynyqphcr` (JP Atlas), tables prefixed `ko_sprint_*`
 - **Audio:** Supabase Storage bucket `ko-sprint` (public read)
 
 ## 👉 Before friends can use it (you, ~2 min)
 See **README.md §1–3**. Short version:
-1. Auth → URL Configuration → set Site URL + add redirect URLs (the app URL).
-2. (optional) add `{{ .Token }}` to the Magic Link email template for code entry.
-3. `insert into ko_sprint_allowed_users …` for each friend's email.
+1. Squarespace DNS → add `CNAME kankoku MichaelBryant1.github.io`.
+2. Auth → URL Configuration → set Site URL + add redirect URL for `https://kankoku.focusimmersion.com/`.
+3. (optional) add `{{ .Token }}` to the Magic Link email template for code entry.
+4. `insert into ko_sprint_allowed_users …` for each friend's email.
 
 ## Decisions made
 | Decision | Choice | Why |
