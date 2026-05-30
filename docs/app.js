@@ -111,11 +111,11 @@
         ${
           stage === "email"
             ? `<input id="email" type="email" inputmode="email" autocomplete="email" placeholder="you@email.com" value="${esc(email || "")}" />
-               <button class="submit" id="sendBtn">Email me a sign-in link</button>`
-            : `<p style="color:var(--ink-soft);font-size:.9rem">Sent to <b>${esc(email)}</b>.<br><b>Tap the link in that email on this device</b> — it opens the app already signed in.</p>
-               <p style="color:var(--ink-faint);font-size:.8rem;margin:2px 0">Or, if your email shows a 6-digit code:</p>
+               <button class="submit" id="sendBtn">Email me a sign-in code</button>`
+            : `<p style="color:var(--ink-soft);font-size:.9rem">We emailed a <b>6-digit code</b> to <b>${esc(email)}</b>.<br>Enter it below to sign in.</p>
                <input id="code" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="6-digit code" style="letter-spacing:.3em;font-size:1.2rem" />
-               <button class="submit" id="verifyBtn">Enter code</button>
+               <button class="submit" id="verifyBtn">Sign in</button>
+               <p style="color:var(--ink-faint);font-size:.78rem;margin:6px 0 2px">On this phone you can also tap the link in that email.</p>
                <button id="backBtn" style="color:var(--ink-soft);font-size:.85rem">Use a different email</button>`
         }
         <div class="auth-msg ${msgClass || ""}" id="authMsg">${esc(msg || "")}</div>
