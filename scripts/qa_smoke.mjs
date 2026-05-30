@@ -2,7 +2,7 @@ import { createRequire } from "module";
 const require = createRequire("C:/Users/Micha/Downloads/bonkish-cavern-run/node_modules/index.js");
 const { chromium, devices } = require("playwright");
 
-const URL = "https://bryantanalytics.com/ko-weekend-sprint/";
+const URL = "https://kankoku.focusimmersion.com/";
 const errors = [];
 const browser = await chromium.launch();
 const ctx = await browser.newContext({ ...devices["iPhone 12"] });

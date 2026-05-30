@@ -10,7 +10,8 @@ Built in one session. Private Korean learning app for Focus Immersion and invite
 
 ## 👉 Before friends can use it (you, ~2 min)
 See **README.md §1–3**. Short version:
-1. Squarespace DNS → add `CNAME kankoku MichaelBryant1.github.io`.
+1. Squarespace DNS → add GitHub Pages `A` records for `kankoku`:
+   `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.
 2. Auth → URL Configuration → set Site URL + add redirect URL for `https://kankoku.focusimmersion.com/`.
 3. (optional) add `{{ .Token }}` to the Magic Link email template for code entry.
 4. `insert into ko_sprint_allowed_users …` for each friend's email.

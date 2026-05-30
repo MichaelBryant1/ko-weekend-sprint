@@ -7,10 +7,13 @@ A small, private Korean learning app — Hangul sound board, the top **300 words
 **Live app:** https://kankoku.focusimmersion.com/
 
 DNS must point `kankoku.focusimmersion.com` to GitHub Pages before the URL
-works. In Squarespace DNS, add:
+works. In Squarespace DNS, add these records:
 
 ```text
-CNAME  kankoku  MichaelBryant1.github.io
+A  kankoku  185.199.108.153
+A  kankoku  185.199.109.153
+A  kankoku  185.199.110.153
+A  kankoku  185.199.111.153
 ```
 
 ---
